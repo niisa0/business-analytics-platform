@@ -158,8 +158,18 @@ python -m streamlit run app.py
 
 ## Screenshots
 
-Dashboard screenshots will be added after the final deployment.
+### Dashboard Overview
+![Dashboard Overview](assets/business-platform-overview.png)
+
+### Performance Analysis
+![Performance Analysis](assets/business-platform-performance.png)
+
+### Business Insights
+![Business Insights](assets/business-platform-insights.png)
+
+### Data Quality & Reporting
+![Data Quality and Reporting](assets/business-platform-reporting.png)
 
 ## Live Demo
 
-The live Streamlit application will be added here after deployment.
+[Open the live Streamlit app](https://business-analytics-platform.streamlit.app/)
