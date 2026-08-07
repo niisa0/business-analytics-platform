@@ -1,0 +1,2023 @@
+﻿Order_ID,Order_Date,Region,Category,Product,Quantity,Unit_Price,Unit_Cost,Customer_Segment
+ORD00001,2025-10-09,South,Electronics,Wireless Mouse,1,26.38,12.79,Consumer
+ORD00002,2026-03-09,North,Electronics,Webcam,2,73.52,37.18,Consumer
+ORD00003,2025-08-14,East,Furniture,Desk Lamp,1,51.44,22.33,Consumer
+ORD00004,2025-10-12,North,Home & Kitchen,Storage Set,6,31.98,14.99,Small Business
+ORD00005,2025-09-28,West,Office Supplies,Desk Organizer,10,22.68,10.7,Corporate
+ORD00006,2025-10-28,West,Electronics,Webcam,7,74.55,40.62,Corporate
+ORD00007,2025-10-24,Central,Electronics,Mechanical Keyboard,2,84.66,48.43,Small Business
+ORD00008,2026-01-15,South,Office Supplies,Printer Paper,12,11.55,4.12,Corporate
+ORD00009,2025-06-17,East,Furniture,Standing Desk,5,375.93,253.0,Consumer
+ORD00010,2025-02-02,West,Electronics,Mechanical Keyboard,1,81.79,51.48,Consumer
+ORD00011,2026-05-27,South,Office Supplies,Printer Paper,8,10.43,3.87,Small Business
+ORD00012,2025-09-27,West,Accessories,Backpack,5,67.99,30.33,Consumer
+ORD00013,2025-04-04,West,Furniture,Desk Lamp,3,50.18,24.22,Small Business
+ORD00014,2026-01-30,South,Home & Kitchen,Coffee Maker,5,105.85,59.47,Small Business
+ORD00015,2025-10-01,West,Electronics,Wireless Mouse,3,25.17,12.11,Consumer
+ORD00016,2026-06-04,Central,Office Supplies,Printer Paper,5,11.97,,Small Business
+ORD00017,2026-01-18,West,Furniture,Standing Desk,5,430.44,262.11,Consumer
+ORD00018,2025-04-25,Central,Home & Kitchen,Coffee Maker,5,91.95,54.95,Small Business
+ORD00019,2025-03-29,West,Accessories,Laptop Stand,10,52.59,21.27,Corporate
+ORD00020,2025-09-29,East,Home & Kitchen,Electric Kettle,5,57.5,29.35,Corporate
+ORD00021,2026-02-13,Central,Furniture,Bookshelf,9,159.49,88.77,Corporate
+ORD00022,2025-03-07,South,Furniture,Standing Desk,5,404.7,242.49,Corporate
+ORD00023,2025-03-11,Central,Electronics,Mechanical Keyboard,2,86.94,47.34,Small Business
+ORD00024,2025-05-16,West,Home & Kitchen,Electric Kettle,8,50.37,28.32,Small Business
+ORD00025,2025-04-07,North,Home & Kitchen,Electric Kettle,4,52.12,29.74,Consumer
+ORD00026,2025-03-04,East,Electronics,Wireless Mouse,1,24.24,11.7,Consumer
+ORD00027,2026-03-09,North,Home & Kitchen,Electric Kettle,1,52.45,29.74,Consumer
+ORD00028,2025-02-21,West,Accessories,Laptop Stand,1,54.58,23.55,Consumer
+ORD00029,2026-02-21,East,Furniture,Standing Desk,4,429.19,247.71,Consumer
+ORD00030,2025-09-29,Central,Electronics,USB-C Hub,6,38.17,20.41,Corporate
+ORD00031,2026-05-14,North,Accessories,Backpack,1,70.44,31.64,Consumer
+ORD00032,2025-02-21,East,Office Supplies,Notebook Set,5,15.22,6.45,Consumer
+ORD00033,2025-03-12,East,Electronics,Mechanical Keyboard,5,85.06,51.48,Corporate
+ORD00034,2025-02-10,West,Accessories,Laptop Stand,5,50.62,21.8,Consumer
+ORD00035,2025-11-18,South,Office Supplies,Printer Paper,3,11.06,4.28,Consumer
+ORD00036,2025-04-13,North,Electronics,USB-C Hub,3,35.97,18.91,Consumer
+ORD00037,2026-01-14,South,Electronics,Mechanical Keyboard,5,90.16,49.42,Consumer
+ORD00038,2025-11-03,Central,Accessories,Laptop Stand,2,46.44,23.44,Consumer
+ORD00039,2025-10-16,West,Furniture,Bookshelf,5,153.34,93.36,Corporate
+ORD00040,2025-09-15,Central,Accessories,Cable Organizer,2,15.7,5.29,Small Business
+ORD00041,2025-12-08,West,Electronics,Wireless Mouse,6,23.11,12.09,Corporate
+ORD00042,2025-04-25,North,Accessories,Laptop Stand,3,50.43,23.29,Small Business
+ORD00043,2025-06-01,East,Accessories,Backpack,3,74.79,32.66,Consumer
+ORD00044,2025-08-04,West,Electronics,24-inch Monitor,7,225.96,154.42,Corporate
+ORD00045,2025-08-31,Central,Home & Kitchen,Electric Kettle,3,57.01,26.69,Small Business
+ORD00046,2025-09-12,South,Office Supplies,Pen Pack,3,8.97,2.87,Corporate
+ORD00047,2025-07-24,West,Home & Kitchen,Electric Kettle,3,56.37,29.77,Consumer
+ORD00048,2025-07-17,South,Furniture,Office Chair,1,205.97,110.46,Consumer
+ORD00049,2025-12-06,Central,Accessories,Cable Organizer,3,13.29,5.38,Consumer
+ORD00050,2026-03-21,South,Electronics,Webcam,8,74.97,39.64,Corporate
+ORD00051,2025-09-18,North,Home & Kitchen,Electric Kettle,5,57.47,28.56,Consumer
+ORD00052,2026-03-18,North,Furniture,Bookshelf,7,151.47,91.19,Corporate
+ORD00053,2026-06-04,South,Electronics,24-inch Monitor,4,222.48,148.2,Consumer
+ORD00054,2026-01-24,West,Furniture,Desk Lamp,5,48.06,24.34,Small Business
+ORD00055,2025-08-04,East,Office Supplies,Desk Organizer,12,23.63,10.07,Corporate
+ORD00056,2025-06-23,West,Furniture,Desk Lamp,5,47.38,24.3,Consumer
+ORD00057,2025-08-19,West,Furniture,Bookshelf,1,140.5,89.04,Consumer
+ORD00058,2026-03-01,Central,Electronics,USB-C Hub,8,38.72,18.65,Corporate
+ORD00059,2026-03-12,South,Electronics,Wireless Mouse,10,25.32,12.27,Corporate
+ORD00060,2025-05-17,West,Electronics,USB-C Hub,10,39.49,20.4,Corporate
+ORD00061,2026-04-02,Central,Home & Kitchen,Water Bottle,9,22.22,8.38,Corporate
+ORD00062,2025-09-02,South,Office Supplies,Pen Pack,3,8.7,2.98,Consumer
+ORD00063,2025-05-22,North,Accessories,Laptop Stand,2,52.0,21.08,Consumer
+ORD00064,2026-04-23,East,Home & Kitchen,Storage Set,4,33.93,15.75,Consumer
+ORD00065,2026-01-25,East,Electronics,Webcam,5,77.09,41.38,Small Business
+ORD00066,2026-05-15,South,Home & Kitchen,Electric Kettle,1,51.88,29.03,Consumer
+ORD00067,2026-04-24,Central,Home & Kitchen,Electric Kettle,1,57.27,28.75,Small Business
+ORD00068,2026-03-15,North,Electronics,Wireless Mouse,1,24.3,11.91,Consumer
+ORD00069,2025-12-12,West,Home & Kitchen,Storage Set,4,29.76,14.41,Consumer
+ORD00070,2025-12-25,South,Accessories,Laptop Stand,1,48.27,23.62,Consumer
+ORD00071,2025-06-06,South,Electronics,Webcam,1,74.36,38.16,Consumer
+ORD00072,2025-06-21,West,Office Supplies,Desk Organizer,2,25.81,9.71,Small Business
+ORD00073,2025-01-27,Central,Office Supplies,Notebook Set,8,15.99,6.26,Corporate
+ORD00074,2025-09-06,North,Electronics,Webcam,12,74.89,37.66,Corporate
+ORD00075,2025-12-22,East,Accessories,Laptop Stand,3,49.29,21.88,Corporate
+ORD00076,2026-03-20,Central,Home & Kitchen,Coffee Maker,9,100.84,56.37,Corporate
+ORD00077,2025-10-04,West,Accessories,Backpack,8,68.88,32.78,Small Business
+ORD00078,2025-11-27,Central,Accessories,Cable Organizer,2,14.27,5.04,Small Business
+ORD00079,2026-01-24,South,Accessories,Backpack,3,65.03,30.3,Consumer
+ORD00080,2025-10-14,Central,Office Supplies,Desk Organizer,6,24.75,10.17,Corporate
+ORD00081,2025-09-05,West,Furniture,Office Chair,2,195.75,115.8,Consumer
+ORD00082,2025-01-18,North,Home & Kitchen,Water Bottle,2,21.59,8.2,Consumer
+ORD00083,2026-03-12,Central,Home & Kitchen,Storage Set,7,36.06,14.78,Corporate
+ORD00084,2025-05-04,West,Office Supplies,Printer Paper,5,12.21,4.16,Consumer
+ORD00085,2026-05-11,South,Furniture,Standing Desk,10,405.35,274.75,Corporate
+ORD00086,2025-08-21,South,Furniture,Bookshelf,5,137.07,84.12,Consumer
+ORD00087,2025-10-27,West,Electronics,Webcam,4,67.72,37.11,Consumer
+ORD00088,2026-05-06,East,Office Supplies,Pen Pack,1,8.73,,Consumer
+ORD00089,2026-02-15,East,Electronics,Wireless Mouse,12,23.27,11.63,Corporate
+ORD00090,2025-03-29,Central,Accessories,Cable Organizer,4,15.62,5.26,Consumer
+ORD00091,2026-04-07,Central,Furniture,Desk Lamp,5,53.66,22.76,Consumer
+ORD00092,2025-04-12,Central,Accessories,Laptop Stand,2,47.67,21.13,Consumer
+ORD00093,2025-03-18,North,Furniture,Standing Desk,5,395.45,243.33,Consumer
+ORD00094,2026-04-10,North,Office Supplies,Desk Organizer,3,25.86,10.31,Consumer
+ORD00095,2025-04-28,East,Furniture,Desk Lamp,6,52.1,22.06,Corporate
+ORD00096,2025-10-23,East,Furniture,Bookshelf,3,153.69,94.38,Consumer
+ORD00097,2026-05-21,East,Accessories,Backpack,8,72.55,31.88,Corporate
+ORD00098,2025-08-23,Central,Electronics,Wireless Mouse,1,28.0,12.45,Small Business
+ORD00099,2025-06-29,East,Office Supplies,Notebook Set,6,15.3,6.16,Corporate
+ORD00100,2026-04-27,South,Home & Kitchen,Coffee Maker,1,103.7,55.6,Consumer
+ORD00101,2026-02-15,West,Home & Kitchen,Storage Set,9,31.88,14.74,Corporate
+ORD00102,2026-06-11,West,Electronics,USB-C Hub,5,38.47,18.18,Consumer
+ORD00103,2026-05-26,West,Accessories,Cable Organizer,5,14.6,4.84,Corporate
+ORD00104,2026-05-12,North,Office Supplies,Pen Pack,4,9.56,2.97,Small Business
+ORD00105,2026-02-22,North,Electronics,Webcam,2,72.88,37.65,Small Business
+ORD00106,2025-10-26,East,Furniture,Desk Lamp,4,N/A,22.58,Consumer
+ORD00107,2026-01-28,North,Accessories,Laptop Stand,4,53.55,21.69,Corporate
+ORD00108,2026-06-04,South,Home & Kitchen,Storage Set,3,36.97,15.38,Consumer
+ORD00109,2026-04-03,East,Home & Kitchen,Electric Kettle,5,55.77,27.97,Consumer
+ORD00110,2025-09-02,East,Office Supplies,Printer Paper,4,10.22,4.19,Consumer
+ORD00111,2025-06-05,East,Home & Kitchen,Water Bottle,5,24.49,7.95,Consumer
+ORD00112,2025-04-13,East,Electronics,USB-C Hub,2,38.08,19.67,Consumer
+ORD00113,2026-04-26,West,Furniture,Office Chair,5,195.83,115.86,Consumer
+ORD00114,2025-11-21,West,Office Supplies,Pen Pack,8,8.93,2.86,Small Business
+ORD00115,2025-04-03,East,Office Supplies,Printer Paper,1,11.1,4.16,Consumer
+ORD00116,2025-11-29,West,Electronics,Wireless Mouse,3,23.67,11.78,Consumer
+ORD00117,2025-06-29,North,Furniture,Standing Desk,4,397.62,261.58,Small Business
+ORD00118,2025-09-18,East,Furniture,Desk Lamp,9,52.81,23.88,Corporate
+ORD00119,2026-03-29,Central,Furniture,Office Chair,5,193.84,112.58,Small Business
+ORD00120,2025-11-06,North,Office Supplies,Pen Pack,4,7.93,3.0,Consumer
+ORD00121,2025-01-23,Central,Office Supplies,Desk Organizer,6,22.12,10.62,Corporate
+ORD00122,2026-05-24,Central,Electronics,Webcam,4,74.98,38.84,Small Business
+ORD00123,2025-05-21,West,Furniture,Bookshelf,1,142.36,88.64,Small Business
+ORD00124,2025-05-15,North,Accessories,Cable Organizer,4,14.33,4.84,Consumer
+ORD00125,2026-06-28,East,Accessories,Cable Organizer,2,14.57,5.29,Consumer
+ORD00126,2025-12-13,West,Home & Kitchen,Storage Set,1,31.79,16.13,Consumer
+ORD00127,2025-04-03,West,Home & Kitchen,Storage Set,5,32.12,14.97,Consumer
+ORD00128,2026-01-16,North,Office Supplies,Pen Pack,1,9.4,3.22,Consumer
+ORD00129,2025-03-06,West,Office Supplies,Printer Paper,3,11.55,3.86,Consumer
+ORD00130,2025-11-08,Central,Electronics,Wireless Mouse,2,25.94,11.61,Consumer
+ORD00131,2025-06-08,Central,Accessories,Cable Organizer,9,15.65,5.36,Corporate
+ORD00132,2026-01-15,South,Office Supplies,Notebook Set,2,17.46,5.78,Consumer
+ORD00133,2025-03-04,South,Office Supplies,Desk Organizer,1,26.64,10.57,Consumer
+ORD00134,2025-01-22,North,Electronics,Mechanical Keyboard,2,91.58,46.88,Consumer
+ORD00135,2025-08-10,West,Accessories,Laptop Stand,2,52.81,22.6,Consumer
+ORD00136,2025-05-14,East,Office Supplies,Printer Paper,3,11.57,3.81,Corporate
+ORD00137,2025-09-01,East,Electronics,24-inch Monitor,3,195.4,151.73,Consumer
+ORD00138,2025-03-07,East,Accessories,Laptop Stand,10,50.9,22.19,Corporate
+ORD00139,2026-06-18,South,Furniture,Office Chair,2,172.45,113.37,Corporate
+ORD00140,2025-04-21,East,Home & Kitchen,Water Bottle,2,24.2,7.93,Small Business
+ORD00141,2025-05-10,South,Furniture,Office Chair,10,196.55,111.95,Corporate
+ORD00142,2025-10-29,East,Accessories,Backpack,3,73.35,29.91,Corporate
+ORD00143,2025-08-09,East,Accessories,Backpack,7,67.17,31.28,Small Business
+ORD00144,2025-11-17,East,Home & Kitchen,Coffee Maker,7,99.97,58.2,Corporate
+ORD00145,2025-04-06,East,Electronics,Wireless Mouse,7,27.06,12.27,Corporate
+ORD00146,2025-12-04,West,Accessories,Backpack,4,74.13,32.36,Consumer
+ORD00147,2025-12-27,North,Accessories,Cable Organizer,2,14.36,4.9,Consumer
+ORD00148,2025-04-28,West,Accessories,Cable Organizer,8,16.34,5.38,Corporate
+ORD00149,2025-01-27,West,Accessories,Backpack,6,62.95,30.55,Corporate
+ORD00150,2025-12-26,North,Office Supplies,Desk Organizer,7,22.35,10.46,Small Business
+ORD00151,2025-08-09,South,Electronics,Webcam,2,71.57,40.71,Consumer
+ORD00152,2025-03-28,Central,Accessories,Backpack,5,63.24,29.78,Consumer
+ORD00153,2026-05-13,West,Home & Kitchen,Water Bottle,2,23.56,7.72,Consumer
+ORD00154,2025-10-18,West,Home & Kitchen,Coffee Maker,10,100.08,53.53,Corporate
+ORD00155,2025-01-08,North,Home & Kitchen,Coffee Maker,3,101.92,55.31,Small Business
+ORD00156,2026-05-25,West,Electronics,Wireless Mouse,4,25.66,11.76,Consumer
+ORD00157,2025-12-29,North,Accessories,Backpack,1,62.17,31.3,Small Business
+ORD00158,2026-02-19,West,Office Supplies,Pen Pack,1,9.01,3.23,Consumer
+ORD00159,2026-01-06,North,Furniture,Desk Lamp,4,48.34,23.05,Small Business
+ORD00160,2025-11-14,West,Electronics,USB-C Hub,2,33.87,19.61,Consumer
+ORD00161,2025-12-26,West,Furniture,Bookshelf,4,128.99,85.28,Corporate
+ORD00162,2025-03-19,North,Accessories,Laptop Stand,9,49.63,22.51,Corporate
+ORD00163,2025-11-27,Central,Accessories,Cable Organizer,4,14.56,5.05,Corporate
+ORD00164,2025-12-27,East,Office Supplies,Notebook Set,4,13.78,5.99,Consumer
+ORD00165,2026-06-04,South,Electronics,Webcam,2,72.72,41.16,Corporate
+ORD00166,2026-05-03,East,Furniture,Bookshelf,8,136.4,,Small Business
+ORD00167,2026-06-01,West,Office Supplies,Notebook Set,4,17.89,6.11,Consumer
+ORD00168,2026-01-08,South,Accessories,Laptop Stand,4,52.67,22.84,Consumer
+ORD00169,2025-03-09,South,Electronics,24-inch Monitor,8,205.13,151.39,Corporate
+ORD00170,2025-12-08,North,Accessories,Laptop Stand,7,46.49,22.78,Corporate
+ORD00171,2025-11-14,East,Furniture,Office Chair,7,196.86,116.16,Corporate
+ORD00172,2026-03-10,East,Accessories,Laptop Stand,3,46.85,21.51,Consumer
+ORD00173,2025-08-20,Central,Home & Kitchen,Electric Kettle,3,56.62,26.97,Consumer
+ORD00174,2026-06-24,North,Accessories,Backpack,5,64.34,30.97,Consumer
+ORD00175,2025-06-19,West,Furniture,Standing Desk,3,411.56,250.12,Consumer
+ORD00176,2026-04-05,South,Home & Kitchen,Storage Set,4,37.43,14.63,Consumer
+ORD00177,2026-04-18,West,Accessories,Cable Organizer,10,15.38,5.38,Corporate
+ORD00178,2025-09-14,,Furniture,Standing Desk,3,402.05,245.65,Consumer
+ORD00179,2025-10-19,North,Accessories,Laptop Stand,4,53.95,21.32,Consumer
+ORD00180,2025-08-16,West,Home & Kitchen,Coffee Maker,1,95.28,56.09,Small Business
+ORD00181,2026-01-31,Central,Office Supplies,Printer Paper,1,10.82,3.85,Consumer
+ORD00182,2025-05-21,North,Office Supplies,Printer Paper,8,11.65,3.87,Small Business
+ORD00183,2025-01-06,Central,Home & Kitchen,Water Bottle,2,23.91,8.17,Consumer
+ORD00184,2026-03-10,North,Accessories,Backpack,3,64.22,30.41,
+ORD00185,2025-03-06,North,Accessories,Cable Organizer,1,15.7,5.12,Small Business
+ORD00186,2026-03-16,North,Furniture,Bookshelf,5,145.48,91.2,Consumer
+ORD00187,2026-01-05,North,Electronics,Webcam,5,77.56,39.62,Consumer
+ORD00188,2026-04-27,North,Electronics,USB-C Hub,3,36.89,18.09,Consumer
+ORD00189,2025-09-04,West,Electronics,24-inch Monitor,11,224.08,144.02,Corporate
+ORD00190,2025-12-13,West,Electronics,24-inch Monitor,4,215.22,146.77,Consumer
+ORD00191,2026-04-14,North,Furniture,Office Chair,2,202.97,111.0,Consumer
+ORD00192,2026-04-30,South,Office Supplies,Pen Pack,5,8.79,3.19,Corporate
+ORD00193,2025-10-07,North,Electronics,24-inch Monitor,4,224.42,154.61,Consumer
+ORD00194,2025-07-11,East,Home & Kitchen,Storage Set,5,33.09,14.41,Consumer
+ORD00195,2026-03-17,West,Home & Kitchen,Coffee Maker,5,93.5,53.78,Small Business
+ORD00196,2026-04-02,West,Office Supplies,Desk Organizer,4,23.77,9.56,Consumer
+ORD00197,2025-10-09,West,Office Supplies,Pen Pack,2,8.42,3.1,Corporate
+ORD00198,2025-02-01,North,Office Supplies,Printer Paper,9,10.2,3.83,Corporate
+ORD00199,2026-01-28,Central,Office Supplies,Desk Organizer,2,25.34,10.73,Consumer
+ORD00200,2025-03-20,East,Office Supplies,Pen Pack,4,8.85,2.96,Consumer
+ORD00201,2025-07-10,East,Electronics,Wireless Mouse,5,23.59,12.61,Consumer
+ORD00202,2025-10-20,West,Home & Kitchen,Electric Kettle,4,49.12,29.7,Small Business
+ORD00203,2026-04-01,Central,Home & Kitchen,Electric Kettle,7,54.79,29.18,Corporate
+ORD00204,2025-10-25,Central,Accessories,Backpack,3,73.35,31.5,Small Business
+ORD00205,2025-05-23,South,Electronics,Mechanical Keyboard,3,87.62,47.9,Consumer
+ORD00206,2025-03-30,North,Accessories,Laptop Stand,4,50.23,23.1,Consumer
+ORD00207,2025-05-09,Central,Accessories,Laptop Stand,9,49.65,22.38,Corporate
+ORD00208,2025-05-13,East,Furniture,Standing Desk,1,423.65,259.43,Small Business
+ORD00209,2025-06-15,South,Office Supplies,Printer Paper,7,12.2,4.07,Corporate
+ORD00210,2025-09-14,North,Office Supplies,Notebook Set,5,15.12,5.94,Small Business
+ORD00211,2026-05-30,West,Accessories,Laptop Stand,11,46.59,22.78,Corporate
+ORD00212,2025-02-12,West,Accessories,Cable Organizer,1,16.65,5.25,Consumer
+ORD00213,2026-03-03,West,Office Supplies,Printer Paper,5,10.76,4.3,Consumer
+ORD00214,2026-02-20,South,Home & Kitchen,Electric Kettle,1,49.48,28.11,Consumer
+ORD00215,2025-12-15,West,Home & Kitchen,Electric Kettle,3,55.34,29.73,Consumer
+ORD00216,2026-06-12,East,Furniture,Bookshelf,4,136.95,88.74,Consumer
+ORD00217,2025-02-21,South,Furniture,Office Chair,5,185.67,120.42,Consumer
+ORD00218,2025-11-17,North,Furniture,Bookshelf,5,139.55,93.66,Consumer
+ORD00219,2026-06-02,East,Electronics,USB-C Hub,5,37.64,18.17,Consumer
+ORD00220,2025-10-20,East,Home & Kitchen,Water Bottle,7,20.83,7.88,Small Business
+ORD00221,2026-01-10,North,Office Supplies,Pen Pack,5,8.63,3.07,Consumer
+ORD00222,2026-06-01,East,Electronics,USB-C Hub,5,40.13,18.34,Consumer
+ORD00223,2026-01-18,West,Electronics,USB-C Hub,3,40.7,18.54,Consumer
+ORD00224,2026-05-28,North,Accessories,Cable Organizer,3,16.21,5.09,Consumer
+ORD00225,2025-12-02,Central,Furniture,Standing Desk,4,405.51,266.76,Consumer
+ORD00226,2025-11-03,East,Office Supplies,Pen Pack,3,9.09,3.23,Consumer
+ORD00227,2026-05-01,South,Electronics,Webcam,11,74.56,40.71,Corporate
+ORD00228,2025-06-24,East,Accessories,Cable Organizer,8,14.24,5.19,Corporate
+ORD00229,2025-04-23,North,Electronics,Webcam,4,68.42,40.55,Consumer
+ORD00230,2025-03-05,West,Home & Kitchen,Water Bottle,5,21.67,8.29,Consumer
+ORD00231,2025-11-18,Central,Accessories,Cable Organizer,5,14.49,4.98,Consumer
+ORD00232,2025-07-16,Central,Office Supplies,Pen Pack,3,8.68,3.23,Consumer
+ORD00233,2025-08-01,West,Office Supplies,Desk Organizer,4,23.75,10.71,Consumer
+ORD00234,2025-05-05,East,Office Supplies,Desk Organizer,4,26.01,10.74,Consumer
+ORD00235,2025-02-13,South,Furniture,Bookshelf,7,160.2,91.1,Corporate
+ORD00236,2025-07-26,West,Home & Kitchen,Electric Kettle,5,55.08,27.1,Consumer
+ORD00237,2025-09-03,South,Accessories,Backpack,10,65.63,30.39,Corporate
+ORD00238,2025-12-05,West,Electronics,USB-C Hub,2,34.75,19.41,Consumer
+ORD00239,2026-05-04,West,Home & Kitchen,Water Bottle,6,21.65,8.27,Corporate
+ORD00240,2025-08-26,East,Electronics,Webcam,2,79.39,37.94,Corporate
+ORD00241,2026-02-11,West,Furniture,Office Chair,3,202.64,106.53,Consumer
+ORD00242,2025-04-20,Central,Accessories,Backpack,4,76.01,31.64,Consumer
+ORD00243,2026-06-01,East,Home & Kitchen,Electric Kettle,1,51.28,29.26,Consumer
+ORD00244,2025-01-15,West,Office Supplies,Printer Paper,11,11.6,3.9,Corporate
+ORD00245,2026-02-20,West,Accessories,Backpack,1,68.01,29.83,Consumer
+ORD00246,2025-11-28,Central,Furniture,Desk Lamp,4,46.21,24.1,Consumer
+ORD00247,2025-09-25,West,Office Supplies,Notebook Set,2,16.86,6.06,Corporate
+ORD00248,2026-05-30,Central,Furniture,Desk Lamp,5,50.79,23.76,Small Business
+ORD00249,2025-08-15,South,Office Supplies,Desk Organizer,2,24.26,10.79,Consumer
+ORD00250,2026-04-28,West,Office Supplies,Pen Pack,5,9.65,3.12,Corporate
+ORD00251,2026-06-23,East,Accessories,Laptop Stand,3,54.07,21.22,Corporate
+ORD00252,2025-07-27,East,Accessories,Backpack,3,74.18,31.23,Consumer
+ORD00253,2025-04-04,Central,Furniture,Desk Lamp,1,48.51,23.38,Consumer
+ORD00254,2026-04-19,West,Home & Kitchen,Coffee Maker,1,94.92,59.14,Consumer
+ORD00255,2025-02-16,East,Furniture,Office Chair,10,206.98,120.01,Corporate
+ORD00256,2025-02-02,South,Electronics,USB-C Hub,2,40.78,20.47,Consumer
+ORD00257,2026-01-27,East,Home & Kitchen,Storage Set,7,33.83,15.58,Small Business
+ORD00258,2025-12-23,North,Accessories,Laptop Stand,7,46.35,22.98,Small Business
+ORD00259,2025-11-02,East,Electronics,Wireless Mouse,8,23.73,12.68,Corporate
+ORD00260,2025-10-10,North,Office Supplies,Printer Paper,2,10.19,4.14,Small Business
+ORD00261,2025-09-04,North,Accessories,Laptop Stand,1,49.46,22.82,Consumer
+ORD00262,2025-02-15,East,Electronics,Mechanical Keyboard,2,91.02,50.44,Consumer
+ORD00263,2025-08-28,West,Furniture,Bookshelf,7,150.15,92.44,Corporate
+ORD00264,2025-11-06,Central,Office Supplies,Printer Paper,4,10.54,3.94,Small Business
+ORD00265,2025-06-29,West,Accessories,Backpack,4,N/A,30.84,Consumer
+ORD00266,2026-03-03,East,Home & Kitchen,Storage Set,2,36.41,15.17,Consumer
+ORD00267,2025-05-28,West,Furniture,Bookshelf,7,161.47,89.98,Small Business
+ORD00268,2025-09-06,South,Furniture,Desk Lamp,1,53.01,24.38,Consumer
+ORD00269,2025-07-15,North,Electronics,Webcam,5,74.92,41.48,Consumer
+ORD00270,2026-05-06,North,Furniture,Standing Desk,5,433.45,242.76,Small Business
+ORD00271,2026-05-06,Central,Furniture,Office Chair,5,184.88,109.88,Corporate
+ORD00272,2026-01-25,East,Office Supplies,Desk Organizer,6,23.34,10.17,Corporate
+ORD00273,2025-04-11,,Home & Kitchen,Water Bottle,7,24.26,7.99,Corporate
+ORD00274,2025-08-15,West,Home & Kitchen,Coffee Maker,5,105.16,57.42,Consumer
+ORD00275,2025-06-06,North,Home & Kitchen,Storage Set,5,36.95,15.22,Consumer
+ORD00276,2026-05-16,Central,Office Supplies,Desk Organizer,9,24.29,10.45,Corporate
+ORD00277,2025-05-24,West,Office Supplies,Printer Paper,5,12.3,4.3,Consumer
+ORD00278,2025-03-18,Central,Accessories,Laptop Stand,2,49.12,23.31,Corporate
+ORD00279,2025-06-04,North,Furniture,Office Chair,3,172.44,115.69,Consumer
+ORD00280,2026-05-15,North,Accessories,Cable Organizer,4,13.84,5.09,Consumer
+ORD00281,2025-01-18,East,Office Supplies,Desk Organizer,8,25.95,10.68,Corporate
+ORD00282,2026-06-21,North,Electronics,Wireless Mouse,5,24.26,11.95,Consumer
+ORD00283,2026-01-18,Central,Home & Kitchen,Coffee Maker,2,106.21,54.84,Consumer
+ORD00284,2025-04-06,East,Electronics,Wireless Mouse,4,23.28,11.41,Consumer
+ORD00285,2026-05-27,Central,Furniture,Office Chair,7,191.14,118.89,Corporate
+ORD00286,2025-02-13,South,Electronics,Webcam,8,70.14,41.74,Small Business
+ORD00287,2025-07-03,Central,Office Supplies,Notebook Set,2,16.6,6.29,Consumer
+ORD00288,2025-11-03,North,Home & Kitchen,Coffee Maker,4,94.08,57.14,Consumer
+ORD00289,2026-05-28,West,Furniture,Office Chair,1,186.37,118.61,Consumer
+ORD00290,2025-12-01,North,Office Supplies,Pen Pack,4,9.11,2.99,Consumer
+ORD00291,2026-01-25,North,Home & Kitchen,Electric Kettle,5,55.26,26.9,Corporate
+ORD00292,2025-06-07,West,Furniture,Desk Lamp,1,45.04,24.67,Consumer
+ORD00293,2025-10-04,North,Home & Kitchen,Storage Set,4,34.33,15.33,Consumer
+ORD00294,2025-01-27,North,Home & Kitchen,Coffee Maker,11,98.76,55.56,Corporate
+ORD00295,2025-10-26,East,Home & Kitchen,Coffee Maker,10,104.6,60.32,Corporate
+ORD00296,2025-06-23,West,Accessories,Backpack,3,66.66,31.44,Consumer
+ORD00297,2026-03-22,South,Electronics,Mechanical Keyboard,1,84.34,51.49,Consumer
+ORD00298,2026-04-14,North,Home & Kitchen,Electric Kettle,4,51.3,28.86,Consumer
+ORD00299,2025-12-09,East,Office Supplies,Pen Pack,3,8.55,3.09,Small Business
+ORD00300,2025-07-01,Central,Home & Kitchen,Storage Set,5,36.28,15.48,Small Business
+ORD00301,2025-11-30,South,Accessories,Laptop Stand,8,44.77,23.57,Corporate
+ORD00302,2025-01-28,Central,Accessories,Laptop Stand,2,49.38,21.73,Consumer
+ORD00303,2026-05-27,North,Electronics,USB-C Hub,3,39.97,19.82,Consumer
+ORD00304,2026-04-05,Central,Home & Kitchen,Coffee Maker,4,97.55,59.92,Consumer
+ORD00305,2026-01-04,West,Home & Kitchen,Coffee Maker,11,99.53,53.82,Corporate
+ORD00306,2025-06-20,West,Furniture,Bookshelf,4,161.44,87.39,Consumer
+ORD00307,2025-01-11,North,Home & Kitchen,Coffee Maker,5,98.0,58.21,Consumer
+ORD00308,2026-01-19,South,Furniture,Desk Lamp,11,50.79,22.3,Corporate
+ORD00309,2025-04-18,South,Electronics,USB-C Hub,2,35.84,20.37,Small Business
+ORD00310,2025-11-16,South,Furniture,Bookshelf,10,139.12,89.05,Corporate
+ORD00311,2025-03-10,South,Home & Kitchen,Storage Set,3,31.43,14.92,Corporate
+ORD00312,not_available,East,Electronics,Mechanical Keyboard,7,87.72,51.58,Corporate
+ORD00313,2025-07-08,North,Furniture,Desk Lamp,8,44.44,23.69,Corporate
+ORD00314,2026-03-16,South,Furniture,Desk Lamp,5,46.83,23.95,Corporate
+ORD00315,2025-04-15,West,Electronics,Webcam,3,70.93,39.37,Consumer
+ORD00316,2026-06-25,Central,Office Supplies,Pen Pack,4,9.38,3.08,Consumer
+ORD00317,2026-04-14,West,Office Supplies,Desk Organizer,6,26.49,10.27,Corporate
+ORD00318,2025-05-01,South,Furniture,Bookshelf,3,153.51,89.44,Consumer
+ORD00319,2026-01-28,East,Home & Kitchen,Electric Kettle,5,55.05,28.95,Consumer
+ORD00320,2026-05-17,South,Furniture,Standing Desk,4,407.11,270.94,Consumer
+ORD00321,2025-05-20,North,Electronics,USB-C Hub,5,38.8,19.27,Consumer
+ORD00322,2026-03-31,East,Home & Kitchen,Water Bottle,1,23.74,7.83,Consumer
+ORD00323,2025-08-19,East,Electronics,24-inch Monitor,4,216.96,152.31,Consumer
+ORD00324,2025-04-27,South,Home & Kitchen,Coffee Maker,3,97.7,58.71,Consumer
+ORD00325,2026-03-12,North,Home & Kitchen,Electric Kettle,4,50.94,30.24,Small Business
+ORD00326,2025-12-23,Central,Home & Kitchen,Storage Set,1,35.86,14.71,Consumer
+ORD00327,2025-12-26,Central,Accessories,Backpack,8,59.68,30.01,Corporate
+ORD00328,2025-12-26,East,Furniture,Office Chair,4,169.23,116.65,Corporate
+ORD00329,2025-05-19,Central,Office Supplies,Notebook Set,2,17.9,6.38,Corporate
+ORD00330,2025-09-13,North,Furniture,Standing Desk,2,418.19,264.67,Consumer
+ORD00331,2025-10-03,West,Home & Kitchen,Electric Kettle,1,54.43,29.8,Consumer
+ORD00332,2026-06-12,West,Electronics,USB-C Hub,7,38.42,19.26,Corporate
+ORD00333,2025-04-06,West,Accessories,Laptop Stand,3,53.41,23.18,Consumer
+ORD00334,2026-03-16,West,Home & Kitchen,Electric Kettle,3,56.45,27.83,Consumer
+ORD00335,2026-05-12,West,Accessories,Laptop Stand,1,45.53,22.69,Small Business
+ORD00336,2025-05-08,Central,Home & Kitchen,Coffee Maker,4,87.41,60.17,Consumer
+ORD00337,2025-11-06,North,Furniture,Standing Desk,5,332.49,254.2,Small Business
+ORD00338,2026-02-10,West,Furniture,Office Chair,5,186.08,107.73,Corporate
+ORD00339,2025-08-07,East,Electronics,Wireless Mouse,2,25.6,12.09,Consumer
+ORD00340,2025-05-04,Central,Electronics,24-inch Monitor,2,213.26,142.07,Consumer
+ORD00341,2025-04-16,South,Electronics,Wireless Mouse,3,24.91,12.67,Small Business
+ORD00342,2025-03-12,East,Furniture,Standing Desk,2,393.13,266.2,Consumer
+ORD00343,2026-03-30,Central,Furniture,Desk Lamp,1,45.5,22.22,Consumer
+ORD00344,2026-03-16,South,Home & Kitchen,Storage Set,3,35.66,14.73,Consumer
+ORD00345,2025-10-19,West,Accessories,Backpack,12,74.47,30.28,Corporate
+ORD00346,2025-07-13,West,Accessories,Backpack,1,73.22,32.65,Consumer
+ORD00347,2026-01-31,North,Furniture,Desk Lamp,5,44.84,24.51,Consumer
+ORD00348,2025-11-21,North,Electronics,24-inch Monitor,7,203.6,150.62,Small Business
+ORD00349,2025-03-11,North,Electronics,Wireless Mouse,1,27.74,12.02,Consumer
+ORD00350,2026-03-10,West,Office Supplies,Pen Pack,5,9.25,2.91,Consumer
+ORD00351,2025-03-22,East,Electronics,24-inch Monitor,2,215.73,145.12,Consumer
+ORD00352,2026-03-24,West,Electronics,24-inch Monitor,1,203.47,155.18,Small Business
+ORD00353,2025-02-26,South,Electronics,USB-C Hub,4,35.87,19.8,Corporate
+ORD00354,2026-05-24,Central,Electronics,Mechanical Keyboard,3,81.04,46.39,Consumer
+ORD00355,2025-01-31,South,Office Supplies,Notebook Set,5,14.92,6.26,Consumer
+ORD00356,2025-03-20,East,Accessories,Backpack,1,69.35,31.73,Consumer
+ORD00357,2025-09-19,West,Office Supplies,Printer Paper,2,10.62,4.06,Small Business
+ORD00358,2025-09-08,North,Electronics,Wireless Mouse,2,23.89,12.9,Consumer
+ORD00359,2026-03-06,South,Electronics,Webcam,3,70.15,37.44,Consumer
+ORD00360,2026-05-30,West,Office Supplies,Notebook Set,2,17.29,6.47,Consumer
+ORD00361,2026-04-22,Central,Home & Kitchen,Coffee Maker,6,93.62,57.23,Corporate
+ORD00362,2025-07-25,South,Electronics,24-inch Monitor,11,203.39,144.69,Corporate
+ORD00363,2025-09-09,North,Home & Kitchen,Electric Kettle,1,50.26,27.86,Small Business
+ORD00364,2025-01-02,West,Electronics,24-inch Monitor,3,197.57,147.74,Consumer
+ORD00365,2026-05-19,Central,Furniture,Desk Lamp,3,50.99,22.13,Small Business
+ORD00366,2026-01-17,East,Furniture,Desk Lamp,11,45.08,22.25,Corporate
+ORD00367,2025-03-05,,Home & Kitchen,Coffee Maker,4,92.94,59.39,Small Business
+ORD00368,2025-11-22,East,Home & Kitchen,Storage Set,2,29.34,15.75,Consumer
+ORD00369,2026-04-06,East,Electronics,Mechanical Keyboard,5,84.29,50.41,Consumer
+ORD00370,2026-04-20,South,Home & Kitchen,Storage Set,2,36.77,14.84,Consumer
+ORD00371,2025-08-09,Central,Accessories,Laptop Stand,1,52.05,23.67,Consumer
+ORD00372,2025-11-03,South,Home & Kitchen,Coffee Maker,1,100.81,59.42,Small Business
+ORD00373,2025-04-07,East,Accessories,Laptop Stand,4,46.27,21.08,Corporate
+ORD00374,2025-07-22,West,Furniture,Standing Desk,1,404.22,250.83,Consumer
+ORD00375,2025-03-08,North,Electronics,Wireless Mouse,4,23.46,12.72,Corporate
+ORD00376,2025-02-13,Central,Office Supplies,Notebook Set,5,16.11,6.27,Consumer
+ORD00377,2026-01-27,West,Home & Kitchen,Coffee Maker,2,104.66,55.2,Consumer
+ORD00378,2025-02-05,West,Home & Kitchen,Electric Kettle,12,50.91,28.1,Corporate
+ORD00379,2025-03-04,North,Accessories,Cable Organizer,4,14.4,5.33,Consumer
+ORD00380,2025-01-20,Central,Accessories,Laptop Stand,7,49.78,23.13,Corporate
+ORD00381,2026-02-02,South,Office Supplies,Desk Organizer,5,23.13,10.66,Consumer
+ORD00382,2026-04-29,East,Office Supplies,Notebook Set,5,17.84,5.78,Corporate
+ORD00383,2025-02-27,West,Furniture,Bookshelf,7,143.69,93.2,Small Business
+ORD00384,2025-08-31,East,Furniture,Standing Desk,7,430.09,243.19,Corporate
+ORD00385,2025-07-12,Central,Office Supplies,Printer Paper,9,11.31,3.89,Corporate
+ORD00386,2025-02-27,South,Electronics,Wireless Mouse,5,25.39,11.92,Consumer
+ORD00387,2025-05-14,South,Accessories,Laptop Stand,3,45.66,21.32,Consumer
+ORD00388,2026-06-23,Central,Furniture,Office Chair,6,196.27,116.04,Small Business
+ORD00389,2025-12-11,South,Accessories,Laptop Stand,2,50.37,22.15,Consumer
+ORD00390,2025-06-28,West,Home & Kitchen,Storage Set,11,36.63,14.69,Corporate
+ORD00391,2026-01-23,South,Accessories,Laptop Stand,4,46.82,20.91,Corporate
+ORD00392,2025-02-03,North,Accessories,Cable Organizer,5,14.46,5.12,Consumer
+ORD00393,2025-12-06,West,Home & Kitchen,Electric Kettle,3,45.07,29.82,Consumer
+ORD00394,2025-01-12,South,Office Supplies,Pen Pack,1,8.91,3.16,Consumer
+ORD00395,2026-01-31,East,Electronics,Wireless Mouse,2,27.42,12.17,Consumer
+ORD00396,2026-01-20,North,Home & Kitchen,Storage Set,5,35.71,15.59,Consumer
+ORD00397,2025-03-17,West,Furniture,Desk Lamp,1,47.22,24.7,Consumer
+ORD00398,2025-06-24,Central,Electronics,24-inch Monitor,1,216.18,154.68,Consumer
+ORD00399,2026-05-10,West,Electronics,24-inch Monitor,2,218.71,145.93,Consumer
+ORD00400,2025-12-06,North,Electronics,Wireless Mouse,5,24.65,12.54,Consumer
+ORD00401,2025-09-01,North,Office Supplies,Desk Organizer,5,26.11,9.7,Consumer
+ORD00402,2026-03-14,North,Office Supplies,Notebook Set,8,15.36,5.72,Small Business
+ORD00403,2025-03-25,East,Furniture,Bookshelf,4,147.06,93.84,Consumer
+ORD00404,2026-02-01,North,Office Supplies,Notebook Set,6,15.32,5.73,Small Business
+ORD00405,2025-09-27,South,Home & Kitchen,Water Bottle,1,20.9,8.32,Consumer
+ORD00406,2025-12-19,West,Electronics,Wireless Mouse,5,N/A,11.5,Consumer
+ORD00407,2026-05-02,East,Accessories,Cable Organizer,3,14.04,5.34,Consumer
+ORD00408,2026-06-14,West,Electronics,Webcam,11,68.36,41.86,Corporate
+ORD00409,2025-06-21,Central,Home & Kitchen,Electric Kettle,4,48.28,26.89,
+ORD00410,2025-06-01,,Home & Kitchen,Electric Kettle,1,48.75,28.63,Consumer
+ORD00411,2025-10-10,East,Accessories,Cable Organizer,1,16.16,5.15,Small Business
+ORD00412,2025-04-26,East,Accessories,Cable Organizer,5,15.55,5.38,Consumer
+ORD00413,2025-04-14,West,Electronics,Wireless Mouse,6,27.39,11.81,Small Business
+ORD00414,2025-02-08,North,Home & Kitchen,Water Bottle,5,22.92,8.32,Consumer
+ORD00415,2025-12-06,West,Electronics,USB-C Hub,4,37.85,20.27,Consumer
+ORD00416,2025-10-15,Central,Office Supplies,Desk Organizer,2,26.75,9.8,Small Business
+ORD00417,2025-11-25,South,Office Supplies,Pen Pack,1,8.47,2.93,Consumer
+ORD00418,2025-02-27,East,Home & Kitchen,Storage Set,3,36.11,,Consumer
+ORD00419,2025-01-30,North,Accessories,Backpack,4,73.94,30.46,Small Business
+ORD00420,2026-01-05,West,Home & Kitchen,Coffee Maker,4,97.0,57.83,Consumer
+ORD00421,2025-09-05,South,Electronics,Wireless Mouse,4,27.8,12.14,Corporate
+ORD00422,2025-12-19,North,Accessories,Cable Organizer,2,13.43,5.0,Small Business
+ORD00423,2025-08-15,West,Accessories,Laptop Stand,6,51.47,22.37,Corporate
+ORD00424,2025-05-16,West,Electronics,USB-C Hub,2,36.66,19.55,Corporate
+ORD00425,2026-03-10,Central,Office Supplies,Desk Organizer,8,23.29,10.11,Small Business
+ORD00426,2026-02-11,East,Accessories,Backpack,3,70.2,31.84,Consumer
+ORD00427,2025-04-21,East,Office Supplies,Desk Organizer,3,25.15,10.62,Consumer
+ORD00428,2025-07-12,North,Office Supplies,Desk Organizer,2,25.95,10.54,Corporate
+ORD00429,2025-11-24,West,Accessories,Cable Organizer,12,15.15,4.94,Corporate
+ORD00430,2025-02-06,East,Home & Kitchen,Water Bottle,4,21.75,8.34,Small Business
+ORD00431,2026-05-03,Central,Accessories,Backpack,10,66.64,30.14,Corporate
+ORD00432,2025-10-28,North,Accessories,Laptop Stand,3,52.19,22.5,Consumer
+ORD00433,2025-04-02,South,Furniture,Bookshelf,3,145.59,93.75,Consumer
+ORD00434,2025-10-29,East,Office Supplies,Desk Organizer,1,26.24,10.26,Consumer
+ORD00435,2026-04-29,Central,Accessories,Laptop Stand,4,50.27,22.08,Consumer
+ORD00436,invalid_date,South,Furniture,Standing Desk,8,369.97,270.84,Small Business
+ORD00437,2026-05-15,South,Furniture,Office Chair,6,193.68,106.47,Small Business
+ORD00438,2025-06-22,East,Office Supplies,Printer Paper,1,10.4,4.03,Consumer
+ORD00439,2026-03-16,Central,Home & Kitchen,Water Bottle,1,22.59,8.36,Consumer
+ORD00440,2026-06-28,North,Electronics,24-inch Monitor,12,224.01,142.02,Corporate
+ORD00441,2025-05-13,North,Office Supplies,Desk Organizer,3,22.88,10.57,Consumer
+ORD00442,2026-04-12,West,Office Supplies,Desk Organizer,7,24.16,10.39,Corporate
+ORD00443,2026-05-17,South,Furniture,Bookshelf,4,N/A,86.17,Consumer
+ORD00444,2025-01-23,East,Furniture,Standing Desk,3,414.27,268.51,
+ORD00445,2025-02-19,East,Home & Kitchen,Storage Set,1,35.72,14.29,Consumer
+ORD00446,2026-03-31,South,Electronics,USB-C Hub,4,40.29,18.56,Consumer
+ORD00447,2026-03-07,West,Electronics,24-inch Monitor,6,219.36,150.96,Corporate
+ORD00448,2026-06-08,West,Home & Kitchen,Coffee Maker,1,102.31,56.82,Consumer
+ORD00449,2025-09-27,Central,Accessories,Laptop Stand,6,51.97,21.74,Small Business
+ORD00450,2026-05-24,Central,Electronics,Webcam,9,71.0,37.06,Corporate
+ORD00451,2026-05-21,North,Electronics,Wireless Mouse,5,23.38,12.53,Consumer
+ORD00452,2026-04-13,Central,Office Supplies,Printer Paper,4,10.23,4.22,Consumer
+ORD00453,2026-01-04,West,Electronics,24-inch Monitor,1,197.19,152.04,Consumer
+ORD00454,2025-05-22,West,Electronics,Wireless Mouse,3,27.47,12.89,Consumer
+ORD00455,2026-01-17,West,Office Supplies,Notebook Set,4,16.0,6.06,Consumer
+ORD00456,2026-03-08,West,Home & Kitchen,Water Bottle,3,20.82,8.36,Corporate
+ORD00457,2026-03-03,Central,Furniture,Office Chair,5,195.3,109.04,Consumer
+ORD00458,2025-01-30,Central,Home & Kitchen,Storage Set,3,34.56,15.2,Small Business
+ORD00459,2025-02-17,North,Home & Kitchen,Water Bottle,2,23.34,8.31,Corporate
+ORD00460,2025-08-18,Central,Accessories,Backpack,7,69.62,32.22,Corporate
+ORD00461,2026-03-20,West,Accessories,Laptop Stand,3,51.58,22.73,Consumer
+ORD00462,2025-01-12,West,Furniture,Office Chair,4,201.72,119.06,Consumer
+ORD00463,2025-11-25,South,Electronics,USB-C Hub,1,36.4,19.41,Small Business
+ORD00464,2026-04-16,East,Furniture,Office Chair,3,201.89,112.91,Corporate
+ORD00465,2025-01-19,North,Electronics,USB-C Hub,5,39.13,20.09,Consumer
+ORD00466,2025-11-08,Central,Accessories,Backpack,12,67.13,33.28,Corporate
+ORD00467,2026-04-11,South,Electronics,Mechanical Keyboard,11,86.24,49.7,Corporate
+ORD00468,2025-04-10,West,Home & Kitchen,Coffee Maker,3,94.15,57.81,Consumer
+ORD00469,2025-04-19,North,Office Supplies,Desk Organizer,2,26.02,10.47,Consumer
+ORD00470,2025-09-18,West,Home & Kitchen,Coffee Maker,4,91.5,59.2,Consumer
+ORD00471,2025-04-21,West,Furniture,Bookshelf,5,136.97,93.8,Consumer
+ORD00472,2026-05-26,,Home & Kitchen,Electric Kettle,10,57.57,29.65,Corporate
+ORD00473,2025-06-27,West,Home & Kitchen,Electric Kettle,4,54.68,28.81,Consumer
+ORD00474,2026-03-05,Central,Office Supplies,Pen Pack,4,8.77,3.23,Small Business
+ORD00475,2025-05-17,North,Office Supplies,Pen Pack,10,8.82,3.12,Corporate
+ORD00476,2025-07-25,North,Office Supplies,Printer Paper,12,10.88,4.15,Corporate
+ORD00477,2025-04-29,West,Furniture,Bookshelf,11,149.95,91.23,Corporate
+ORD00478,2026-03-09,West,Home & Kitchen,Storage Set,1,33.87,14.35,Consumer
+ORD00479,2025-10-01,West,Electronics,Mechanical Keyboard,3,89.82,46.51,Consumer
+ORD00480,2025-07-28,West,Electronics,24-inch Monitor,4,197.5,154.11,Consumer
+ORD00481,2026-02-03,South,Accessories,Laptop Stand,6,51.87,21.03,Corporate
+ORD00482,2026-03-03,Central,Home & Kitchen,Water Bottle,6,24.49,7.66,Small Business
+ORD00483,2026-03-30,West,Office Supplies,Printer Paper,6,11.78,4.08,Small Business
+ORD00484,2025-07-18,South,Accessories,Laptop Stand,1,46.91,21.4,Consumer
+ORD00485,2026-01-22,North,Accessories,Laptop Stand,3,46.35,22.57,Consumer
+ORD00486,2025-12-05,East,Office Supplies,Notebook Set,1,13.77,5.95,Small Business
+ORD00487,2025-11-05,East,Accessories,Backpack,7,60.53,32.3,Corporate
+ORD00488,2026-06-02,North,Furniture,Office Chair,4,173.6,109.62,Consumer
+ORD00489,2025-12-06,South,Furniture,Bookshelf,5,146.16,95.0,Consumer
+ORD00490,2025-12-21,East,Electronics,Wireless Mouse,4,25.9,12.46,Small Business
+ORD00491,2025-09-20,East,Electronics,USB-C Hub,5,41.21,18.98,Consumer
+ORD00492,2026-05-14,North,Accessories,Cable Organizer,4,14.76,4.8,Small Business
+ORD00493,2025-01-08,West,Electronics,Mechanical Keyboard,2,92.9,48.25,Consumer
+ORD00494,2026-03-22,West,Electronics,Mechanical Keyboard,3,78.6,50.07,Small Business
+ORD00495,2025-03-17,North,Electronics,Wireless Mouse,10,23.35,12.68,Corporate
+ORD00496,2026-02-02,East,Office Supplies,Pen Pack,3,8.31,3.11,Consumer
+ORD00497,2025-03-06,West,Accessories,Laptop Stand,3,48.59,22.34,Corporate
+ORD00498,2025-03-30,South,Office Supplies,Desk Organizer,7,23.98,10.36,Small Business
+ORD00499,2025-08-14,North,Home & Kitchen,Electric Kettle,5,50.91,28.91,Consumer
+ORD00500,2025-01-12,East,Office Supplies,Desk Organizer,3,22.28,10.24,Corporate
+ORD00501,2025-11-09,South,Home & Kitchen,Coffee Maker,7,90.06,59.79,Corporate
+ORD00502,2025-07-08,South,Furniture,Standing Desk,4,367.74,264.49,Small Business
+ORD00503,2026-04-18,West,Accessories,Laptop Stand,1,47.54,21.46,Consumer
+ORD00504,2025-12-05,South,Accessories,Cable Organizer,5,13.96,5.15,Corporate
+ORD00505,2026-04-07,South,Office Supplies,Pen Pack,11,8.55,3.07,Corporate
+ORD00506,2025-06-22,North,Office Supplies,Pen Pack,2,9.56,3.1,Consumer
+ORD00507,2025-05-18,West,Office Supplies,Desk Organizer,4,24.3,9.97,Consumer
+ORD00508,2025-04-22,North,Office Supplies,Pen Pack,6,9.83,2.9,Corporate
+ORD00509,2025-09-27,,Accessories,Laptop Stand,3,53.82,23.33,Corporate
+ORD00510,2026-02-19,West,Electronics,Webcam,1,74.18,39.81,Consumer
+ORD00511,2025-06-02,South,Accessories,Cable Organizer,5,16.0,4.94,Consumer
+ORD00512,2026-02-11,South,Home & Kitchen,Coffee Maker,2,103.51,59.07,Consumer
+ORD00513,2025-06-19,West,Accessories,Backpack,2,65.0,33.27,Consumer
+ORD00514,2026-01-03,North,Furniture,Desk Lamp,5,44.76,22.95,Corporate
+ORD00515,2026-06-15,,Electronics,Mechanical Keyboard,4,93.8,51.1,Consumer
+ORD00516,2025-04-16,West,Electronics,24-inch Monitor,3,228.26,142.71,Consumer
+ORD00517,2025-06-28,South,Accessories,Backpack,5,71.45,32.82,Consumer
+ORD00518,2026-01-21,Central,Accessories,Cable Organizer,4,14.86,5.31,Consumer
+ORD00519,2025-01-07,East,Home & Kitchen,Water Bottle,2,21.25,8.14,Consumer
+ORD00520,2025-06-03,North,Office Supplies,Printer Paper,1,11.57,4.02,Consumer
+ORD00521,2026-05-09,West,Office Supplies,Notebook Set,5,15.24,6.35,Consumer
+ORD00522,2025-02-14,North,Electronics,Mechanical Keyboard,4,88.9,45.84,Corporate
+ORD00523,2025-02-27,North,Accessories,Laptop Stand,7,50.95,22.51,Small Business
+ORD00524,2025-03-29,South,Electronics,24-inch Monitor,9,229.63,140.97,Corporate
+ORD00525,2025-07-06,West,Home & Kitchen,Electric Kettle,2,55.37,27.85,Consumer
+ORD00526,2025-08-24,South,Home & Kitchen,Coffee Maker,1,91.24,59.46,Consumer
+ORD00527,2026-03-06,West,Accessories,Backpack,4,69.03,31.93,Corporate
+ORD00528,2026-05-31,West,Electronics,Webcam,2,79.23,39.78,Consumer
+ORD00529,2026-06-19,East,Electronics,USB-C Hub,7,36.7,20.03,Small Business
+ORD00530,2025-04-11,East,Home & Kitchen,Storage Set,2,37.47,14.41,Consumer
+ORD00531,2026-02-23,South,Accessories,Backpack,1,70.42,29.92,Consumer
+ORD00532,2025-07-30,West,Electronics,USB-C Hub,3,35.77,19.1,Consumer
+ORD00533,2025-09-25,Central,Accessories,Cable Organizer,3,15.64,5.39,Consumer
+ORD00534,2026-02-28,East,Home & Kitchen,Electric Kettle,4,51.69,28.62,Corporate
+ORD00535,2025-12-19,West,Office Supplies,Desk Organizer,2,25.52,10.36,Consumer
+ORD00536,2025-04-13,South,Home & Kitchen,Electric Kettle,3,56.17,28.84,Consumer
+ORD00537,2026-02-03,Central,Electronics,Mechanical Keyboard,1,92.2,48.54,Consumer
+ORD00538,2025-04-01,North,Accessories,Cable Organizer,1,15.63,5.22,Consumer
+ORD00539,2025-02-28,Central,Home & Kitchen,Storage Set,8,34.27,14.64,Small Business
+ORD00540,2025-07-19,North,Accessories,Cable Organizer,10,15.9,5.15,Corporate
+ORD00541,2025-09-02,West,Electronics,24-inch Monitor,2,235.07,152.45,Small Business
+ORD00542,2026-02-20,East,Office Supplies,Pen Pack,1,9.93,3.06,Consumer
+ORD00543,2025-12-23,South,Accessories,Backpack,5,70.31,30.23,Corporate
+ORD00544,2025-09-25,North,Accessories,Laptop Stand,5,45.79,21.74,Consumer
+ORD00545,2025-09-21,Central,Electronics,Webcam,11,69.84,39.29,Corporate
+ORD00546,2025-09-07,West,Home & Kitchen,Water Bottle,8,23.24,8.53,Small Business
+ORD00547,2025-04-30,South,Electronics,USB-C Hub,2,40.1,18.62,Consumer
+ORD00548,2025-12-28,East,Office Supplies,Pen Pack,3,8.45,2.89,Consumer
+ORD00549,2025-07-02,East,Office Supplies,Notebook Set,5,15.58,6.44,Consumer
+ORD00550,2025-07-24,South,Furniture,Desk Lamp,3,46.15,22.46,Consumer
+ORD00551,2025-06-09,West,Furniture,Bookshelf,1,153.0,91.19,Consumer
+ORD00552,2025-02-13,Central,Accessories,Laptop Stand,3,49.9,,Consumer
+ORD00553,2026-05-18,North,Accessories,Cable Organizer,10,14.64,4.89,Corporate
+ORD00554,2025-02-25,East,Accessories,Laptop Stand,5,45.4,21.89,Consumer
+ORD00555,2025-05-04,West,Furniture,Desk Lamp,1,44.27,22.48,Consumer
+ORD00556,2025-11-30,South,Accessories,Laptop Stand,3,47.79,21.58,Small Business
+ORD00557,2026-01-10,North,Accessories,Cable Organizer,4,15.9,4.99,Consumer
+ORD00558,2026-04-07,North,Home & Kitchen,Storage Set,5,35.94,15.84,Consumer
+ORD00559,2026-03-19,Central,Office Supplies,Printer Paper,2,11.16,3.81,Consumer
+ORD00560,2025-05-18,Central,Home & Kitchen,Water Bottle,6,23.7,7.91,Small Business
+ORD00561,2025-02-18,South,Accessories,Backpack,2,65.49,30.47,Corporate
+ORD00562,2025-12-09,South,Electronics,USB-C Hub,5,37.92,18.69,Consumer
+ORD00563,2025-07-23,East,Electronics,24-inch Monitor,10,200.53,152.46,Corporate
+ORD00564,2026-06-07,East,Office Supplies,Desk Organizer,3,23.91,9.87,Corporate
+ORD00565,2025-12-12,East,Furniture,Standing Desk,8,389.39,244.62,Corporate
+ORD00566,2025-11-21,West,Furniture,Bookshelf,11,143.65,86.7,Corporate
+ORD00567,2026-02-28,North,Office Supplies,Pen Pack,3,9.59,3.11,Small Business
+ORD00568,2025-06-20,South,Electronics,Mechanical Keyboard,4,87.52,45.76,Consumer
+ORD00569,2025-04-17,South,Home & Kitchen,Coffee Maker,4,93.28,55.0,Consumer
+ORD00570,2025-05-10,North,Office Supplies,Pen Pack,1,8.34,2.99,Small Business
+ORD00571,2026-04-24,Central,Office Supplies,Pen Pack,3,9.27,2.9,Consumer
+ORD00572,2026-04-13,West,Accessories,Laptop Stand,11,49.34,22.73,Corporate
+ORD00573,2025-12-22,East,Accessories,Cable Organizer,1,14.01,4.99,Consumer
+ORD00574,2025-01-01,East,Office Supplies,Notebook Set,4,15.82,6.07,Corporate
+ORD00575,2026-05-04,South,Electronics,USB-C Hub,6,39.5,20.02,Corporate
+ORD00576,2025-07-13,East,Accessories,Cable Organizer,8,14.55,5.21,Corporate
+ORD00577,2025-08-14,South,Home & Kitchen,Water Bottle,2,22.51,8.43,Consumer
+ORD00578,2025-10-06,South,Accessories,Backpack,6,68.18,32.89,Corporate
+ORD00579,2025-10-24,North,Furniture,Standing Desk,4,380.03,262.89,Consumer
+ORD00580,2025-01-20,North,Furniture,Bookshelf,1,138.79,84.77,Small Business
+ORD00581,2026-03-25,West,Office Supplies,Printer Paper,2,10.15,3.91,Consumer
+ORD00582,2026-05-26,Central,Home & Kitchen,Storage Set,1,33.53,15.89,Consumer
+ORD00583,2025-09-30,West,Furniture,Office Chair,4,176.92,119.44,Consumer
+ORD00584,2025-01-13,North,Office Supplies,Pen Pack,5,8.97,3.23,Corporate
+ORD00585,2025-07-23,East,Furniture,Office Chair,10,194.84,109.43,Corporate
+ORD00586,2025-11-27,North,Home & Kitchen,Storage Set,10,33.56,14.74,Corporate
+ORD00587,2025-02-23,Central,Furniture,Bookshelf,1,140.24,88.57,Consumer
+ORD00588,2025-10-10,East,Electronics,Mechanical Keyboard,2,78.35,45.86,Consumer
+ORD00589,2026-01-16,West,Home & Kitchen,Electric Kettle,4,48.79,28.85,Consumer
+ORD00590,2025-12-31,West,Electronics,Wireless Mouse,3,23.59,11.76,Corporate
+ORD00591,2025-07-17,North,Office Supplies,Pen Pack,2,8.73,2.87,Consumer
+ORD00592,2026-05-17,North,Home & Kitchen,Storage Set,3,33.48,15.16,Consumer
+ORD00593,2025-06-14,North,Accessories,Backpack,3,73.7,31.63,Consumer
+ORD00594,2026-06-03,South,Home & Kitchen,Coffee Maker,1,99.17,55.85,Consumer
+ORD00595,2025-11-25,West,Accessories,Laptop Stand,10,51.43,21.44,Corporate
+ORD00596,2025-10-17,South,Accessories,Laptop Stand,3,46.02,22.78,Corporate
+ORD00597,2025-07-02,Central,Electronics,Mechanical Keyboard,4,81.46,45.8,Consumer
+ORD00598,2026-06-23,West,Home & Kitchen,Water Bottle,2,21.85,8.23,Corporate
+ORD00599,2025-08-02,West,Electronics,Wireless Mouse,2,25.34,12.4,Small Business
+ORD00600,2026-01-13,West,Office Supplies,Pen Pack,5,8.76,2.87,Consumer
+ORD00601,2025-03-21,Central,Electronics,24-inch Monitor,2,197.45,142.1,Small Business
+ORD00602,2025-07-17,East,Home & Kitchen,Electric Kettle,2,53.65,28.63,Consumer
+ORD00603,2026-01-02,West,Electronics,Webcam,8,78.95,37.9,Corporate
+ORD00604,2026-06-01,South,Furniture,Desk Lamp,5,48.41,22.9,Consumer
+ORD00605,2026-01-16,East,Office Supplies,Desk Organizer,7,25.0,10.23,Corporate
+ORD00606,2025-09-18,South,Furniture,Desk Lamp,4,44.16,21.95,Consumer
+ORD00607,2026-06-15,North,Office Supplies,Notebook Set,1,15.68,5.87,Small Business
+ORD00608,2025-10-10,Central,Office Supplies,Notebook Set,5,17.68,5.82,Consumer
+ORD00609,2025-12-31,North,Electronics,USB-C Hub,5,34.28,18.68,Consumer
+ORD00610,2025-08-11,West,Accessories,Cable Organizer,9,14.32,5.29,Corporate
+ORD00611,2025-11-04,North,Accessories,Laptop Stand,8,44.8,21.06,Corporate
+ORD00612,2026-03-03,Central,Office Supplies,Pen Pack,2,9.63,3.18,Consumer
+ORD00613,2025-02-25,South,Electronics,USB-C Hub,5,39.25,18.86,Consumer
+ORD00614,2025-02-21,West,Furniture,Standing Desk,8,417.52,261.32,Small Business
+ORD00615,2026-03-19,South,Electronics,Mechanical Keyboard,2,83.91,48.57,Consumer
+ORD00616,2026-02-13,South,Electronics,Webcam,4,77.38,37.71,Consumer
+ORD00617,2025-07-22,East,Furniture,Desk Lamp,5,49.55,24.83,Corporate
+ORD00618,2025-09-06,North,Accessories,Laptop Stand,7,51.79,22.55,Corporate
+ORD00619,2026-03-10,South,Electronics,USB-C Hub,3,39.47,18.11,Consumer
+ORD00620,2025-12-25,West,Office Supplies,Printer Paper,8,11.4,4.03,Small Business
+ORD00621,2026-01-18,North,Furniture,Standing Desk,3,367.56,244.06,Corporate
+ORD00622,2025-10-22,North,Accessories,Laptop Stand,3,48.07,22.25,Corporate
+ORD00623,2025-08-05,North,Office Supplies,Printer Paper,3,11.33,4.12,Consumer
+ORD00624,2026-01-21,East,Furniture,Office Chair,2,179.65,107.28,Corporate
+ORD00625,2025-02-24,East,Furniture,Bookshelf,2,144.67,86.7,Small Business
+ORD00626,2025-01-20,South,Office Supplies,Notebook Set,7,15.46,6.0,Small Business
+ORD00627,2026-05-12,Central,Electronics,24-inch Monitor,2,201.55,155.97,Consumer
+ORD00628,2025-01-23,North,Accessories,Backpack,5,67.1,31.04,Small Business
+ORD00629,2025-12-22,West,Furniture,Office Chair,3,170.02,120.64,Consumer
+ORD00630,2026-02-01,Central,Electronics,24-inch Monitor,2,232.85,155.64,Corporate
+ORD00631,2025-12-16,Central,Furniture,Standing Desk,3,402.34,259.51,Corporate
+ORD00632,2025-09-04,East,Furniture,Desk Lamp,3,52.89,22.83,Consumer
+ORD00633,2025-07-31,West,Accessories,Laptop Stand,12,52.92,23.37,Corporate
+ORD00634,2026-03-17,Central,Office Supplies,Printer Paper,3,11.56,4.09,Small Business
+ORD00635,2025-03-11,East,Furniture,Bookshelf,2,138.74,93.2,Small Business
+ORD00636,2025-11-23,Central,Furniture,Office Chair,4,178.19,117.26,Consumer
+ORD00637,2025-07-12,North,Office Supplies,Printer Paper,5,11.48,4.11,Consumer
+ORD00638,2025-08-26,South,Accessories,Laptop Stand,1,51.82,22.26,Consumer
+ORD00639,2026-04-26,West,Accessories,Backpack,4,69.24,30.0,Consumer
+ORD00640,2025-02-03,East,Furniture,Standing Desk,5,432.92,249.63,Small Business
+ORD00641,2025-03-09,North,Furniture,Standing Desk,8,426.44,258.49,Small Business
+ORD00642,2025-09-10,East,Office Supplies,Pen Pack,11,9.6,3.0,Corporate
+ORD00643,2026-06-22,West,Office Supplies,Pen Pack,2,9.22,3.03,Corporate
+ORD00644,2026-06-16,East,Electronics,Mechanical Keyboard,1,87.68,48.82,Small Business
+ORD00645,2025-10-26,East,Electronics,Mechanical Keyboard,5,86.04,48.24,Small Business
+ORD00646,2026-06-14,Central,Accessories,Laptop Stand,4,45.97,22.33,Consumer
+ORD00647,2026-02-07,East,Furniture,Standing Desk,2,394.19,271.97,Consumer
+ORD00648,2025-04-03,South,Furniture,Desk Lamp,4,51.06,,Corporate
+ORD00649,2026-01-07,North,Electronics,USB-C Hub,10,39.61,18.44,Corporate
+ORD00650,2025-02-14,West,Accessories,Cable Organizer,3,14.29,4.84,Small Business
+ORD00651,2025-11-12,South,Electronics,USB-C Hub,9,36.77,18.5,Corporate
+ORD00652,2025-09-17,North,Furniture,Office Chair,4,190.31,106.48,Consumer
+ORD00653,2025-08-11,East,Home & Kitchen,Electric Kettle,4,52.44,28.79,Consumer
+ORD00654,2025-10-12,West,Electronics,Mechanical Keyboard,5,79.03,46.53,Corporate
+ORD00655,2025-05-29,Central,Office Supplies,Notebook Set,11,15.68,6.42,Corporate
+ORD00656,2026-03-03,Central,Electronics,Wireless Mouse,3,26.06,12.48,Consumer
+ORD00657,2025-07-01,Central,Accessories,Backpack,7,75.23,29.83,Corporate
+ORD00658,2026-01-13,Central,Office Supplies,Desk Organizer,7,26.13,9.58,Small Business
+ORD00659,2025-05-05,West,Home & Kitchen,Electric Kettle,5,52.14,27.36,Consumer
+ORD00660,2025-04-22,East,Furniture,Office Chair,2,188.1,116.43,Small Business
+ORD00661,2025-11-21,South,Office Supplies,Pen Pack,11,8.53,2.9,Corporate
+ORD00662,2026-05-25,East,Accessories,Backpack,5,65.73,30.62,Consumer
+ORD00663,2025-05-02,North,Furniture,Office Chair,3,197.49,109.42,Corporate
+ORD00664,2026-02-28,North,Accessories,Cable Organizer,2,13.83,4.88,Consumer
+ORD00665,2025-03-11,South,Office Supplies,Desk Organizer,3,25.76,9.65,Consumer
+ORD00666,2026-02-10,West,Office Supplies,Desk Organizer,2,26.07,9.75,Corporate
+ORD00667,2026-05-01,West,Office Supplies,Pen Pack,9,8.56,3.03,Corporate
+ORD00668,2026-04-19,West,Accessories,Cable Organizer,1,16.31,4.94,Consumer
+ORD00669,2025-08-02,East,Office Supplies,Notebook Set,3,14.93,5.82,Consumer
+ORD00670,2026-01-20,West,Electronics,24-inch Monitor,7,201.07,139.95,Small Business
+ORD00671,2025-02-02,South,Office Supplies,Desk Organizer,2,23.86,10.58,Consumer
+ORD00672,2026-06-22,South,Office Supplies,Printer Paper,1,11.83,4.27,Consumer
+ORD00673,2026-05-10,Central,Home & Kitchen,Coffee Maker,3,104.95,58.53,Consumer
+ORD00674,2025-12-02,North,Accessories,Cable Organizer,3,13.54,4.77,Small Business
+ORD00675,2025-01-05,South,Accessories,Laptop Stand,5,53.62,21.85,Consumer
+ORD00676,2026-06-18,West,Electronics,Wireless Mouse,2,25.89,11.89,Corporate
+ORD00677,2025-07-25,North,Furniture,Bookshelf,3,155.81,91.28,Consumer
+ORD00678,2025-06-11,South,Office Supplies,Printer Paper,5,11.35,3.85,Consumer
+ORD00679,2025-11-23,South,Accessories,Cable Organizer,5,14.45,4.86,Small Business
+ORD00680,2025-02-21,North,Office Supplies,Pen Pack,1,8.47,2.87,Consumer
+ORD00681,2025-07-03,West,Home & Kitchen,Water Bottle,8,22.95,7.92,Small Business
+ORD00682,2026-04-22,East,Furniture,Office Chair,4,173.8,110.92,Consumer
+ORD00683,2025-08-26,Central,Home & Kitchen,Water Bottle,5,21.38,7.98,Consumer
+ORD00684,2025-11-29,East,Furniture,Bookshelf,4,134.56,89.08,Consumer
+ORD00685,2025-05-11,East,Office Supplies,Desk Organizer,1,23.64,10.34,Consumer
+ORD00686,2026-02-15,East,Office Supplies,Pen Pack,2,9.27,3.23,Consumer
+ORD00687,2025-12-15,North,Home & Kitchen,Coffee Maker,8,100.12,56.37,Corporate
+ORD00688,2025-08-30,North,Accessories,Backpack,11,73.94,29.91,Corporate
+ORD00689,2025-11-30,East,Accessories,Cable Organizer,3,14.13,5.01,Small Business
+ORD00690,2025-12-02,East,Accessories,Cable Organizer,3,13.84,4.84,Corporate
+ORD00691,2025-06-02,East,Electronics,Mechanical Keyboard,5,88.02,46.82,Consumer
+ORD00692,2025-11-08,Central,Office Supplies,Desk Organizer,6,25.79,10.26,Small Business
+ORD00693,2025-05-11,Central,Accessories,Cable Organizer,5,16.7,4.75,Consumer
+ORD00694,2025-04-23,Central,Accessories,Cable Organizer,4,15.1,5.13,Small Business
+ORD00695,2026-02-20,South,Office Supplies,Pen Pack,2,9.13,2.92,Consumer
+ORD00696,2026-03-04,North,Home & Kitchen,Storage Set,3,32.19,14.39,Small Business
+ORD00697,2026-05-14,West,Electronics,Mechanical Keyboard,3,79.64,49.61,Small Business
+ORD00698,2026-03-12,West,Home & Kitchen,Water Bottle,4,22.67,8.07,Consumer
+ORD00699,2025-07-10,East,Office Supplies,Printer Paper,4,11.98,3.92,Consumer
+ORD00700,2026-02-25,Central,Accessories,Cable Organizer,2,16.73,5.12,Corporate
+ORD00701,2026-05-09,Central,Office Supplies,Notebook Set,5,17.87,6.47,Consumer
+ORD00702,2026-06-14,North,Office Supplies,Pen Pack,2,8.72,3.1,Small Business
+ORD00703,2025-11-16,West,Electronics,Webcam,1,69.12,39.65,Small Business
+ORD00704,2025-12-28,Central,Office Supplies,Pen Pack,6,8.23,3.12,Corporate
+ORD00705,2025-03-04,West,Office Supplies,Desk Organizer,11,22.33,10.79,Corporate
+ORD00706,2025-10-21,East,Accessories,Laptop Stand,1,53.42,21.69,Consumer
+ORD00707,2025-10-09,Central,Furniture,Bookshelf,1,150.91,94.01,Consumer
+ORD00708,2026-01-14,West,Furniture,Desk Lamp,2,48.82,24.24,Consumer
+ORD00709,2025-03-28,Central,Electronics,24-inch Monitor,4,228.38,151.94,Corporate
+ORD00710,2025-09-01,West,Home & Kitchen,Water Bottle,4,21.17,8.36,Corporate
+ORD00711,2025-09-28,West,Office Supplies,Notebook Set,2,16.2,6.07,Consumer
+ORD00712,2026-01-24,West,Home & Kitchen,Electric Kettle,3,49.35,29.77,Consumer
+ORD00713,2026-04-05,South,Electronics,24-inch Monitor,5,221.88,138.52,Consumer
+ORD00714,2025-12-29,Central,Accessories,Backpack,3,61.07,30.53,Consumer
+ORD00715,2026-04-18,West,Accessories,Cable Organizer,12,15.57,4.88,Corporate
+ORD00716,2025-11-17,East,Office Supplies,Printer Paper,3,9.24,3.85,Corporate
+ORD00717,2025-08-13,West,Home & Kitchen,Storage Set,1,31.44,14.43,Consumer
+ORD00718,2025-08-11,Central,Accessories,Backpack,3,63.73,31.89,Corporate
+ORD00719,2025-04-24,West,Home & Kitchen,Electric Kettle,4,54.71,26.88,Consumer
+ORD00720,2026-03-14,West,Home & Kitchen,Storage Set,7,33.03,15.77,Corporate
+ORD00721,2026-01-27,South,Office Supplies,Notebook Set,5,17.78,5.91,Small Business
+ORD00722,2026-05-19,Central,Home & Kitchen,Coffee Maker,4,90.79,56.78,Consumer
+ORD00723,2025-08-12,West,Furniture,Desk Lamp,4,51.03,22.16,Consumer
+ORD00724,2025-09-14,West,Electronics,Wireless Mouse,4,23.74,12.4,Consumer
+ORD00725,2025-09-30,North,Electronics,USB-C Hub,4,39.33,19.32,Consumer
+ORD00726,2026-03-23,East,Home & Kitchen,Water Bottle,3,22.62,7.6,Corporate
+ORD00727,2026-01-03,South,Home & Kitchen,Coffee Maker,1,99.41,60.18,Consumer
+ORD00728,2025-12-15,North,Electronics,24-inch Monitor,3,199.24,141.08,Consumer
+ORD00729,2025-11-03,West,Home & Kitchen,Electric Kettle,6,49.93,29.82,Small Business
+ORD00730,2025-02-06,North,Furniture,Standing Desk,11,377.4,255.14,Corporate
+ORD00731,2025-11-12,East,Accessories,Backpack,8,70.71,29.52,Small Business
+ORD00732,2026-02-20,North,Office Supplies,Notebook Set,12,16.39,6.43,Corporate
+ORD00733,2025-08-27,Central,Accessories,Laptop Stand,2,N/A,20.95,Consumer
+ORD00734,2025-09-06,West,Accessories,Laptop Stand,2,51.28,23.49,Consumer
+ORD00735,2025-06-24,Central,Electronics,USB-C Hub,1,35.83,19.52,Consumer
+ORD00736,2025-03-06,West,Accessories,Laptop Stand,4,48.26,23.69,Consumer
+ORD00737,2025-05-21,South,Accessories,Backpack,4,72.95,31.84,Small Business
+ORD00738,2025-05-04,South,Office Supplies,Notebook Set,4,16.95,6.13,Corporate
+ORD00739,2025-02-11,North,Home & Kitchen,Electric Kettle,12,54.21,29.43,Corporate
+ORD00740,2025-03-24,North,Electronics,USB-C Hub,1,40.33,19.52,Consumer
+ORD00741,2026-05-03,West,Office Supplies,Pen Pack,3,9.22,3.01,Consumer
+ORD00742,2025-07-04,West,Furniture,Office Chair,3,193.41,117.79,Corporate
+ORD00743,2025-01-05,East,Office Supplies,Pen Pack,5,10.04,,Consumer
+ORD00744,2025-08-13,East,Accessories,Backpack,5,66.32,30.23,Corporate
+ORD00745,2026-05-25,North,Furniture,Desk Lamp,2,44.68,22.94,Corporate
+ORD00746,2025-09-15,South,Furniture,Desk Lamp,9,44.58,24.06,Corporate
+ORD00747,2025-06-11,West,Accessories,Laptop Stand,1,45.77,21.57,Consumer
+ORD00748,2026-03-06,North,Home & Kitchen,Storage Set,7,32.84,14.46,Corporate
+ORD00749,2025-08-31,West,Furniture,Office Chair,7,203.18,107.47,Small Business
+ORD00750,2025-02-25,Central,Accessories,Cable Organizer,5,15.16,5.0,Consumer
+ORD00751,2025-07-18,West,Furniture,Desk Lamp,4,47.38,21.95,Small Business
+ORD00752,2025-10-15,North,Accessories,Laptop Stand,8,49.18,23.07,Small Business
+ORD00753,2025-06-10,West,Furniture,Bookshelf,11,159.66,90.21,Corporate
+ORD00754,2025-03-30,East,Accessories,Laptop Stand,2,50.88,23.29,Consumer
+ORD00755,2026-03-15,West,Office Supplies,Notebook Set,3,16.11,5.87,Consumer
+ORD00756,2025-01-06,East,Accessories,Laptop Stand,4,52.27,22.34,Consumer
+ORD00757,2026-05-06,West,Home & Kitchen,Water Bottle,3,22.23,7.85,Corporate
+ORD00758,2026-02-21,Central,Accessories,Laptop Stand,3,47.42,23.76,Consumer
+ORD00759,2025-11-09,North,Electronics,USB-C Hub,5,38.42,18.11,Consumer
+ORD00760,2025-07-09,West,Furniture,Desk Lamp,4,50.92,21.85,Consumer
+ORD00761,2025-12-07,East,Electronics,USB-C Hub,3,38.56,19.56,Consumer
+ORD00762,2025-12-10,West,Furniture,Office Chair,3,190.18,108.02,Consumer
+ORD00763,2026-01-10,South,Accessories,Laptop Stand,3,50.58,23.11,Corporate
+ORD00764,2025-09-02,East,Furniture,Bookshelf,11,158.66,91.64,Corporate
+ORD00765,2025-12-28,Central,Furniture,Bookshelf,4,132.18,84.32,Consumer
+ORD00766,invalid_date,West,Home & Kitchen,Coffee Maker,10,104.49,56.49,Corporate
+ORD00767,2025-07-12,Central,Office Supplies,Notebook Set,1,15.97,5.84,Consumer
+ORD00768,2025-06-18,South,Electronics,Wireless Mouse,9,23.75,11.72,Corporate
+ORD00769,2026-03-03,Central,Electronics,24-inch Monitor,2,213.1,145.67,Consumer
+ORD00770,2025-07-13,North,Electronics,24-inch Monitor,4,228.27,147.54,Small Business
+ORD00771,2025-12-18,West,Office Supplies,Pen Pack,9,9.2,3.12,Corporate
+ORD00772,2025-11-08,East,Home & Kitchen,Water Bottle,5,19.92,7.87,Small Business
+ORD00773,2025-06-01,South,Office Supplies,Notebook Set,2,16.7,5.83,Consumer
+ORD00774,2025-07-06,Central,Accessories,Cable Organizer,3,14.28,4.83,Small Business
+ORD00775,2026-03-28,South,Office Supplies,Printer Paper,5,11.68,4.15,Consumer
+ORD00776,2026-01-17,East,Office Supplies,Printer Paper,5,10.39,3.81,Small Business
+ORD00777,2026-04-15,Central,Home & Kitchen,Electric Kettle,5,57.99,27.81,Consumer
+ORD00778,2025-10-24,Central,Office Supplies,Pen Pack,11,9.48,3.16,Corporate
+ORD00779,2025-04-26,West,Home & Kitchen,Storage Set,3,35.89,14.48,Small Business
+ORD00780,2025-08-14,,Electronics,USB-C Hub,1,39.58,18.53,Consumer
+ORD00781,2025-10-12,North,Accessories,Laptop Stand,4,51.72,23.64,Consumer
+ORD00782,2025-07-19,East,Accessories,Cable Organizer,10,16.63,5.34,Corporate
+ORD00783,2025-06-01,West,Office Supplies,Pen Pack,4,8.95,2.96,Consumer
+ORD00784,2026-04-02,Central,Office Supplies,Desk Organizer,4,25.64,10.04,Consumer
+ORD00785,2025-06-17,,Home & Kitchen,Storage Set,7,36.23,15.06,Small Business
+ORD00786,2025-03-30,North,Accessories,Backpack,5,75.98,29.72,Consumer
+ORD00787,2025-04-01,North,Accessories,Cable Organizer,6,15.04,5.11,Corporate
+ORD00788,2025-07-24,North,Accessories,Laptop Stand,5,49.89,23.25,Consumer
+ORD00789,2026-05-21,East,Office Supplies,Desk Organizer,1,25.88,9.7,Consumer
+ORD00790,2025-05-08,West,Office Supplies,Pen Pack,7,8.6,3.2,Small Business
+ORD00791,2025-05-03,West,Furniture,Office Chair,1,192.36,111.67,Consumer
+ORD00792,2025-09-22,West,Home & Kitchen,Water Bottle,1,21.88,8.36,Consumer
+ORD00793,2025-06-16,East,Electronics,24-inch Monitor,4,230.09,140.3,Consumer
+ORD00794,2025-10-07,South,Furniture,Office Chair,7,172.0,110.65,Corporate
+ORD00795,not_available,West,Electronics,Webcam,1,74.86,37.9,Consumer
+ORD00796,2025-11-05,South,Office Supplies,Desk Organizer,7,22.14,10.25,Corporate
+ORD00797,2026-06-15,South,Electronics,Mechanical Keyboard,8,83.99,51.28,Corporate
+ORD00798,2025-06-08,East,Electronics,Mechanical Keyboard,2,85.29,51.32,Small Business
+ORD00799,2025-01-18,East,Electronics,Mechanical Keyboard,3,80.56,48.36,Consumer
+ORD00800,2025-12-17,North,Accessories,Backpack,1,59.96,32.9,Consumer
+ORD00801,2025-05-09,North,Furniture,Bookshelf,7,153.43,92.57,Small Business
+ORD00802,2026-05-11,West,Electronics,Wireless Mouse,1,23.16,12.43,Consumer
+ORD00803,2026-04-26,North,Accessories,Laptop Stand,1,48.04,20.93,Consumer
+ORD00804,2025-07-30,East,Electronics,Wireless Mouse,3,23.15,11.63,Consumer
+ORD00805,2025-12-27,North,Office Supplies,Desk Organizer,5,21.15,10.24,Consumer
+ORD00806,2026-06-26,South,Accessories,Laptop Stand,3,46.76,23.06,Consumer
+ORD00807,2025-08-08,Central,Electronics,Wireless Mouse,8,24.83,12.32,Small Business
+ORD00808,2025-07-05,Central,Home & Kitchen,Coffee Maker,7,91.47,54.86,Small Business
+ORD00809,2025-05-07,East,Electronics,24-inch Monitor,4,225.22,151.03,Consumer
+ORD00810,2025-02-11,North,Accessories,Backpack,4,66.42,31.87,Consumer
+ORD00811,2025-08-20,East,Office Supplies,Pen Pack,4,8.62,2.88,Consumer
+ORD00812,2025-07-03,North,Home & Kitchen,Storage Set,12,32.0,15.1,Corporate
+ORD00813,2025-05-27,South,Electronics,Wireless Mouse,3,26.71,12.79,Corporate
+ORD00814,2026-01-08,Central,Furniture,Office Chair,5,201.43,112.29,Consumer
+ORD00815,2026-05-27,South,Furniture,Desk Lamp,11,49.86,24.11,Corporate
+ORD00816,2026-05-03,West,Home & Kitchen,Storage Set,8,34.76,14.54,Small Business
+ORD00817,2025-05-06,South,Home & Kitchen,Coffee Maker,2,87.96,58.57,Consumer
+ORD00818,2025-01-28,Central,Electronics,USB-C Hub,3,36.12,19.59,Consumer
+ORD00819,2026-06-17,West,Electronics,Wireless Mouse,5,24.47,12.18,Corporate
+ORD00820,2025-12-18,West,Accessories,Cable Organizer,1,15.71,4.77,Consumer
+ORD00821,2026-04-06,South,Electronics,USB-C Hub,4,35.23,18.49,Consumer
+ORD00822,2026-05-19,East,Office Supplies,Printer Paper,4,11.19,3.86,Consumer
+ORD00823,2026-05-03,East,Home & Kitchen,Water Bottle,1,21.96,8.11,Consumer
+ORD00824,2025-10-19,South,Home & Kitchen,Storage Set,1,32.15,14.96,Consumer
+ORD00825,2025-12-16,South,Accessories,Laptop Stand,3,45.41,,Consumer
+ORD00826,2025-03-28,Central,Furniture,Bookshelf,3,136.72,85.54,Consumer
+ORD00827,2025-02-08,East,Accessories,Cable Organizer,7,14.6,5.2,Small Business
+ORD00828,2025-11-21,,Accessories,Laptop Stand,5,44.62,22.3,Consumer
+ORD00829,2026-05-24,East,Furniture,Bookshelf,7,138.23,87.03,Corporate
+ORD00830,2026-05-24,West,Home & Kitchen,Electric Kettle,2,56.58,28.55,Small Business
+ORD00831,2025-02-18,South,Office Supplies,Desk Organizer,5,25.08,10.75,Corporate
+ORD00832,2025-12-11,South,Accessories,Laptop Stand,10,48.72,21.5,Corporate
+ORD00833,2026-03-20,West,Office Supplies,Desk Organizer,4,24.01,10.31,Consumer
+ORD00834,2025-01-20,West,Home & Kitchen,Electric Kettle,2,53.84,27.38,Consumer
+ORD00835,2026-06-30,West,Home & Kitchen,Storage Set,7,37.64,15.67,Small Business
+ORD00836,2025-07-25,South,Electronics,Webcam,2,76.99,40.93,Consumer
+ORD00837,2025-11-23,Central,Home & Kitchen,Water Bottle,4,22.25,7.88,Small Business
+ORD00838,2025-08-30,East,Furniture,Bookshelf,2,134.2,92.72,Consumer
+ORD00839,2026-05-13,East,Office Supplies,Pen Pack,1,8.64,2.96,Consumer
+ORD00840,2025-10-12,West,Electronics,24-inch Monitor,1,233.68,146.91,Consumer
+ORD00841,2025-03-27,South,Electronics,Wireless Mouse,1,27.5,12.03,Consumer
+ORD00842,2026-02-11,Central,Office Supplies,Notebook Set,4,15.48,6.15,Corporate
+ORD00843,2026-06-19,West,Accessories,Laptop Stand,10,47.55,23.43,Corporate
+ORD00844,2025-11-17,South,Furniture,Office Chair,8,198.73,117.23,Corporate
+ORD00845,2025-04-20,North,Furniture,Standing Desk,8,390.65,270.86,Small Business
+ORD00846,2026-01-19,West,Electronics,USB-C Hub,5,38.18,19.74,Consumer
+ORD00847,2026-01-07,East,Office Supplies,Printer Paper,3,10.17,4.3,Consumer
+ORD00848,2025-02-25,West,Accessories,Laptop Stand,5,47.56,22.0,Corporate
+ORD00849,2025-08-31,Central,Office Supplies,Notebook Set,4,17.69,6.42,Consumer
+ORD00850,2025-08-30,South,Office Supplies,Notebook Set,3,17.65,6.19,Small Business
+ORD00851,2025-10-08,Central,Home & Kitchen,Coffee Maker,8,96.35,56.21,Small Business
+ORD00852,2025-04-13,West,Office Supplies,Pen Pack,10,8.4,3.01,Corporate
+ORD00853,2025-12-01,East,Accessories,Backpack,1,67.31,30.19,Consumer
+ORD00854,2026-02-15,North,Furniture,Office Chair,5,173.24,108.7,Consumer
+ORD00855,2025-05-14,Central,Accessories,Backpack,7,68.7,32.97,Corporate
+ORD00856,2025-06-27,West,Furniture,Bookshelf,5,139.16,88.34,Small Business
+ORD00857,2026-01-22,Central,Furniture,Desk Lamp,4,44.36,21.92,Small Business
+ORD00858,2025-08-23,Central,Accessories,Backpack,4,66.12,32.88,Small Business
+ORD00859,2026-03-16,West,Electronics,USB-C Hub,3,36.25,19.45,Consumer
+ORD00860,2026-03-22,West,Electronics,Webcam,8,67.95,40.67,Small Business
+ORD00861,2025-10-22,West,Furniture,Bookshelf,4,158.23,90.46,Consumer
+ORD00862,2026-03-05,North,Office Supplies,Printer Paper,2,10.76,3.94,Corporate
+ORD00863,2025-09-12,South,Accessories,Cable Organizer,9,14.06,5.05,Corporate
+ORD00864,2025-08-06,West,Office Supplies,Pen Pack,11,8.74,2.89,
+ORD00865,2025-12-07,Central,Electronics,Wireless Mouse,3,27.89,12.87,Consumer
+ORD00866,2025-02-16,North,Accessories,Backpack,4,66.67,31.04,Consumer
+ORD00867,2025-02-12,East,Office Supplies,Printer Paper,5,11.2,3.98,Consumer
+ORD00868,2025-04-02,South,Home & Kitchen,Electric Kettle,2,50.55,27.74,Consumer
+ORD00869,2025-10-15,West,Furniture,Desk Lamp,5,52.83,22.64,Small Business
+ORD00870,2026-03-23,Central,Office Supplies,Desk Organizer,4,25.75,9.7,Consumer
+ORD00871,2025-07-13,North,Home & Kitchen,Coffee Maker,1,96.33,,Consumer
+ORD00872,2025-04-29,Central,Home & Kitchen,Water Bottle,1,22.18,8.63,Small Business
+ORD00873,2026-04-14,East,Accessories,Cable Organizer,3,14.17,4.81,Small Business
+ORD00874,2025-06-22,West,Office Supplies,Printer Paper,4,11.4,4.31,Small Business
+ORD00875,2025-07-04,East,Accessories,Backpack,4,71.77,33.03,Consumer
+ORD00876,2025-05-05,South,Electronics,24-inch Monitor,3,228.35,140.65,Corporate
+ORD00877,2026-05-07,East,Electronics,USB-C Hub,1,37.46,18.16,Small Business
+ORD00878,2025-11-29,Central,Accessories,Cable Organizer,3,13.92,4.78,Small Business
+ORD00879,2025-03-14,East,Office Supplies,Notebook Set,3,16.0,5.84,Corporate
+ORD00880,2025-01-22,Central,Home & Kitchen,Coffee Maker,4,92.81,58.68,Consumer
+ORD00881,2025-11-02,East,Furniture,Office Chair,3,190.59,115.19,Consumer
+ORD00882,2026-06-09,North,Electronics,24-inch Monitor,4,213.21,148.36,Consumer
+ORD00883,2026-03-09,West,Home & Kitchen,Coffee Maker,8,99.38,53.88,Corporate
+ORD00884,2026-04-20,West,Accessories,Cable Organizer,4,16.59,5.09,Corporate
+ORD00885,2025-10-25,East,Accessories,Laptop Stand,4,48.02,23.71,Consumer
+ORD00886,2026-06-20,East,Office Supplies,Printer Paper,10,10.29,3.82,Corporate
+ORD00887,2026-03-12,East,Electronics,Webcam,5,77.94,38.85,Consumer
+ORD00888,2026-05-31,North,Accessories,Laptop Stand,9,46.84,21.42,Corporate
+ORD00889,2025-03-27,East,Home & Kitchen,Coffee Maker,7,98.56,56.51,Corporate
+ORD00890,2025-12-16,Central,Home & Kitchen,Storage Set,3,32.66,14.4,Small Business
+ORD00891,2026-03-21,East,Office Supplies,Notebook Set,1,14.76,6.21,Consumer
+ORD00892,2026-05-14,South,Home & Kitchen,Water Bottle,11,21.83,8.3,Corporate
+ORD00893,2025-03-31,North,Home & Kitchen,Storage Set,1,36.83,15.61,Consumer
+ORD00894,2025-08-03,East,Furniture,Office Chair,2,186.32,115.52,Consumer
+ORD00895,2025-03-30,South,Accessories,Laptop Stand,4,49.21,21.23,Consumer
+ORD00896,2026-05-12,East,Furniture,Desk Lamp,4,46.09,23.55,Small Business
+ORD00897,2025-12-08,North,Home & Kitchen,Coffee Maker,8,103.22,59.38,Corporate
+ORD00898,2025-10-25,North,Accessories,Backpack,5,70.6,31.91,Consumer
+ORD00899,2025-03-04,East,Home & Kitchen,Electric Kettle,3,53.59,27.57,Consumer
+ORD00900,2025-04-30,East,Home & Kitchen,Water Bottle,6,22.21,8.05,Small Business
+ORD00901,2025-07-16,East,Furniture,Bookshelf,5,139.77,94.0,Consumer
+ORD00902,2025-05-15,Central,Office Supplies,Pen Pack,8,10.01,3.17,Corporate
+ORD00903,2025-06-15,West,Office Supplies,Pen Pack,1,9.48,2.9,Consumer
+ORD00904,2026-05-19,North,Furniture,Standing Desk,4,382.48,249.19,Consumer
+ORD00905,2026-01-03,Central,Electronics,Wireless Mouse,2,23.87,12.74,Consumer
+ORD00906,2025-03-07,South,Accessories,Laptop Stand,2,46.26,21.54,Consumer
+ORD00907,2025-12-30,West,Office Supplies,Desk Organizer,10,22.64,9.7,Corporate
+ORD00908,2025-04-17,West,Accessories,Backpack,8,73.43,33.33,Small Business
+ORD00909,2025-04-15,West,Electronics,Wireless Mouse,1,23.84,11.58,Consumer
+ORD00910,2025-06-10,West,Furniture,Bookshelf,10,147.85,93.56,Corporate
+ORD00911,2025-12-09,West,Furniture,Bookshelf,2,142.75,88.36,Consumer
+ORD00912,2025-12-16,South,Furniture,Desk Lamp,3,44.69,24.11,Consumer
+ORD00913,2026-06-27,East,Furniture,Standing Desk,4,391.05,255.82,Consumer
+ORD00914,2025-01-31,East,Home & Kitchen,Storage Set,10,37.7,14.42,Corporate
+ORD00915,2025-06-18,East,Office Supplies,Pen Pack,1,9.47,3.1,Consumer
+ORD00916,2026-06-17,Central,Accessories,Laptop Stand,5,53.64,22.96,Consumer
+ORD00917,2025-01-09,West,Office Supplies,Desk Organizer,3,25.44,10.08,Small Business
+ORD00918,2025-12-20,Central,Furniture,Desk Lamp,8,46.87,24.48,Corporate
+ORD00919,2026-02-04,West,Accessories,Cable Organizer,4,15.36,5.1,Corporate
+ORD00920,2026-06-08,East,Furniture,Office Chair,2,171.07,119.36,Consumer
+ORD00921,2025-09-22,South,Accessories,Backpack,8,75.98,29.9,Corporate
+ORD00922,2025-09-23,West,Electronics,24-inch Monitor,1,224.98,155.49,Consumer
+ORD00923,2025-01-06,East,Home & Kitchen,Storage Set,4,33.66,14.8,Small Business
+ORD00924,2025-05-24,West,Accessories,Backpack,2,63.99,31.53,Consumer
+ORD00925,2026-04-11,North,Furniture,Bookshelf,8,135.78,84.31,Corporate
+ORD00926,2025-08-08,East,Furniture,Desk Lamp,5,48.03,23.52,Consumer
+ORD00927,2026-05-26,West,Home & Kitchen,Storage Set,8,36.26,15.06,Small Business
+ORD00928,2026-06-02,North,Furniture,Standing Desk,4,434.31,259.26,Corporate
+ORD00929,2025-08-06,East,Accessories,Laptop Stand,2,54.33,21.96,Consumer
+ORD00930,2026-02-23,North,Electronics,Webcam,3,66.82,37.83,Consumer
+ORD00931,2026-01-19,South,Office Supplies,Desk Organizer,2,22.76,10.27,Consumer
+ORD00932,2025-10-18,South,Electronics,24-inch Monitor,9,193.29,148.07,Corporate
+ORD00933,2026-03-04,East,Electronics,Wireless Mouse,4,27.5,12.62,Consumer
+ORD00934,2025-05-22,East,Home & Kitchen,Electric Kettle,4,54.78,27.14,Consumer
+ORD00935,2026-02-24,South,Office Supplies,Notebook Set,6,16.45,6.45,Small Business
+ORD00936,2025-04-01,Central,Home & Kitchen,Storage Set,11,35.56,15.75,Corporate
+ORD00937,2025-03-29,North,Office Supplies,Notebook Set,11,17.14,6.45,Corporate
+ORD00938,2026-05-03,East,Accessories,Laptop Stand,5,46.84,20.95,Consumer
+ORD00939,2026-03-31,North,Furniture,Standing Desk,3,390.14,243.74,Consumer
+ORD00940,2026-03-24,North,Electronics,24-inch Monitor,5,206.53,142.6,Consumer
+ORD00941,2025-06-22,South,Electronics,Wireless Mouse,1,23.77,12.89,Consumer
+ORD00942,2025-11-30,North,Furniture,Office Chair,6,173.79,111.06,Corporate
+ORD00943,2026-01-20,Central,Office Supplies,Desk Organizer,1,23.05,10.48,Small Business
+ORD00944,2026-05-20,East,Accessories,Laptop Stand,1,47.72,21.81,Consumer
+ORD00945,2025-03-09,East,Accessories,Cable Organizer,2,16.54,4.76,Consumer
+ORD00946,2026-13-05,South,Accessories,Backpack,4,66.7,31.09,Corporate
+ORD00947,2025-07-28,West,Electronics,Webcam,5,80.43,,Consumer
+ORD00948,2026-04-08,North,Accessories,Cable Organizer,11,N/A,5.38,Corporate
+ORD00949,2026-05-09,South,Electronics,Wireless Mouse,4,28.0,12.71,Consumer
+ORD00950,2025-02-16,North,Furniture,Bookshelf,1,142.12,88.12,Consumer
+ORD00951,2025-10-14,Central,Electronics,Mechanical Keyboard,5,94.48,47.59,Consumer
+ORD00952,2026-04-09,South,Office Supplies,Desk Organizer,7,23.72,10.1,Corporate
+ORD00953,2025-01-17,Central,Accessories,Cable Organizer,1,15.63,4.75,Consumer
+ORD00954,2026-02-28,East,Electronics,Mechanical Keyboard,9,91.16,48.96,Corporate
+ORD00955,2025-02-01,Central,Electronics,Webcam,9,75.92,38.84,Corporate
+ORD00956,2026-02-01,North,Home & Kitchen,Storage Set,2,32.13,14.97,Corporate
+ORD00957,2025-01-10,South,Furniture,Desk Lamp,3,50.69,23.97,Consumer
+ORD00958,2025-11-07,West,Furniture,Office Chair,4,195.54,106.94,Consumer
+ORD00959,2025-01-08,North,Accessories,Laptop Stand,7,46.17,21.69,Small Business
+ORD00960,2025-06-24,East,Accessories,Cable Organizer,11,15.82,5.14,Corporate
+ORD00961,2025-05-12,West,Furniture,Office Chair,5,201.85,119.23,Consumer
+ORD00962,2025-01-24,Central,Office Supplies,Printer Paper,10,11.47,4.15,Corporate
+ORD00963,2026-03-14,West,Home & Kitchen,Coffee Maker,1,103.62,55.55,Small Business
+ORD00964,2025-05-05,West,Home & Kitchen,Storage Set,3,34.8,14.33,Consumer
+ORD00965,2025-10-12,Central,Furniture,Office Chair,3,170.39,109.23,Consumer
+ORD00966,2025-01-26,Central,Electronics,Webcam,4,80.03,41.7,Consumer
+ORD00967,2025-12-04,South,Furniture,Standing Desk,3,325.74,256.57,Corporate
+ORD00968,2025-09-11,North,Office Supplies,Desk Organizer,3,26.08,10.57,Consumer
+ORD00969,2025-03-16,West,Accessories,Laptop Stand,3,51.21,22.56,Corporate
+ORD00970,2025-02-04,South,Electronics,Wireless Mouse,2,26.91,11.5,Small Business
+ORD00971,2025-11-05,West,Home & Kitchen,Coffee Maker,1,93.2,57.27,Consumer
+ORD00972,2025-04-09,West,Home & Kitchen,Water Bottle,5,23.7,8.25,Consumer
+ORD00973,2026-04-21,West,Home & Kitchen,Water Bottle,2,21.73,8.58,Small Business
+ORD00974,2026-06-14,South,Electronics,USB-C Hub,1,35.05,19.81,Consumer
+ORD00975,2025-05-10,West,Accessories,Laptop Stand,4,49.8,22.68,Consumer
+ORD00976,2025-05-21,West,Furniture,Standing Desk,3,404.39,259.26,Consumer
+ORD00977,2025-05-30,North,Office Supplies,Desk Organizer,3,23.48,10.76,Consumer
+ORD00978,2025-05-29,North,Accessories,Backpack,5,74.24,31.15,Consumer
+ORD00979,2025-07-26,West,Furniture,Standing Desk,4,412.99,274.8,Consumer
+ORD00980,2025-12-06,Central,Accessories,Backpack,7,65.0,31.14,Corporate
+ORD00981,2026-05-23,South,Home & Kitchen,Coffee Maker,2,100.57,56.6,Consumer
+ORD00982,2026-05-08,West,Furniture,Standing Desk,6,421.77,254.71,Small Business
+ORD00983,2025-01-07,South,Home & Kitchen,Electric Kettle,1,53.61,27.12,Consumer
+ORD00984,2026-01-04,North,Home & Kitchen,Electric Kettle,2,50.79,27.4,Consumer
+ORD00985,2025-12-14,Central,Office Supplies,Printer Paper,2,10.08,4.24,Consumer
+ORD00986,2026-01-24,West,Electronics,Mechanical Keyboard,6,94.11,47.5,Small Business
+ORD00987,2026-01-17,West,Furniture,Bookshelf,7,158.87,84.35,Small Business
+ORD00988,2025-07-14,North,Furniture,Standing Desk,3,383.6,256.49,Consumer
+ORD00989,2025-07-13,Central,Furniture,Office Chair,2,182.32,107.18,Consumer
+ORD00990,2026-06-05,Central,Office Supplies,Printer Paper,4,11.72,4.21,Small Business
+ORD00991,2025-06-21,East,Accessories,Laptop Stand,12,52.44,21.97,Corporate
+ORD00992,2025-07-03,South,Accessories,Cable Organizer,4,15.95,5.07,Consumer
+ORD00993,2025-02-07,North,Office Supplies,Pen Pack,8,9.83,3.0,Small Business
+ORD00994,2026-01-22,East,Office Supplies,Pen Pack,6,8.74,2.88,Small Business
+ORD00995,2026-04-01,East,Electronics,24-inch Monitor,1,212.74,149.46,Consumer
+ORD00996,2026-04-24,East,Home & Kitchen,Water Bottle,4,21.63,8.0,Consumer
+ORD00997,2025-08-28,South,Furniture,Desk Lamp,1,46.99,23.35,Consumer
+ORD00998,2025-03-22,West,Accessories,Backpack,2,64.17,30.9,Small Business
+ORD00999,2025-12-08,North,Accessories,Laptop Stand,3,51.57,23.1,Consumer
+ORD01000,2025-09-25,North,Furniture,Standing Desk,3,419.88,255.64,Consumer
+ORD01001,2026-04-29,West,Home & Kitchen,Coffee Maker,3,103.84,54.86,Small Business
+ORD01002,2025-08-28,East,Furniture,Desk Lamp,9,51.1,23.23,Corporate
+ORD01003,2025-07-12,East,Electronics,24-inch Monitor,7,202.0,146.23,
+ORD01004,2026-01-19,North,Accessories,Laptop Stand,5,54.32,20.93,Small Business
+ORD01005,2025-08-19,East,Office Supplies,Desk Organizer,8,25.74,10.4,Corporate
+ORD01006,2025-01-24,East,Office Supplies,Desk Organizer,2,22.82,10.74,Consumer
+ORD01007,2026-01-26,North,Office Supplies,Pen Pack,5,8.98,3.04,Consumer
+ORD01008,2025-11-08,North,Office Supplies,Pen Pack,5,8.26,3.17,Consumer
+ORD01009,2025-07-23,North,Electronics,Mechanical Keyboard,5,81.7,47.42,Small Business
+ORD01010,2026-04-11,North,Accessories,Laptop Stand,2,48.28,23.5,Consumer
+ORD01011,2025-04-24,North,Home & Kitchen,Electric Kettle,1,51.89,29.89,Consumer
+ORD01012,2025-07-30,South,Furniture,Standing Desk,12,395.83,262.26,Corporate
+ORD01013,2026-05-30,West,Office Supplies,Printer Paper,2,10.14,3.87,Consumer
+ORD01014,2025-09-10,East,Electronics,USB-C Hub,8,38.46,19.47,Small Business
+ORD01015,2026-04-13,South,Electronics,24-inch Monitor,5,209.63,153.27,Small Business
+ORD01016,2025-09-13,North,Furniture,Desk Lamp,8,48.56,24.57,Corporate
+ORD01017,2026-02-07,West,Furniture,Office Chair,2,180.33,115.54,Consumer
+ORD01018,2025-08-11,Central,Office Supplies,Notebook Set,5,15.11,5.99,Consumer
+ORD01019,2025-11-30,East,Electronics,Webcam,2,66.72,39.39,Consumer
+ORD01020,2025-12-18,West,Home & Kitchen,Water Bottle,7,19.82,7.86,Small Business
+ORD01021,2026-04-21,East,Furniture,Bookshelf,5,152.45,91.76,Consumer
+ORD01022,2026-04-28,West,Home & Kitchen,Electric Kettle,3,56.56,28.81,Small Business
+ORD01023,2025-05-08,East,Furniture,Bookshelf,1,152.87,83.73,Consumer
+ORD01024,2026-03-28,South,Office Supplies,Printer Paper,1,12.08,4.08,Consumer
+ORD01025,2026-06-20,West,Home & Kitchen,Coffee Maker,3,94.82,55.44,Corporate
+ORD01026,2025-01-05,North,Electronics,Webcam,2,79.62,38.95,Consumer
+ORD01027,2025-04-04,North,Furniture,Standing Desk,1,385.1,248.62,Consumer
+ORD01028,2025-04-09,West,Electronics,Mechanical Keyboard,3,90.51,45.87,Small Business
+ORD01029,2025-12-01,South,Accessories,Laptop Stand,11,46.82,22.45,Corporate
+ORD01030,2025-08-07,North,Electronics,Mechanical Keyboard,1,85.04,47.57,Consumer
+ORD01031,2026-04-15,South,Home & Kitchen,Electric Kettle,6,54.6,27.94,Corporate
+ORD01032,2026-02-25,South,Electronics,Mechanical Keyboard,3,90.31,50.54,Corporate
+ORD01033,2025-09-15,Central,Accessories,Laptop Stand,12,51.9,22.84,Corporate
+ORD01034,2025-06-29,West,Furniture,Bookshelf,6,161.76,91.22,Small Business
+ORD01035,2025-01-19,West,Electronics,24-inch Monitor,8,214.66,151.73,Corporate
+ORD01036,2025-01-14,South,Accessories,Backpack,3,66.76,32.42,Corporate
+ORD01037,2025-03-03,North,Furniture,Office Chair,2,175.81,109.38,Consumer
+ORD01038,2026-03-31,West,Electronics,Mechanical Keyboard,3,83.6,50.51,Consumer
+ORD01039,2026-03-01,West,Electronics,Webcam,1,69.54,40.77,Consumer
+ORD01040,2025-07-30,East,Office Supplies,Printer Paper,4,11.88,4.16,Small Business
+ORD01041,2026-06-18,South,Furniture,Desk Lamp,1,44.78,23.32,Consumer
+ORD01042,2025-05-25,Central,Furniture,Office Chair,2,192.13,118.5,Consumer
+ORD01043,2026-06-04,North,Furniture,Standing Desk,6,371.6,248.8,Corporate
+ORD01044,2025-09-12,South,Home & Kitchen,Electric Kettle,12,49.93,29.74,Corporate
+ORD01045,2026-01-04,South,Home & Kitchen,Coffee Maker,4,95.43,57.64,Consumer
+ORD01046,2026-05-09,North,Home & Kitchen,Electric Kettle,1,55.73,29.95,Consumer
+ORD01047,2025-06-06,East,Accessories,Backpack,4,68.87,31.28,Consumer
+ORD01048,2025-03-15,South,Home & Kitchen,Water Bottle,5,20.92,7.8,Corporate
+ORD01049,2026-01-19,East,Electronics,Webcam,7,80.22,38.94,Small Business
+ORD01050,2025-03-14,East,Home & Kitchen,Storage Set,1,33.9,15.35,Consumer
+ORD01051,2025-09-19,West,Furniture,Desk Lamp,7,49.05,23.31,Corporate
+ORD01052,2026-01-30,Central,Office Supplies,Notebook Set,5,16.25,6.42,Corporate
+ORD01053,2025-06-01,South,Office Supplies,Notebook Set,2,15.53,6.17,Consumer
+ORD01054,2025-04-30,West,Furniture,Office Chair,8,184.91,114.93,Corporate
+ORD01055,2025-07-13,Central,Electronics,Webcam,4,69.88,38.58,Consumer
+ORD01056,2026-01-27,East,Accessories,Backpack,3,64.05,31.76,Corporate
+ORD01057,2025-10-03,West,Office Supplies,Printer Paper,7,11.66,3.8,Small Business
+ORD01058,2025-01-02,North,Furniture,Desk Lamp,8,49.2,23.81,Corporate
+ORD01059,2025-06-30,South,Home & Kitchen,Electric Kettle,5,52.9,28.43,Corporate
+ORD01060,2025-08-06,North,Electronics,USB-C Hub,2,41.11,18.52,Consumer
+ORD01061,2025-04-22,Central,Home & Kitchen,Water Bottle,3,20.62,7.73,Consumer
+ORD01062,2025-01-31,East,Electronics,24-inch Monitor,1,193.6,142.77,Consumer
+ORD01063,2025-02-12,North,Electronics,Webcam,1,71.65,,Consumer
+ORD01064,2026-04-30,West,Office Supplies,Pen Pack,7,8.95,3.2,Corporate
+ORD01065,2026-01-05,West,Office Supplies,Printer Paper,1,12.27,4.25,Consumer
+ORD01066,2026-04-13,Central,Electronics,Wireless Mouse,2,23.13,11.59,Consumer
+ORD01067,2025-09-12,South,Accessories,Cable Organizer,12,16.41,5.08,Corporate
+ORD01068,2025-11-26,North,Furniture,Office Chair,1,199.44,117.11,Consumer
+ORD01069,2026-02-14,West,Furniture,Desk Lamp,7,48.27,24.64,Corporate
+ORD01070,2026-01-30,South,Home & Kitchen,Coffee Maker,2,103.93,59.58,Consumer
+ORD01071,2025-05-11,East,Accessories,Laptop Stand,5,54.75,22.24,Consumer
+ORD01072,2026-05-09,West,Home & Kitchen,Coffee Maker,2,90.64,60.07,Consumer
+ORD01073,2026-03-22,Central,Electronics,Wireless Mouse,3,27.51,12.6,Consumer
+ORD01074,2026-05-03,Central,Furniture,Bookshelf,12,137.34,89.72,Corporate
+ORD01075,2025-12-07,Central,Home & Kitchen,Coffee Maker,2,96.82,55.94,Small Business
+ORD01076,2025-08-27,South,Home & Kitchen,Water Bottle,1,20.73,7.95,Consumer
+ORD01077,2025-04-29,East,Accessories,Laptop Stand,3,54.43,22.55,Consumer
+ORD01078,2025-03-05,East,Electronics,24-inch Monitor,4,234.35,143.78,Consumer
+ORD01079,2026-06-17,West,Office Supplies,Printer Paper,3,10.99,4.08,Corporate
+ORD01080,2025-05-29,West,Home & Kitchen,Storage Set,2,34.68,15.14,Consumer
+ORD01081,2025-05-30,West,Accessories,Cable Organizer,1,15.6,4.95,Small Business
+ORD01082,2026-05-05,West,Electronics,24-inch Monitor,3,222.77,144.85,Consumer
+ORD01083,2025-08-04,Central,Office Supplies,Printer Paper,4,11.66,3.83,Small Business
+ORD01084,2026-02-06,South,Furniture,Desk Lamp,4,53.67,23.49,Corporate
+ORD01085,2026-04-30,Central,Office Supplies,Pen Pack,8,8.41,3.13,Corporate
+ORD01086,2026-02-08,North,Office Supplies,Printer Paper,5,12.02,3.83,Consumer
+ORD01087,2025-06-17,East,Office Supplies,Pen Pack,4,8.8,2.91,Consumer
+ORD01088,2025-01-10,,Furniture,Standing Desk,2,411.71,275.02,Small Business
+ORD01089,2026-03-14,West,Furniture,Desk Lamp,1,45.08,24.76,Consumer
+ORD01090,2025-05-01,Central,Furniture,Office Chair,11,186.25,108.56,Corporate
+ORD01091,2025-02-04,North,Home & Kitchen,Electric Kettle,3,55.0,30.07,Consumer
+ORD01092,2026-04-20,Central,Home & Kitchen,Coffee Maker,6,99.41,56.44,Corporate
+ORD01093,2025-04-30,North,Electronics,Wireless Mouse,5,24.12,12.32,Consumer
+ORD01094,2025-10-08,West,Accessories,Cable Organizer,5,14.34,5.06,Consumer
+ORD01095,2025-05-09,North,Home & Kitchen,Storage Set,5,32.54,,Consumer
+ORD01096,2026-06-27,East,Electronics,USB-C Hub,5,39.06,20.07,Consumer
+ORD01097,2025-05-01,North,Electronics,Mechanical Keyboard,4,78.29,48.39,Corporate
+ORD01098,2025-02-10,North,Office Supplies,Notebook Set,2,15.0,5.9,Consumer
+ORD01099,2025-05-08,East,Electronics,Wireless Mouse,5,23.86,12.92,Consumer
+ORD01100,2025-11-04,North,Electronics,Mechanical Keyboard,5,85.63,48.38,Small Business
+ORD01101,2026-06-07,North,Office Supplies,Desk Organizer,1,23.22,9.74,Consumer
+ORD01102,2025-05-18,West,Office Supplies,Printer Paper,3,10.73,4.18,Consumer
+ORD01103,2025-09-19,South,Home & Kitchen,Coffee Maker,4,95.0,53.81,Corporate
+ORD01104,2025-05-27,East,Office Supplies,Pen Pack,3,10.07,3.12,
+ORD01105,2026-06-08,West,Furniture,Bookshelf,2,142.57,92.61,Consumer
+ORD01106,2025-09-11,North,Home & Kitchen,Coffee Maker,1,100.4,56.16,Consumer
+ORD01107,2026-01-07,Central,Office Supplies,Notebook Set,4,17.5,5.88,Corporate
+ORD01108,2026-01-22,Central,Electronics,Wireless Mouse,1,26.91,11.59,Consumer
+ORD01109,2025-11-10,East,Accessories,Backpack,3,68.81,32.27,Corporate
+ORD01110,2025-04-12,Central,Accessories,Cable Organizer,4,14.34,5.27,Consumer
+ORD01111,2026-02-17,East,Accessories,Backpack,1,71.9,32.32,Consumer
+ORD01112,2026-01-23,East,Furniture,Standing Desk,3,413.99,250.51,Consumer
+ORD01113,2026-04-14,North,Accessories,Cable Organizer,8,15.31,4.93,Small Business
+ORD01114,2025-11-09,West,Home & Kitchen,Electric Kettle,3,47.33,27.74,Consumer
+ORD01115,2025-09-03,Central,Electronics,Wireless Mouse,1,23.42,11.85,Consumer
+ORD01116,2026-03-11,West,Home & Kitchen,Coffee Maker,3,96.51,56.95,Small Business
+ORD01117,2025-05-08,East,Accessories,Backpack,2,72.27,32.28,Corporate
+ORD01118,2026-06-25,West,Office Supplies,Printer Paper,4,12.24,4.15,Consumer
+ORD01119,2025-06-29,North,Accessories,Laptop Stand,6,54.41,22.11,Small Business
+ORD01120,2026-01-18,Central,Home & Kitchen,Electric Kettle,2,56.49,29.7,Consumer
+ORD01121,2025-11-03,East,Electronics,24-inch Monitor,1,206.66,148.47,Consumer
+ORD01122,2026-04-20,Central,Office Supplies,Notebook Set,1,15.86,6.18,Small Business
+ORD01123,2025-12-29,North,Office Supplies,Desk Organizer,2,22.64,9.51,Consumer
+ORD01124,2026-06-26,East,Furniture,Office Chair,1,203.99,106.5,Consumer
+ORD01125,2026-04-27,South,Office Supplies,Printer Paper,4,12.08,4.08,Consumer
+ORD01126,2026-03-26,West,Office Supplies,Notebook Set,2,15.85,6.04,Consumer
+ORD01127,2025-04-24,North,Office Supplies,Printer Paper,4,11.05,3.97,Consumer
+ORD01128,2025-07-23,Central,Electronics,Mechanical Keyboard,5,80.22,48.65,Small Business
+ORD01129,2025-11-29,West,Home & Kitchen,Electric Kettle,8,52.23,29.96,Corporate
+ORD01130,2025-04-23,Central,Home & Kitchen,Electric Kettle,4,49.46,28.42,Corporate
+ORD01131,2025-12-17,East,Furniture,Office Chair,2,176.69,110.61,Corporate
+ORD01132,2025-06-06,West,Home & Kitchen,Electric Kettle,3,55.81,29.75,Consumer
+ORD01133,2025-07-23,East,Furniture,Desk Lamp,3,50.89,23.35,Corporate
+ORD01134,2025-06-02,South,Furniture,Standing Desk,1,380.16,248.62,Consumer
+ORD01135,2025-01-19,West,Furniture,Desk Lamp,1,47.81,23.42,Consumer
+ORD01136,2025-12-11,East,Furniture,Standing Desk,4,379.13,252.34,Consumer
+ORD01137,2026-03-05,South,Office Supplies,Desk Organizer,3,22.28,9.57,Small Business
+ORD01138,2025-10-20,East,Office Supplies,Printer Paper,2,11.07,3.93,Small Business
+ORD01139,2025-12-09,South,Home & Kitchen,Storage Set,1,32.8,15.75,Consumer
+ORD01140,2026-06-26,West,Office Supplies,Desk Organizer,3,23.09,10.0,Consumer
+ORD01141,2025-05-04,North,Electronics,Mechanical Keyboard,4,81.48,48.38,Small Business
+ORD01142,2025-12-18,South,Electronics,Wireless Mouse,2,23.43,11.64,Consumer
+ORD01143,2025-12-22,Central,Home & Kitchen,Storage Set,1,35.29,,Consumer
+ORD01144,2025-06-20,East,Accessories,Laptop Stand,4,47.92,23.63,Corporate
+ORD01145,2026-02-12,East,Electronics,Mechanical Keyboard,5,94.72,46.63,Consumer
+ORD01146,2026-02-04,East,Accessories,Cable Organizer,2,13.81,5.12,Consumer
+ORD01147,2025-01-10,Central,Accessories,Backpack,9,69.41,32.35,Corporate
+ORD01148,2025-08-14,South,Office Supplies,Desk Organizer,1,22.9,9.56,Consumer
+ORD01149,2025-02-10,West,Furniture,Bookshelf,5,160.29,86.69,Small Business
+ORD01150,2025-08-04,East,Electronics,Mechanical Keyboard,3,88.96,51.67,Consumer
+ORD01151,2025-09-28,West,Office Supplies,Notebook Set,5,15.66,6.47,Consumer
+ORD01152,2025-08-13,West,Electronics,24-inch Monitor,3,234.01,147.88,Consumer
+ORD01153,2026-01-27,Central,Accessories,Laptop Stand,5,50.48,23.24,Consumer
+ORD01154,2025-10-03,North,Furniture,Bookshelf,8,137.91,86.25,Corporate
+ORD01155,2025-06-01,Central,Home & Kitchen,Storage Set,2,34.4,15.84,Consumer
+ORD01156,2026-05-18,Central,Furniture,Standing Desk,3,360.44,247.65,Consumer
+ORD01157,2025-07-12,North,Furniture,Desk Lamp,2,48.53,23.78,Consumer
+ORD01158,2026-06-24,North,Home & Kitchen,Coffee Maker,2,98.86,55.95,Corporate
+ORD01159,2025-01-14,West,Electronics,Wireless Mouse,2,23.66,12.6,Corporate
+ORD01160,2025-01-14,West,Office Supplies,Printer Paper,1,11.31,4.23,Consumer
+ORD01161,2025-05-23,East,Electronics,Mechanical Keyboard,9,92.06,47.52,Corporate
+ORD01162,2025-09-07,North,Home & Kitchen,Electric Kettle,12,53.49,26.68,Corporate
+ORD01163,2025-10-31,North,Electronics,Wireless Mouse,7,23.71,12.82,Small Business
+ORD01164,2026-03-14,South,Electronics,Mechanical Keyboard,3,82.04,51.08,Consumer
+ORD01165,2026-05-19,North,Home & Kitchen,Coffee Maker,1,105.57,55.25,Consumer
+ORD01166,2025-12-08,North,Electronics,Webcam,2,72.64,40.11,Small Business
+ORD01167,2025-07-05,West,Accessories,Cable Organizer,3,15.67,4.94,Consumer
+ORD01168,2026-05-27,West,Electronics,24-inch Monitor,2,226.33,153.99,Small Business
+ORD01169,2025-11-24,North,Furniture,Standing Desk,4,398.16,246.0,Consumer
+ORD01170,2025-04-03,South,Office Supplies,Printer Paper,4,10.9,4.06,Consumer
+ORD01171,2025-12-08,North,Home & Kitchen,Water Bottle,4,20.92,8.17,Small Business
+ORD01172,2026-01-29,North,Home & Kitchen,Electric Kettle,10,53.85,29.12,Corporate
+ORD01173,2025-08-29,South,Furniture,Office Chair,1,183.61,113.3,Consumer
+ORD01174,2025-03-03,Central,Furniture,Office Chair,2,181.1,108.5,Consumer
+ORD01175,2025-09-06,South,Accessories,Cable Organizer,2,14.15,5.2,Consumer
+ORD01176,2025-01-27,West,Furniture,Desk Lamp,1,50.89,23.83,Consumer
+ORD01177,2025-06-11,North,Electronics,USB-C Hub,1,36.82,18.08,Consumer
+ORD01178,2025-07-06,East,Home & Kitchen,Electric Kettle,5,55.11,27.69,Consumer
+ORD01179,2026-03-31,West,Home & Kitchen,Storage Set,6,32.04,14.37,Corporate
+ORD01180,2025-06-27,East,Electronics,Webcam,4,76.03,41.49,Consumer
+ORD01181,2025-09-22,Central,Accessories,Backpack,2,68.32,30.08,Consumer
+ORD01182,2026-01-22,Central,Electronics,Webcam,2,72.01,37.33,Consumer
+ORD01183,2025-03-21,West,Home & Kitchen,Electric Kettle,3,54.63,28.07,Consumer
+ORD01184,2025-02-25,West,Home & Kitchen,Electric Kettle,5,50.65,26.98,Corporate
+ORD01185,2025-01-29,South,Office Supplies,Desk Organizer,1,22.39,10.28,Consumer
+ORD01186,2025-07-26,West,Office Supplies,Printer Paper,3,10.31,4.1,Consumer
+ORD01187,2026-05-11,North,Electronics,Webcam,3,66.36,38.86,Consumer
+ORD01188,2026-05-28,North,Office Supplies,Pen Pack,7,10.03,3.12,Corporate
+ORD01189,2026-02-22,Central,Electronics,24-inch Monitor,5,227.11,140.58,Consumer
+ORD01190,2026-05-04,East,Accessories,Cable Organizer,5,14.28,5.19,Small Business
+ORD01191,2025-08-26,Central,Electronics,Wireless Mouse,12,23.7,12.52,Corporate
+ORD01192,2026-06-20,Central,Accessories,Backpack,2,67.17,30.9,Consumer
+ORD01193,2026-02-01,South,Home & Kitchen,Coffee Maker,2,105.6,57.33,Small Business
+ORD01194,2025-01-16,North,Home & Kitchen,Coffee Maker,2,96.88,56.51,Small Business
+ORD01195,2025-06-15,North,Furniture,Bookshelf,7,135.99,85.65,Corporate
+ORD01196,2026-04-30,Central,Home & Kitchen,Storage Set,9,35.7,14.52,Corporate
+ORD01197,2026-05-15,North,Electronics,Webcam,7,72.13,40.19,Small Business
+ORD01198,2026-01-11,East,Furniture,Desk Lamp,7,47.75,23.89,Corporate
+ORD01199,2025-09-27,Central,Accessories,Cable Organizer,1,15.66,5.17,Small Business
+ORD01200,2025-06-08,Central,Furniture,Office Chair,2,191.29,118.83,Consumer
+ORD01201,2026-04-19,West,Furniture,Desk Lamp,4,50.33,24.54,Consumer
+ORD01202,2025-03-29,North,Home & Kitchen,Coffee Maker,4,102.0,54.65,Consumer
+ORD01203,2025-11-21,South,Office Supplies,Notebook Set,5,15.75,6.07,Corporate
+ORD01204,2025-06-09,Central,Electronics,Webcam,2,70.85,37.21,Consumer
+ORD01205,2025-03-05,Central,Accessories,Cable Organizer,4,16.74,4.89,Consumer
+ORD01206,2026-03-10,South,Furniture,Office Chair,3,175.44,110.39,
+ORD01207,2026-04-08,Central,Electronics,24-inch Monitor,3,200.93,138.76,Consumer
+ORD01208,2025-11-01,North,Home & Kitchen,Storage Set,4,33.81,15.29,Consumer
+ORD01209,2026-02-03,West,Home & Kitchen,Storage Set,11,32.63,15.66,Corporate
+ORD01210,2025-05-29,South,Accessories,Backpack,6,62.75,33.06,Small Business
+ORD01211,2025-11-21,North,Furniture,Desk Lamp,7,46.63,24.01,Small Business
+ORD01212,2025-04-10,North,Furniture,Desk Lamp,5,48.19,23.48,Corporate
+ORD01213,2025-08-10,South,Furniture,Desk Lamp,1,47.71,22.94,Small Business
+ORD01214,2026-05-30,West,Office Supplies,Desk Organizer,4,25.19,10.09,Consumer
+ORD01215,2025-12-27,West,Home & Kitchen,Storage Set,3,30.22,14.59,Consumer
+ORD01216,2026-03-23,South,Furniture,Standing Desk,7,408.26,265.52,Small Business
+ORD01217,2025-04-17,North,Electronics,Wireless Mouse,4,23.52,12.57,Consumer
+ORD01218,2025-04-13,West,Accessories,Backpack,1,71.64,32.88,Consumer
+ORD01219,2026-04-11,East,Furniture,Standing Desk,4,432.94,253.87,Consumer
+ORD01220,2026-02-10,North,Home & Kitchen,Water Bottle,2,22.47,7.88,Consumer
+ORD01221,2026-03-01,West,Office Supplies,Desk Organizer,4,22.24,9.53,Consumer
+ORD01222,2025-12-10,North,Office Supplies,Desk Organizer,8,21.36,10.77,Corporate
+ORD01223,2026-03-16,North,Home & Kitchen,Coffee Maker,4,95.06,55.52,Corporate
+ORD01224,2025-08-25,North,Furniture,Desk Lamp,10,45.3,23.58,Corporate
+ORD01225,2025-06-12,Central,Home & Kitchen,Storage Set,1,31.45,14.27,Consumer
+ORD01226,2025-01-29,West,Accessories,Laptop Stand,1,50.68,20.97,Consumer
+ORD01227,2026-01-02,North,Furniture,Desk Lamp,5,47.01,23.45,Corporate
+ORD01228,2025-09-24,,Furniture,Desk Lamp,2,50.18,23.76,Consumer
+ORD01229,2025-04-24,East,Accessories,Laptop Stand,3,46.47,21.65,Corporate
+ORD01230,2025-03-21,East,Furniture,Office Chair,2,184.66,113.55,Consumer
+ORD01231,2025-03-17,East,Electronics,USB-C Hub,5,40.18,18.98,Corporate
+ORD01232,2025-06-14,North,Office Supplies,Pen Pack,2,9.47,3.1,Consumer
+ORD01233,2025-12-18,Central,Electronics,Wireless Mouse,5,24.76,11.41,Consumer
+ORD01234,2025-07-17,West,Office Supplies,Notebook Set,5,16.36,5.82,Consumer
+ORD01235,2025-08-11,North,Office Supplies,Notebook Set,1,17.05,6.43,Consumer
+ORD01236,2026-05-09,North,Office Supplies,Desk Organizer,5,25.21,10.11,Consumer
+ORD01237,2026-06-09,Central,Home & Kitchen,Water Bottle,5,21.0,8.31,Small Business
+ORD01238,2025-04-16,East,Office Supplies,Pen Pack,6,8.58,2.93,Corporate
+ORD01239,2026-04-02,East,Home & Kitchen,Water Bottle,7,22.98,8.23,Corporate
+ORD01240,2025-12-28,South,Home & Kitchen,Electric Kettle,3,52.29,29.84,Corporate
+ORD01241,2025-10-28,West,Office Supplies,Pen Pack,6,N/A,2.89,Small Business
+ORD01242,2025-07-10,South,Office Supplies,Pen Pack,3,8.95,3.15,Consumer
+ORD01243,2025-11-23,West,Electronics,Wireless Mouse,5,25.07,12.64,Corporate
+ORD01244,2026-01-30,South,Accessories,Laptop Stand,2,46.09,21.7,Consumer
+ORD01245,2025-03-18,East,Accessories,Backpack,12,72.84,30.73,Corporate
+ORD01246,2025-07-21,North,Office Supplies,Printer Paper,1,12.3,4.02,Consumer
+ORD01247,2025-06-25,West,Electronics,USB-C Hub,5,39.34,18.75,Corporate
+ORD01248,2026-04-18,South,Accessories,Laptop Stand,7,45.44,22.43,Small Business
+ORD01249,2025-12-12,West,Accessories,Laptop Stand,1,49.49,22.09,Consumer
+ORD01250,2026-02-14,North,Office Supplies,Desk Organizer,9,25.02,10.01,Corporate
+ORD01251,2025-05-05,Central,Home & Kitchen,Water Bottle,2,20.37,7.65,Small Business
+ORD01252,2025-04-18,Central,Electronics,Mechanical Keyboard,7,82.05,46.15,Small Business
+ORD01253,2025-02-23,South,Office Supplies,Notebook Set,3,14.87,5.94,Corporate
+ORD01254,2026-01-24,South,Office Supplies,Desk Organizer,2,24.88,9.66,Consumer
+ORD01255,2026-02-28,West,Office Supplies,Printer Paper,10,11.28,4.1,Corporate
+ORD01256,2025-11-26,West,Home & Kitchen,Storage Set,1,30.04,14.83,
+ORD01257,2025-07-30,West,Accessories,Laptop Stand,4,45.67,20.94,Consumer
+ORD01258,2026-01-30,North,Furniture,Desk Lamp,2,51.97,24.13,Consumer
+ORD01259,2025-11-16,West,Accessories,Cable Organizer,10,14.0,4.83,Corporate
+ORD01260,2026-06-10,North,Home & Kitchen,Water Bottle,1,21.46,7.77,Consumer
+ORD01261,2025-05-31,East,Office Supplies,Notebook Set,1,15.49,6.4,Consumer
+ORD01262,2025-01-30,East,Furniture,Bookshelf,3,141.1,94.2,Consumer
+ORD01263,2026-03-18,South,Electronics,24-inch Monitor,4,214.53,138.75,Consumer
+ORD01264,2025-04-11,North,Office Supplies,Desk Organizer,4,23.01,9.75,Consumer
+ORD01265,2026-06-27,West,Furniture,Bookshelf,1,153.15,90.99,Consumer
+ORD01266,2025-04-28,North,Electronics,Mechanical Keyboard,3,82.26,48.92,Consumer
+ORD01267,2026-02-19,South,Office Supplies,Printer Paper,3,11.21,3.89,Consumer
+ORD01268,2025-10-22,West,Furniture,Bookshelf,1,136.13,89.36,Consumer
+ORD01269,2025-11-09,Central,Accessories,Cable Organizer,4,13.55,4.8,Corporate
+ORD01270,2025-01-14,West,Home & Kitchen,Electric Kettle,1,49.69,27.56,Consumer
+ORD01271,2025-01-10,East,Electronics,Mechanical Keyboard,1,86.5,47.14,Small Business
+ORD01272,2025-01-18,East,Electronics,Wireless Mouse,4,25.63,11.66,Small Business
+ORD01273,2025-04-13,South,Furniture,Office Chair,9,188.35,111.51,Corporate
+ORD01274,2026-05-14,South,Accessories,Cable Organizer,3,14.7,4.97,Consumer
+ORD01275,2026-05-11,North,Accessories,Backpack,12,62.84,33.39,Corporate
+ORD01276,2026-01-01,East,Furniture,Standing Desk,4,386.83,266.93,Consumer
+ORD01277,2025-04-21,Central,Furniture,Desk Lamp,8,53.64,24.47,Small Business
+ORD01278,2025-12-24,Central,Furniture,Bookshelf,4,147.79,86.76,
+ORD01279,2025-12-18,Central,Accessories,Backpack,4,65.68,32.64,Consumer
+ORD01280,2026-05-26,Central,Electronics,Wireless Mouse,2,25.62,11.85,Consumer
+ORD01281,2025-06-16,South,Accessories,Backpack,3,62.77,29.62,Consumer
+ORD01282,2025-02-24,East,Office Supplies,Notebook Set,3,16.83,5.7,Consumer
+ORD01283,2025-12-25,Central,Office Supplies,Printer Paper,10,10.6,4.2,Corporate
+ORD01284,2025-05-27,Central,Electronics,24-inch Monitor,5,231.77,143.23,Consumer
+ORD01285,2025-12-30,South,Electronics,USB-C Hub,8,34.73,20.44,Corporate
+ORD01286,2025-11-15,North,Office Supplies,Desk Organizer,3,25.34,9.68,Consumer
+ORD01287,2026-03-03,East,Office Supplies,Printer Paper,1,10.77,4.28,Consumer
+ORD01288,2026-01-20,West,Home & Kitchen,Electric Kettle,2,49.28,28.21,Small Business
+ORD01289,2026-04-25,South,Office Supplies,Desk Organizer,4,24.29,10.69,Consumer
+ORD01290,2025-04-01,West,Electronics,USB-C Hub,6,40.94,19.48,Corporate
+ORD01291,2025-10-28,North,Office Supplies,Printer Paper,3,11.01,3.8,Small Business
+ORD01292,2025-02-25,North,Accessories,Cable Organizer,1,14.8,4.81,Consumer
+ORD01293,2025-12-06,Central,Office Supplies,Pen Pack,5,8.59,3.14,Consumer
+ORD01294,2026-05-23,North,Furniture,Standing Desk,3,382.27,252.56,Small Business
+ORD01295,2025-07-25,North,Electronics,USB-C Hub,5,41.65,19.33,Consumer
+ORD01296,2025-04-17,East,Furniture,Standing Desk,8,389.28,272.95,Small Business
+ORD01297,2026-05-11,Central,Office Supplies,Pen Pack,5,9.76,3.12,Small Business
+ORD01298,2026-03-19,North,Accessories,Laptop Stand,2,53.1,22.78,Consumer
+ORD01299,2026-05-03,East,Furniture,Standing Desk,1,433.61,258.59,Consumer
+ORD01300,2026-01-31,West,Office Supplies,Pen Pack,4,9.74,2.91,Consumer
+ORD01301,2025-05-04,East,Office Supplies,Pen Pack,3,8.34,3.1,Consumer
+ORD01302,2025-02-13,Central,Accessories,Cable Organizer,2,15.2,5.22,Consumer
+ORD01303,2025-06-12,South,Office Supplies,Notebook Set,4,15.84,6.25,Small Business
+ORD01304,2025-06-28,West,Home & Kitchen,Coffee Maker,5,93.85,58.41,Consumer
+ORD01305,2025-11-07,Central,Furniture,Bookshelf,4,139.4,89.0,Consumer
+ORD01306,2026-06-04,West,Accessories,Backpack,2,72.05,31.82,Consumer
+ORD01307,2026-02-18,North,Accessories,Cable Organizer,2,14.5,5.18,Consumer
+ORD01308,2025-11-28,West,Home & Kitchen,Water Bottle,4,20.14,8.52,Small Business
+ORD01309,2025-03-07,North,Home & Kitchen,Water Bottle,1,23.97,7.68,Consumer
+ORD01310,2025-06-28,South,Office Supplies,Notebook Set,8,15.15,6.2,Corporate
+ORD01311,2025-07-20,South,Accessories,Laptop Stand,3,47.29,23.02,Consumer
+ORD01312,2025-03-30,East,Home & Kitchen,Electric Kettle,12,48.84,26.72,Corporate
+ORD01313,2026-01-04,West,Furniture,Office Chair,3,182.81,116.34,Corporate
+ORD01314,2025-07-14,Central,Accessories,Cable Organizer,9,15.3,4.98,Corporate
+ORD01315,2025-03-10,East,Accessories,Laptop Stand,3,50.66,21.26,Corporate
+ORD01316,2025-04-14,North,Accessories,Cable Organizer,5,15.42,4.76,Consumer
+ORD01317,2026-02-04,West,Office Supplies,Desk Organizer,2,26.73,9.6,Consumer
+ORD01318,2026-06-15,Central,Accessories,Laptop Stand,4,51.14,22.46,Consumer
+ORD01319,2026-04-28,Central,Electronics,Webcam,1,66.7,39.19,Small Business
+ORD01320,2025-03-02,North,Furniture,Bookshelf,3,160.2,91.19,Consumer
+ORD01321,2026-05-21,North,Electronics,Mechanical Keyboard,1,84.08,46.04,Small Business
+ORD01322,2026-05-06,Central,Home & Kitchen,Coffee Maker,1,89.38,56.82,Consumer
+ORD01323,2026-03-18,East,Furniture,Bookshelf,5,134.02,84.23,Corporate
+ORD01324,2025-01-19,East,Furniture,Desk Lamp,4,50.84,23.13,Consumer
+ORD01325,2025-04-29,East,Home & Kitchen,Electric Kettle,6,51.5,27.85,Small Business
+ORD01326,2025-08-26,North,Electronics,Mechanical Keyboard,4,90.91,51.14,Consumer
+ORD01327,2025-02-16,Central,Accessories,Backpack,2,73.61,29.76,Consumer
+ORD01328,2025-07-04,South,Furniture,Desk Lamp,5,50.45,22.58,Consumer
+ORD01329,2026-02-12,East,Office Supplies,Printer Paper,1,10.29,4.29,Consumer
+ORD01330,2026-01-01,Central,Furniture,Desk Lamp,8,51.01,24.66,Small Business
+ORD01331,2025-09-08,East,Accessories,Cable Organizer,5,15.31,4.79,Consumer
+ORD01332,2025-10-14,North,Home & Kitchen,Water Bottle,4,21.58,8.18,Small Business
+ORD01333,2025-05-26,North,Electronics,24-inch Monitor,4,220.5,146.3,Consumer
+ORD01334,2026-05-26,Central,Electronics,Wireless Mouse,5,24.92,12.69,Consumer
+ORD01335,2025-10-13,Central,Electronics,Wireless Mouse,1,27.31,12.0,Consumer
+ORD01336,2025-07-30,South,Electronics,Mechanical Keyboard,10,79.09,47.5,Corporate
+ORD01337,2025-01-27,Central,Accessories,Cable Organizer,7,16.57,5.34,Corporate
+ORD01338,2025-01-29,South,Accessories,Laptop Stand,7,53.56,23.14,Small Business
+ORD01339,2026-02-02,Central,Electronics,Wireless Mouse,5,27.29,12.86,Small Business
+ORD01340,2026-06-16,South,Home & Kitchen,Water Bottle,8,23.52,8.56,Small Business
+ORD01341,2025-10-15,West,Furniture,Office Chair,2,207.16,117.63,Small Business
+ORD01342,2026-02-09,North,Office Supplies,Desk Organizer,3,25.24,10.52,Consumer
+ORD01343,2025-05-08,South,Accessories,Laptop Stand,6,53.39,22.17,Corporate
+ORD01344,2025-01-10,East,Electronics,USB-C Hub,8,39.81,19.42,Small Business
+ORD01345,2025-03-23,South,Home & Kitchen,Coffee Maker,7,105.51,56.41,Corporate
+ORD01346,2025-09-23,Central,Office Supplies,Desk Organizer,2,22.79,10.3,Consumer
+ORD01347,2025-04-28,West,Electronics,Mechanical Keyboard,5,92.83,49.22,Consumer
+ORD01348,2025-08-22,North,Electronics,Webcam,6,80.28,37.13,Corporate
+ORD01349,2025-08-29,South,Office Supplies,Notebook Set,4,15.08,5.76,Consumer
+ORD01350,2026-01-16,West,Furniture,Bookshelf,3,152.01,93.62,Corporate
+ORD01351,2025-12-01,West,Furniture,Office Chair,4,202.23,111.86,Consumer
+ORD01352,2025-06-14,South,Office Supplies,Notebook Set,2,17.64,5.72,Consumer
+ORD01353,2025-11-17,East,Accessories,Laptop Stand,10,52.44,22.94,Corporate
+ORD01354,2025-06-03,South,Home & Kitchen,Coffee Maker,2,105.55,60.18,Small Business
+ORD01355,2025-05-05,Central,Furniture,Desk Lamp,1,49.99,23.82,Consumer
+ORD01356,2025-11-21,South,Accessories,Cable Organizer,5,16.2,4.96,Small Business
+ORD01357,2026-04-12,South,Office Supplies,Printer Paper,4,11.1,4.3,Small Business
+ORD01358,2025-03-23,South,Home & Kitchen,Storage Set,3,35.72,15.43,Consumer
+ORD01359,2025-08-24,East,Home & Kitchen,Water Bottle,3,24.31,7.85,Small Business
+ORD01360,2025-09-24,West,Home & Kitchen,Electric Kettle,1,48.69,28.13,Consumer
+ORD01361,2025-07-22,Central,Furniture,Desk Lamp,1,45.76,23.1,Small Business
+ORD01362,2026-04-27,West,Accessories,Backpack,1,73.9,29.55,Consumer
+ORD01363,2025-05-16,East,Furniture,Office Chair,4,203.66,111.56,Consumer
+ORD01364,2025-10-28,North,Home & Kitchen,Electric Kettle,6,53.99,28.84,Small Business
+ORD01365,2025-12-30,Central,Electronics,Wireless Mouse,8,26.05,12.08,Small Business
+ORD01366,2026-06-06,North,Furniture,Standing Desk,6,411.36,257.28,Small Business
+ORD01367,2025-06-30,East,Office Supplies,Pen Pack,3,8.7,3.04,Corporate
+ORD01368,2026-06-15,Central,Electronics,Webcam,8,70.35,39.0,Corporate
+ORD01369,2025-02-12,West,Furniture,Standing Desk,5,392.38,251.47,Corporate
+ORD01370,2025-04-12,South,Accessories,Cable Organizer,3,14.62,5.04,Consumer
+ORD01371,2025-09-23,Central,Furniture,Bookshelf,5,152.73,85.21,Corporate
+ORD01372,2025-01-29,East,Furniture,Standing Desk,5,400.76,248.72,Consumer
+ORD01373,2026-01-14,North,Home & Kitchen,Coffee Maker,7,101.31,56.99,Small Business
+ORD01374,2025-04-23,West,Home & Kitchen,Storage Set,2,34.3,15.09,Small Business
+ORD01375,2025-05-21,Central,Office Supplies,Notebook Set,3,17.82,6.33,Corporate
+ORD01376,2025-12-01,North,Furniture,Office Chair,4,189.22,113.87,Consumer
+ORD01377,2026-03-20,North,Office Supplies,Notebook Set,10,15.74,6.36,Corporate
+ORD01378,2025-09-09,North,Electronics,Wireless Mouse,2,26.37,11.81,Consumer
+ORD01379,2025-07-11,West,Furniture,Desk Lamp,2,50.25,22.12,Consumer
+ORD01380,2025-08-08,North,Accessories,Backpack,5,70.87,32.31,Consumer
+ORD01381,2025-09-27,West,Electronics,USB-C Hub,5,39.81,19.25,Corporate
+ORD01382,2025-08-26,Central,Furniture,Bookshelf,9,156.51,88.09,Corporate
+ORD01383,2025-10-30,North,Office Supplies,Pen Pack,3,9.04,3.02,Consumer
+ORD01384,2025-04-29,North,Furniture,Desk Lamp,2,47.5,23.04,Small Business
+ORD01385,2026-05-16,West,Furniture,Desk Lamp,2,46.95,23.37,Corporate
+ORD01386,2025-11-27,South,Home & Kitchen,Coffee Maker,4,95.17,56.3,Consumer
+ORD01387,2026-05-13,West,Electronics,24-inch Monitor,1,206.16,145.47,Consumer
+ORD01388,2025-07-31,West,Accessories,Laptop Stand,5,51.07,21.27,Consumer
+ORD01389,2025-01-22,West,Accessories,Laptop Stand,3,54.02,23.09,Consumer
+ORD01390,2025-02-20,East,Accessories,Laptop Stand,2,54.74,23.3,Consumer
+ORD01391,2025-10-25,West,Home & Kitchen,Electric Kettle,6,52.14,28.61,Small Business
+ORD01392,2025-02-06,Central,Furniture,Office Chair,10,173.99,112.19,Corporate
+ORD01393,2025-06-10,South,Home & Kitchen,Coffee Maker,2,88.04,58.66,Consumer
+ORD01394,2025-05-15,West,Home & Kitchen,Water Bottle,2,20.58,8.12,Small Business
+ORD01395,2025-01-16,West,Home & Kitchen,Coffee Maker,2,89.22,57.48,Consumer
+ORD01396,2025-11-16,West,Home & Kitchen,Electric Kettle,1,46.39,28.27,Consumer
+ORD01397,2026-01-21,South,Accessories,Cable Organizer,4,15.48,5.06,Consumer
+ORD01398,invalid_date,South,Accessories,Backpack,7,75.5,32.52,Small Business
+ORD01399,2025-08-18,East,Electronics,USB-C Hub,2,38.36,19.23,Consumer
+ORD01400,2025-12-07,North,Electronics,24-inch Monitor,3,194.54,140.94,Corporate
+ORD01401,2025-03-27,North,Home & Kitchen,Electric Kettle,9,53.28,29.66,Corporate
+ORD01402,2026-05-21,,Furniture,Office Chair,3,201.07,106.93,Consumer
+ORD01403,2026-02-21,Central,Accessories,Backpack,2,72.83,32.65,Consumer
+ORD01404,2025-11-17,Central,Accessories,Cable Organizer,4,15.7,5.08,Consumer
+ORD01405,2026-03-12,West,Electronics,Wireless Mouse,1,23.81,12.57,Consumer
+ORD01406,2026-03-25,Central,Furniture,Standing Desk,4,397.42,263.01,Consumer
+ORD01407,2025-05-24,West,Accessories,Cable Organizer,4,13.83,4.83,Consumer
+ORD01408,2026-06-20,South,Office Supplies,Desk Organizer,3,22.76,10.18,Small Business
+ORD01409,2026-06-16,West,Furniture,Bookshelf,2,160.55,94.21,Consumer
+ORD01410,2026-06-21,West,Furniture,Standing Desk,3,391.27,247.23,Consumer
+ORD01411,2025-11-16,West,Electronics,Wireless Mouse,1,23.28,11.92,Consumer
+ORD01412,2025-03-10,South,Home & Kitchen,Electric Kettle,5,51.43,26.65,Corporate
+ORD01413,2025-10-19,West,Furniture,Bookshelf,5,144.05,92.37,Small Business
+ORD01414,2025-03-21,East,Office Supplies,Printer Paper,2,10.74,3.94,Consumer
+ORD01415,2026-06-19,East,Electronics,Mechanical Keyboard,7,87.99,50.93,Corporate
+ORD01416,2026-04-30,North,Accessories,Cable Organizer,2,16.77,4.81,Consumer
+ORD01417,2025-05-27,North,Accessories,Laptop Stand,6,45.84,23.67,Small Business
+ORD01418,2026-03-12,West,Furniture,Desk Lamp,5,51.46,22.57,Consumer
+ORD01419,2026-01-30,West,Home & Kitchen,Water Bottle,5,21.63,7.68,Consumer
+ORD01420,2025-06-20,Central,Accessories,Laptop Stand,3,53.31,22.5,Small Business
+ORD01421,2025-05-04,East,Home & Kitchen,Storage Set,3,32.49,15.94,Consumer
+ORD01422,2026-03-11,South,Home & Kitchen,Storage Set,5,33.88,14.6,Corporate
+ORD01423,2026-03-29,South,Electronics,Mechanical Keyboard,5,83.48,46.19,Consumer
+ORD01424,2026-05-30,Central,Office Supplies,Desk Organizer,2,25.19,10.33,Corporate
+ORD01425,2025-09-17,South,Home & Kitchen,Coffee Maker,5,103.04,59.48,Consumer
+ORD01426,2026-05-18,North,Home & Kitchen,Water Bottle,12,23.54,8.44,Corporate
+ORD01427,2025-01-30,West,Electronics,24-inch Monitor,4,229.78,140.23,Corporate
+ORD01428,2025-02-27,East,Home & Kitchen,Coffee Maker,7,89.25,57.16,Corporate
+ORD01429,2025-12-07,Central,Furniture,Office Chair,6,203.14,108.86,Small Business
+ORD01430,2026-02-17,East,Office Supplies,Notebook Set,2,14.93,6.34,Corporate
+ORD01431,2025-10-01,North,Accessories,Laptop Stand,3,51.04,22.87,Consumer
+ORD01432,2025-01-04,South,Home & Kitchen,Electric Kettle,3,51.39,28.67,Corporate
+ORD01433,2026-04-20,North,Electronics,Webcam,3,76.75,37.99,Small Business
+ORD01434,2025-01-21,West,Accessories,Backpack,5,71.24,31.31,Corporate
+ORD01435,2025-07-15,,Furniture,Bookshelf,6,134.95,91.68,Corporate
+ORD01436,2025-05-24,East,Furniture,Bookshelf,2,141.31,85.88,Consumer
+ORD01437,2026-03-27,South,Office Supplies,Desk Organizer,5,23.83,10.5,Consumer
+ORD01438,2025-06-24,North,Accessories,Cable Organizer,7,14.27,5.12,Small Business
+ORD01439,2025-10-23,North,Home & Kitchen,Storage Set,10,35.03,15.7,Corporate
+ORD01440,2026-06-10,West,Office Supplies,Notebook Set,4,15.55,6.42,Consumer
+ORD01441,2025-07-10,East,Accessories,Backpack,3,67.62,30.97,Consumer
+ORD01442,2025-11-27,West,Accessories,Laptop Stand,2,43.55,22.26,Corporate
+ORD01443,2026-01-02,South,Electronics,Mechanical Keyboard,2,90.98,48.34,Consumer
+ORD01444,2026-03-22,West,Accessories,Cable Organizer,2,14.56,4.99,Consumer
+ORD01445,2026-02-15,South,Office Supplies,Pen Pack,4,9.65,3.2,Small Business
+ORD01446,2026-03-08,East,Accessories,Laptop Stand,5,49.01,20.98,Consumer
+ORD01447,2025-11-04,Central,Accessories,Laptop Stand,4,49.72,22.52,Small Business
+ORD01448,2025-04-03,South,Office Supplies,Notebook Set,7,16.19,5.83,Corporate
+ORD01449,2025-07-25,Central,Electronics,Mechanical Keyboard,1,81.34,50.95,Consumer
+ORD01450,2025-09-08,North,Home & Kitchen,Coffee Maker,7,87.49,54.36,Corporate
+ORD01451,2026-02-08,West,Electronics,USB-C Hub,7,41.28,19.79,Small Business
+ORD01452,2025-05-12,South,Electronics,USB-C Hub,7,40.84,20.27,Small Business
+ORD01453,2025-03-15,South,Home & Kitchen,Water Bottle,11,20.36,8.52,Corporate
+ORD01454,2026-01-13,South,Furniture,Standing Desk,1,406.42,267.17,Consumer
+ORD01455,2025-05-22,East,Electronics,Mechanical Keyboard,3,85.6,47.72,Consumer
+ORD01456,2025-06-04,South,Furniture,Desk Lamp,4,44.49,24.72,Consumer
+ORD01457,2025-06-17,South,Home & Kitchen,Electric Kettle,1,52.68,26.9,Consumer
+ORD01458,2025-01-13,North,Electronics,USB-C Hub,5,37.88,19.17,Consumer
+ORD01459,2026-03-09,West,Home & Kitchen,Water Bottle,3,23.51,7.72,Consumer
+ORD01460,2026-04-30,West,Home & Kitchen,Storage Set,6,32.04,14.6,Small Business
+ORD01461,2025-03-23,North,Home & Kitchen,Water Bottle,5,21.37,8.14,Consumer
+ORD01462,2026-04-11,East,Accessories,Backpack,1,64.21,31.42,Consumer
+ORD01463,2026-01-14,South,Office Supplies,Notebook Set,3,17.17,5.72,Consumer
+ORD01464,2025-10-28,South,Office Supplies,Printer Paper,3,10.77,3.82,Consumer
+ORD01465,2025-02-07,East,Electronics,24-inch Monitor,2,196.73,139.53,Consumer
+ORD01466,2026-03-18,Central,Furniture,Desk Lamp,4,50.77,22.58,Consumer
+ORD01467,2026-04-15,North,Accessories,Backpack,1,64.56,33.39,Consumer
+ORD01468,2026-06-09,Central,Electronics,USB-C Hub,3,38.17,18.11,Consumer
+ORD01469,2026-03-20,Central,Office Supplies,Notebook Set,11,15.56,5.94,Corporate
+ORD01470,2025-09-07,West,Accessories,Backpack,5,68.99,32.52,Consumer
+ORD01471,2025-07-10,South,Home & Kitchen,Storage Set,11,33.99,14.6,Corporate
+ORD01472,2025-01-06,East,Office Supplies,Desk Organizer,4,25.23,9.86,Consumer
+ORD01473,2025-04-10,South,Home & Kitchen,Storage Set,3,32.78,15.44,Consumer
+ORD01474,2026-03-07,West,Accessories,Cable Organizer,4,15.23,5.11,Consumer
+ORD01475,2025-11-24,South,Office Supplies,Desk Organizer,4,24.96,10.15,Consumer
+ORD01476,2025-09-19,East,Furniture,Desk Lamp,11,53.45,23.74,Corporate
+ORD01477,2025-03-27,North,Accessories,Cable Organizer,6,14.71,5.24,Small Business
+ORD01478,2025-01-31,North,Home & Kitchen,Water Bottle,11,21.79,8.05,Corporate
+ORD01479,2026-05-18,Central,Electronics,24-inch Monitor,5,198.73,149.19,Consumer
+ORD01480,2026-02-10,South,Electronics,Wireless Mouse,5,23.89,11.65,
+ORD01481,2025-12-27,West,Home & Kitchen,Water Bottle,5,20.68,8.4,Consumer
+ORD01482,2025-08-19,Central,Office Supplies,Pen Pack,4,8.8,3.21,Consumer
+ORD01483,2026-02-14,South,Furniture,Standing Desk,3,418.31,264.0,Consumer
+ORD01484,2026-03-05,Central,Electronics,USB-C Hub,1,39.66,18.39,Consumer
+ORD01485,2025-03-24,East,Accessories,Backpack,2,66.98,30.46,Corporate
+ORD01486,2026-04-29,West,Accessories,Backpack,1,72.66,33.01,Small Business
+ORD01487,2025-06-15,East,Home & Kitchen,Electric Kettle,5,49.66,30.01,Corporate
+ORD01488,2025-05-16,South,Furniture,Bookshelf,4,150.15,88.85,Small Business
+ORD01489,2025-09-05,West,Accessories,Cable Organizer,2,16.21,5.29,Small Business
+ORD01490,2026-04-19,West,Furniture,Standing Desk,1,412.0,255.72,Consumer
+ORD01491,2026-01-30,North,Accessories,Cable Organizer,3,16.45,5.1,Consumer
+ORD01492,2025-01-25,East,Accessories,Backpack,1,66.54,31.06,Small Business
+ORD01493,2026-02-14,West,Electronics,24-inch Monitor,4,211.2,140.09,Consumer
+ORD01494,2025-04-25,,Furniture,Bookshelf,3,137.52,86.38,Consumer
+ORD01495,2025-09-28,North,Home & Kitchen,Electric Kettle,3,52.61,29.18,Corporate
+ORD01496,2025-12-17,South,Furniture,Bookshelf,4,147.46,90.1,Consumer
+ORD01497,2026-06-19,South,Furniture,Standing Desk,3,402.76,265.91,Consumer
+ORD01498,2025-11-09,East,Office Supplies,Printer Paper,3,9.55,4.22,Consumer
+ORD01499,2026-01-29,South,Accessories,Cable Organizer,2,15.55,4.85,Consumer
+ORD01500,2026-01-08,West,Electronics,24-inch Monitor,10,210.25,149.41,Corporate
+ORD01501,2025-06-09,East,Furniture,Bookshelf,5,144.26,93.5,Consumer
+ORD01502,2026-06-22,East,Home & Kitchen,Electric Kettle,4,47.99,30.05,Consumer
+ORD01503,2025-11-13,North,Office Supplies,Printer Paper,5,11.42,4.21,Consumer
+ORD01504,2026-04-16,East,Office Supplies,Pen Pack,2,9.79,3.18,Corporate
+ORD01505,2025-07-27,South,Accessories,Laptop Stand,1,54.41,22.35,Consumer
+ORD01506,2025-02-27,East,Office Supplies,Notebook Set,2,15.54,6.28,Consumer
+ORD01507,2026-04-13,North,Furniture,Standing Desk,5,401.85,245.28,Small Business
+ORD01508,2025-05-16,East,Furniture,Office Chair,2,179.23,117.49,Consumer
+ORD01509,2025-04-11,East,Home & Kitchen,Water Bottle,7,23.72,7.68,Corporate
+ORD01510,2026-03-29,North,Home & Kitchen,Coffee Maker,5,98.6,57.56,Consumer
+ORD01511,2026-03-17,Central,Office Supplies,Notebook Set,4,17.21,5.85,Consumer
+ORD01512,2025-01-01,South,Accessories,Cable Organizer,3,15.28,4.86,Consumer
+ORD01513,2026-06-11,South,Accessories,Cable Organizer,6,16.4,4.91,Corporate
+ORD01514,2026-03-27,North,Office Supplies,Desk Organizer,4,24.42,9.91,Corporate
+ORD01515,2026-05-23,North,Accessories,Cable Organizer,4,15.82,4.81,Consumer
+ORD01516,2025-07-07,North,Home & Kitchen,Storage Set,2,32.73,15.23,Consumer
+ORD01517,2025-04-16,West,Office Supplies,Pen Pack,4,9.31,2.91,Small Business
+ORD01518,2026-02-10,West,Furniture,Standing Desk,3,384.2,259.37,Small Business
+ORD01519,2025-10-03,South,Home & Kitchen,Water Bottle,3,21.87,7.92,Consumer
+ORD01520,2026-04-06,South,Office Supplies,Desk Organizer,8,22.11,10.72,Corporate
+ORD01521,2025-12-29,West,Electronics,USB-C Hub,4,39.58,18.1,Consumer
+ORD01522,2025-10-29,Central,Furniture,Bookshelf,4,156.34,87.33,Consumer
+ORD01523,2025-07-24,West,Accessories,Backpack,9,74.21,29.88,Corporate
+ORD01524,2025-11-30,West,Furniture,Standing Desk,8,423.59,273.63,Small Business
+ORD01525,2025-09-13,South,Home & Kitchen,Water Bottle,8,20.5,7.66,Corporate
+ORD01526,2026-01-14,East,Office Supplies,Desk Organizer,4,22.72,10.47,Consumer
+ORD01527,2025-06-05,Central,Office Supplies,Pen Pack,11,8.64,2.88,Corporate
+ORD01528,2025-09-24,East,Furniture,Bookshelf,2,137.47,92.41,Corporate
+ORD01529,2026-04-02,West,Office Supplies,Desk Organizer,3,24.33,10.1,Consumer
+ORD01530,2025-09-23,South,Office Supplies,Printer Paper,2,10.43,4.13,Corporate
+ORD01531,2026-05-14,West,Home & Kitchen,Water Bottle,1,24.26,8.13,Small Business
+ORD01532,2026-03-24,Central,Electronics,Webcam,6,77.62,39.54,Small Business
+ORD01533,2025-03-10,West,Accessories,Cable Organizer,10,16.14,5.1,Corporate
+ORD01534,2026-04-25,West,Accessories,Laptop Stand,2,52.6,22.13,Small Business
+ORD01535,2026-04-08,Central,Office Supplies,Pen Pack,3,9.45,2.88,Small Business
+ORD01536,2026-04-10,East,Accessories,Cable Organizer,8,16.47,5.01,Corporate
+ORD01537,2026-02-04,North,Office Supplies,Notebook Set,4,15.2,6.37,Consumer
+ORD01538,2025-12-01,East,Accessories,Backpack,5,68.32,31.76,Corporate
+ORD01539,2025-07-13,West,Accessories,Laptop Stand,2,46.07,22.43,Consumer
+ORD01540,2025-12-23,Central,Electronics,Mechanical Keyboard,3,86.48,49.71,Consumer
+ORD01541,2025-10-05,South,Furniture,Desk Lamp,6,44.42,24.47,Small Business
+ORD01542,2026-01-20,North,Home & Kitchen,Coffee Maker,4,94.63,56.45,Small Business
+ORD01543,2025-07-30,West,Home & Kitchen,Electric Kettle,3,48.81,27.24,Corporate
+ORD01544,2026-06-13,North,Accessories,Backpack,3,75.35,32.43,Corporate
+ORD01545,2026-03-02,North,Office Supplies,Desk Organizer,6,24.37,10.16,Small Business
+ORD01546,2025-01-08,South,Home & Kitchen,Coffee Maker,1,94.14,60.08,Consumer
+ORD01547,2025-11-04,South,Electronics,USB-C Hub,12,37.74,19.01,Corporate
+ORD01548,2025-02-16,North,Office Supplies,Desk Organizer,5,22.12,10.17,Consumer
+ORD01549,2025-02-09,North,Furniture,Desk Lamp,12,46.97,23.7,Corporate
+ORD01550,2025-06-26,North,Furniture,Desk Lamp,2,51.28,24.27,Consumer
+ORD01551,2025-04-23,West,Furniture,Bookshelf,2,142.28,90.75,Consumer
+ORD01552,2025-01-30,West,Office Supplies,Desk Organizer,4,22.24,10.63,Consumer
+ORD01553,2026-01-22,West,Home & Kitchen,Coffee Maker,4,90.41,53.31,Corporate
+ORD01554,2026-03-06,Central,Furniture,Office Chair,4,187.38,112.44,Consumer
+ORD01555,2025-05-18,Central,Accessories,Cable Organizer,2,14.73,5.06,Corporate
+ORD01556,2025-11-27,West,Office Supplies,Printer Paper,5,11.0,3.85,Consumer
+ORD01557,2025-05-09,,Accessories,Laptop Stand,2,47.29,21.14,Consumer
+ORD01558,2025-10-17,Central,Electronics,USB-C Hub,2,36.87,19.85,Consumer
+ORD01559,2026-04-19,West,Office Supplies,Desk Organizer,5,26.82,9.85,Consumer
+ORD01560,2026-03-09,South,Furniture,Bookshelf,1,155.09,92.75,Consumer
+ORD01561,2025-07-06,North,Electronics,Mechanical Keyboard,5,80.95,47.61,Corporate
+ORD01562,2026-05-11,Central,Accessories,Cable Organizer,5,15.02,5.4,Consumer
+ORD01563,2026-03-27,North,Home & Kitchen,Storage Set,5,37.56,14.91,Consumer
+ORD01564,2025-12-16,West,Furniture,Bookshelf,5,144.52,84.7,Consumer
+ORD01565,2025-03-06,West,Accessories,Cable Organizer,1,16.69,4.83,Consumer
+ORD01566,2025-04-24,North,Furniture,Desk Lamp,4,52.54,22.77,Corporate
+ORD01567,2026-06-01,North,Home & Kitchen,Coffee Maker,4,90.09,58.15,Small Business
+ORD01568,2025-12-29,East,Electronics,Mechanical Keyboard,11,90.97,48.88,Corporate
+ORD01569,2026-06-28,North,Office Supplies,Printer Paper,2,11.52,4.25,Consumer
+ORD01570,2026-03-11,Central,Furniture,Standing Desk,4,381.93,272.12,Consumer
+ORD01571,2026-04-25,South,Home & Kitchen,Water Bottle,6,20.24,7.86,Corporate
+ORD01572,2025-11-16,North,Accessories,Backpack,11,71.15,29.69,Corporate
+ORD01573,2025-06-14,West,Furniture,Desk Lamp,5,47.92,22.33,Corporate
+ORD01574,2025-07-18,South,Home & Kitchen,Water Bottle,2,24.48,7.89,Consumer
+ORD01575,2025-06-05,North,Home & Kitchen,Coffee Maker,3,101.85,53.28,Consumer
+ORD01576,2025-11-15,East,Electronics,Webcam,11,67.9,40.4,Corporate
+ORD01577,2026-04-11,North,Electronics,Webcam,6,78.84,41.86,Small Business
+ORD01578,2025-09-19,North,Electronics,USB-C Hub,5,36.24,19.8,Consumer
+ORD01579,2025-08-19,East,Home & Kitchen,Storage Set,5,37.81,15.94,Consumer
+ORD01580,2026-03-19,East,Furniture,Desk Lamp,6,52.25,24.04,Corporate
+ORD01581,2026-03-06,West,Office Supplies,Desk Organizer,3,22.48,9.63,Consumer
+ORD01582,2026-05-22,South,Home & Kitchen,Electric Kettle,3,48.92,29.44,Consumer
+ORD01583,2026-06-16,Central,Home & Kitchen,Water Bottle,2,22.89,8.21,Corporate
+ORD01584,2025-04-08,North,Electronics,Webcam,7,74.59,40.65,Corporate
+ORD01585,2026-02-08,West,Accessories,Cable Organizer,4,16.36,5.12,Consumer
+ORD01586,2026-02-13,West,Accessories,Laptop Stand,8,51.64,20.97,Corporate
+ORD01587,2025-01-25,West,Accessories,Laptop Stand,3,54.1,23.19,Consumer
+ORD01588,2026-01-03,West,Home & Kitchen,Storage Set,2,33.16,15.78,Consumer
+ORD01589,2025-09-27,West,Office Supplies,Pen Pack,5,9.67,3.06,Consumer
+ORD01590,2025-12-23,West,Office Supplies,Pen Pack,4,9.44,2.98,Consumer
+ORD01591,2025-11-10,North,Furniture,Bookshelf,12,139.95,90.71,Corporate
+ORD01592,2025-09-29,Central,Home & Kitchen,Electric Kettle,3,56.22,29.86,Consumer
+ORD01593,2025-11-27,North,Furniture,Standing Desk,3,410.8,265.46,Consumer
+ORD01594,2025-07-02,South,Accessories,Backpack,5,63.83,32.32,Corporate
+ORD01595,2025-05-30,West,Home & Kitchen,Storage Set,4,32.18,15.0,Consumer
+ORD01596,2025-11-28,Central,Office Supplies,Notebook Set,1,15.5,5.82,Consumer
+ORD01597,2025-08-18,Central,Electronics,USB-C Hub,4,41.61,19.14,Small Business
+ORD01598,2025-01-13,South,Furniture,Standing Desk,8,424.16,255.99,Small Business
+ORD01599,2025-07-16,East,Accessories,Backpack,7,71.09,33.03,Small Business
+ORD01600,2026-01-08,West,Home & Kitchen,Storage Set,3,33.76,16.05,Consumer
+ORD01601,2026-01-01,North,Furniture,Bookshelf,7,158.34,94.88,Corporate
+ORD01602,2025-04-09,Central,Furniture,Standing Desk,10,414.05,260.0,Corporate
+ORD01603,2025-08-22,West,Electronics,Webcam,12,80.3,41.21,Corporate
+ORD01604,2025-10-03,East,Furniture,Desk Lamp,5,48.36,23.62,Consumer
+ORD01605,2025-01-23,East,Electronics,Mechanical Keyboard,2,93.43,48.57,Corporate
+ORD01606,2025-12-29,North,Furniture,Office Chair,11,162.06,119.45,Corporate
+ORD01607,2026-03-18,West,Accessories,Cable Organizer,7,14.45,5.04,Small Business
+ORD01608,2025-11-08,South,Accessories,Backpack,10,71.96,30.03,Corporate
+ORD01609,2025-01-07,Central,Accessories,Cable Organizer,3,15.56,5.25,Consumer
+ORD01610,2025-03-07,East,Electronics,Webcam,5,69.82,40.1,Corporate
+ORD01611,2025-01-31,West,Furniture,Standing Desk,1,384.68,245.37,Consumer
+ORD01612,2026-02-22,South,Home & Kitchen,Water Bottle,3,21.05,7.92,Consumer
+ORD01613,2025-09-16,East,Furniture,Desk Lamp,4,46.09,22.9,Consumer
+ORD01614,2026-04-08,West,Electronics,24-inch Monitor,1,230.13,138.9,Consumer
+ORD01615,not_available,North,Accessories,Laptop Stand,5,45.2,21.83,Consumer
+ORD01616,2026-01-19,Central,Office Supplies,Notebook Set,4,16.76,6.09,Small Business
+ORD01617,2025-12-20,North,Accessories,Laptop Stand,4,50.41,22.54,Corporate
+ORD01618,2026-04-01,North,Furniture,Standing Desk,5,428.08,268.56,Consumer
+ORD01619,2025-10-26,North,Electronics,24-inch Monitor,11,214.98,154.72,Corporate
+ORD01620,2025-06-08,Central,Home & Kitchen,Electric Kettle,8,57.5,28.59,Small Business
+ORD01621,2025-04-30,West,Home & Kitchen,Water Bottle,2,21.85,7.85,Consumer
+ORD01622,2026-02-18,North,Home & Kitchen,Electric Kettle,4,56.27,29.91,Consumer
+ORD01623,2026-06-17,North,Accessories,Laptop Stand,10,50.6,22.91,Corporate
+ORD01624,2025-07-25,South,Accessories,Cable Organizer,2,14.68,5.16,
+ORD01625,2026-01-22,North,Home & Kitchen,Water Bottle,1,21.65,8.1,Consumer
+ORD01626,2026-05-25,Central,Home & Kitchen,Storage Set,12,36.03,15.28,Corporate
+ORD01627,2025-04-02,South,Electronics,Mechanical Keyboard,11,87.43,49.6,Corporate
+ORD01628,2025-01-29,North,Electronics,Webcam,2,71.31,39.78,Consumer
+ORD01629,2026-06-05,South,Home & Kitchen,Electric Kettle,5,48.87,30.06,Corporate
+ORD01630,2025-03-16,West,Furniture,Bookshelf,5,151.97,83.78,Consumer
+ORD01631,2025-04-30,Central,Home & Kitchen,Electric Kettle,2,54.7,29.93,Consumer
+ORD01632,2026-02-04,West,Office Supplies,Printer Paper,4,10.22,3.87,Consumer
+ORD01633,2026-03-09,West,Furniture,Bookshelf,12,142.38,94.36,Corporate
+ORD01634,2025-01-11,East,Office Supplies,Pen Pack,3,9.8,2.92,Consumer
+ORD01635,2025-01-11,West,Home & Kitchen,Storage Set,4,32.16,15.59,Consumer
+ORD01636,2025-04-29,North,Electronics,Wireless Mouse,3,23.92,11.91,Corporate
+ORD01637,2025-10-19,East,Office Supplies,Pen Pack,5,8.75,3.15,Consumer
+ORD01638,2025-03-30,East,Home & Kitchen,Electric Kettle,2,53.23,26.73,Consumer
+ORD01639,2025-04-25,South,Home & Kitchen,Coffee Maker,3,88.99,58.25,Small Business
+ORD01640,2026-03-23,West,Electronics,Mechanical Keyboard,2,85.71,50.4,Consumer
+ORD01641,2025-08-04,West,Accessories,Laptop Stand,1,54.38,21.88,Consumer
+ORD01642,2025-12-25,East,Office Supplies,Printer Paper,1,10.2,3.88,Small Business
+ORD01643,2025-07-08,West,Electronics,Mechanical Keyboard,4,78.63,48.35,Consumer
+ORD01644,2025-06-14,North,Furniture,Bookshelf,1,136.63,84.35,Small Business
+ORD01645,2025-01-18,West,Accessories,Backpack,3,67.6,30.03,Consumer
+ORD01646,2025-01-07,South,Electronics,Mechanical Keyboard,8,91.27,46.35,Corporate
+ORD01647,2025-03-17,North,Furniture,Office Chair,8,204.88,115.79,Small Business
+ORD01648,2026-04-06,Central,Office Supplies,Pen Pack,4,9.38,2.98,Consumer
+ORD01649,2025-06-06,East,Home & Kitchen,Water Bottle,4,20.88,8.26,Small Business
+ORD01650,2025-09-21,Central,Furniture,Desk Lamp,1,48.3,22.75,Consumer
+ORD01651,2026-02-25,West,Electronics,USB-C Hub,2,42.46,18.36,Consumer
+ORD01652,2026-02-20,East,Office Supplies,Printer Paper,4,11.1,4.0,Consumer
+ORD01653,2025-11-30,West,Office Supplies,Desk Organizer,5,21.2,9.78,Consumer
+ORD01654,2026-04-20,East,Furniture,Bookshelf,8,144.27,87.11,Corporate
+ORD01655,2026-04-27,North,Home & Kitchen,Electric Kettle,6,57.25,30.08,Corporate
+ORD01656,2025-02-22,North,Accessories,Cable Organizer,2,15.78,5.36,Consumer
+ORD01657,2026-03-30,North,Home & Kitchen,Electric Kettle,5,54.78,27.59,Consumer
+ORD01658,2026-02-16,East,Accessories,Laptop Stand,4,49.11,22.24,Corporate
+ORD01659,2025-11-20,West,Furniture,Desk Lamp,10,49.56,24.47,Corporate
+ORD01660,2025-01-22,North,Electronics,Wireless Mouse,1,24.66,11.54,Small Business
+ORD01661,2025-06-04,Central,Office Supplies,Printer Paper,1,10.92,4.27,Consumer
+ORD01662,2026-05-02,South,Accessories,Cable Organizer,3,14.1,5.12,Consumer
+ORD01663,2026-03-02,North,Furniture,Standing Desk,7,371.15,260.56,Small Business
+ORD01664,2025-09-13,Central,Home & Kitchen,Storage Set,4,37.46,14.44,Corporate
+ORD01665,2026-01-26,East,Electronics,Mechanical Keyboard,1,88.16,51.76,Consumer
+ORD01666,2025-07-06,East,Office Supplies,Pen Pack,4,9.98,3.07,Consumer
+ORD01667,2026-01-14,North,Office Supplies,Notebook Set,3,16.89,6.42,Consumer
+ORD01668,2025-11-25,South,Electronics,Mechanical Keyboard,3,79.97,51.74,Corporate
+ORD01669,2026-03-04,Central,Accessories,Backpack,3,65.17,30.58,Consumer
+ORD01670,2026-05-17,South,Accessories,Laptop Stand,2,51.95,21.65,Consumer
+ORD01671,2025-02-11,South,Home & Kitchen,Storage Set,8,35.76,14.9,Small Business
+ORD01672,2025-01-11,West,Electronics,Mechanical Keyboard,4,81.59,48.53,Consumer
+ORD01673,2025-10-04,West,Home & Kitchen,Coffee Maker,5,103.62,58.91,Consumer
+ORD01674,2025-05-16,Central,Home & Kitchen,Storage Set,10,32.59,14.8,Corporate
+ORD01675,2025-03-28,West,Electronics,USB-C Hub,2,35.13,18.37,Small Business
+ORD01676,2025-03-18,North,Electronics,Mechanical Keyboard,5,91.82,50.46,Consumer
+ORD01677,2025-01-14,West,Electronics,Wireless Mouse,5,23.35,12.31,Consumer
+ORD01678,2025-04-19,West,Home & Kitchen,Storage Set,2,32.64,15.7,Consumer
+ORD01679,2025-04-04,West,Electronics,Mechanical Keyboard,4,91.66,47.05,Consumer
+ORD01680,2026-02-01,South,Electronics,Wireless Mouse,4,27.09,12.5,Consumer
+ORD01681,2026-04-26,South,Home & Kitchen,Electric Kettle,2,52.44,28.45,Corporate
+ORD01682,2025-07-22,South,Electronics,Mechanical Keyboard,4,90.1,49.99,Small Business
+ORD01683,2025-07-11,Central,Electronics,Mechanical Keyboard,5,80.96,49.56,Corporate
+ORD01684,2026-02-27,East,Accessories,Cable Organizer,4,14.55,4.97,Consumer
+ORD01685,2026-13-05,South,Furniture,Office Chair,1,172.52,111.41,Consumer
+ORD01686,2026-03-17,North,Electronics,Webcam,9,66.41,40.82,Corporate
+ORD01687,2026-01-06,West,Electronics,24-inch Monitor,3,217.11,151.46,Corporate
+ORD01688,2026-01-02,West,Office Supplies,Pen Pack,4,8.82,3.04,Consumer
+ORD01689,2025-07-14,South,Accessories,Backpack,3,68.13,33.0,Consumer
+ORD01690,2026-04-20,Central,Office Supplies,Pen Pack,2,8.54,3.14,Consumer
+ORD01691,2025-05-23,West,Home & Kitchen,Coffee Maker,2,94.99,53.3,Consumer
+ORD01692,2025-07-08,South,Furniture,Standing Desk,4,370.49,253.43,Consumer
+ORD01693,2026-02-06,North,Electronics,USB-C Hub,5,36.69,19.25,Small Business
+ORD01694,2026-03-22,Central,Home & Kitchen,Water Bottle,1,21.79,7.71,Consumer
+ORD01695,2025-10-24,North,Office Supplies,Pen Pack,4,9.73,3.01,Consumer
+ORD01696,2025-06-12,South,Electronics,24-inch Monitor,5,211.22,140.05,Consumer
+ORD01697,2025-12-16,West,Furniture,Bookshelf,4,130.62,94.7,Corporate
+ORD01698,2026-03-04,South,Home & Kitchen,Storage Set,4,37.47,16.01,Small Business
+ORD01699,2025-12-15,East,Home & Kitchen,Storage Set,2,36.59,16.13,Consumer
+ORD01700,2025-08-31,West,Accessories,Laptop Stand,5,49.68,20.96,Consumer
+ORD01701,2026-01-29,West,Accessories,Laptop Stand,3,50.27,22.22,Corporate
+ORD01702,2026-04-06,South,Office Supplies,Notebook Set,3,17.0,5.98,Consumer
+ORD01703,2025-09-10,South,Electronics,USB-C Hub,3,41.23,19.24,Consumer
+ORD01704,2025-11-24,East,Furniture,Bookshelf,5,127.9,92.87,Consumer
+ORD01705,2025-05-04,South,Accessories,Backpack,2,69.68,31.48,Consumer
+ORD01706,2026-03-10,West,Furniture,Desk Lamp,5,46.67,22.28,Small Business
+ORD01707,2026-03-08,North,Electronics,Wireless Mouse,2,25.23,12.0,Consumer
+ORD01708,2025-11-18,North,Furniture,Desk Lamp,3,42.77,23.66,Consumer
+ORD01709,2025-11-27,Central,Accessories,Laptop Stand,3,47.04,21.95,Consumer
+ORD01710,2026-03-21,West,Home & Kitchen,Coffee Maker,3,99.05,58.74,Consumer
+ORD01711,2025-02-10,Central,Office Supplies,Desk Organizer,2,24.46,10.71,Consumer
+ORD01712,2025-04-15,East,Furniture,Standing Desk,4,365.97,254.19,Small Business
+ORD01713,2025-03-25,East,Office Supplies,Desk Organizer,9,24.0,9.58,Corporate
+ORD01714,2025-06-08,East,Home & Kitchen,Water Bottle,2,22.21,7.72,Consumer
+ORD01715,2025-09-03,North,Office Supplies,Printer Paper,2,10.24,4.24,Corporate
+ORD01716,2025-02-13,North,Furniture,Desk Lamp,4,53.32,22.26,Corporate
+ORD01717,2026-02-01,West,Office Supplies,Desk Organizer,2,24.53,9.88,Corporate
+ORD01718,2025-03-11,North,Electronics,USB-C Hub,5,36.7,19.26,Corporate
+ORD01719,2026-01-12,East,Office Supplies,Notebook Set,7,15.4,6.12,Small Business
+ORD01720,2025-09-30,East,Accessories,Cable Organizer,2,16.3,5.24,Consumer
+ORD01721,2025-07-20,South,Office Supplies,Desk Organizer,1,25.2,10.09,Consumer
+ORD01722,2025-07-29,North,Home & Kitchen,Water Bottle,1,23.51,8.51,Consumer
+ORD01723,2025-08-08,Central,Furniture,Bookshelf,7,146.85,91.01,Corporate
+ORD01724,2025-08-11,East,Furniture,Bookshelf,2,157.46,93.44,Consumer
+ORD01725,2026-02-02,West,Furniture,Desk Lamp,4,49.94,22.34,Consumer
+ORD01726,2025-10-20,West,Home & Kitchen,Water Bottle,5,20.58,7.71,Corporate
+ORD01727,2025-02-21,Central,Electronics,Wireless Mouse,1,24.52,12.0,Small Business
+ORD01728,2025-04-10,North,Accessories,Laptop Stand,2,54.6,23.02,Consumer
+ORD01729,2025-10-14,East,Office Supplies,Notebook Set,1,17.6,5.94,Consumer
+ORD01730,2025-07-29,North,Office Supplies,Pen Pack,12,9.71,3.19,Corporate
+ORD01731,2025-01-15,North,Home & Kitchen,Electric Kettle,9,56.89,28.71,Corporate
+ORD01732,2025-10-04,North,Accessories,Cable Organizer,3,15.99,4.85,Corporate
+ORD01733,2026-01-22,North,Electronics,USB-C Hub,4,38.09,20.45,Consumer
+ORD01734,2025-03-06,Central,Accessories,Laptop Stand,5,52.12,21.48,Small Business
+ORD01735,2025-10-06,Central,Office Supplies,Notebook Set,4,17.31,6.48,Consumer
+ORD01736,2026-03-22,East,Electronics,Webcam,5,76.54,40.81,Corporate
+ORD01737,2025-04-01,East,Office Supplies,Desk Organizer,4,24.69,9.99,Consumer
+ORD01738,2025-11-25,West,Office Supplies,Printer Paper,2,11.38,3.99,Consumer
+ORD01739,2026-05-22,West,Office Supplies,Printer Paper,4,10.31,3.93,Consumer
+ORD01740,2026-01-03,West,Furniture,Bookshelf,5,158.39,85.48,Consumer
+ORD01741,2026-06-03,Central,Electronics,24-inch Monitor,3,218.35,147.93,Small Business
+ORD01742,2025-07-30,West,Furniture,Standing Desk,4,427.5,275.09,Consumer
+ORD01743,2026-06-17,North,Accessories,Laptop Stand,5,51.59,21.37,Consumer
+ORD01744,2026-05-16,North,Furniture,Bookshelf,7,149.31,88.12,Corporate
+ORD01745,2025-12-26,West,Home & Kitchen,Electric Kettle,3,45.95,28.94,Corporate
+ORD01746,2026-06-01,West,Furniture,Office Chair,1,195.91,110.86,Consumer
+ORD01747,2025-08-03,East,Home & Kitchen,Storage Set,2,31.44,14.31,Consumer
+ORD01748,2025-07-10,West,Electronics,Mechanical Keyboard,3,82.51,51.53,Corporate
+ORD01749,2026-02-17,North,Home & Kitchen,Storage Set,7,33.92,14.66,Corporate
+ORD01750,2025-02-12,West,Home & Kitchen,Water Bottle,8,21.65,7.63,Small Business
+ORD01751,2025-04-11,East,Home & Kitchen,Water Bottle,7,24.42,8.31,Corporate
+ORD01752,2025-02-09,Central,Electronics,USB-C Hub,3,38.57,19.39,Corporate
+ORD01753,2025-04-07,East,Electronics,Mechanical Keyboard,5,88.46,48.53,Corporate
+ORD01754,2026-04-08,South,Office Supplies,Desk Organizer,1,25.36,10.27,Consumer
+ORD01755,2026-04-01,North,Electronics,Webcam,3,76.28,39.02,Consumer
+ORD01756,2025-02-19,South,Accessories,Backpack,5,69.24,33.09,Consumer
+ORD01757,2025-02-10,South,Office Supplies,Printer Paper,1,11.63,4.3,Consumer
+ORD01758,2026-05-09,East,Electronics,Mechanical Keyboard,2,91.33,45.87,Consumer
+ORD01759,2025-12-15,Central,Furniture,Standing Desk,9,365.37,256.99,Corporate
+ORD01760,2025-06-18,North,Electronics,Wireless Mouse,11,25.81,12.08,Corporate
+ORD01761,2025-01-22,West,Office Supplies,Pen Pack,6,9.42,2.89,Small Business
+ORD01762,2025-10-13,East,Home & Kitchen,Coffee Maker,3,88.64,55.11,Corporate
+ORD01763,2026-02-15,East,Office Supplies,Pen Pack,2,8.5,2.91,Consumer
+ORD01764,2025-07-21,East,Accessories,Laptop Stand,6,50.54,22.27,Small Business
+ORD01765,invalid_date,East,Furniture,Desk Lamp,2,47.04,24.08,Consumer
+ORD01766,2026-01-16,North,Home & Kitchen,Coffee Maker,3,97.37,55.14,Corporate
+ORD01767,2025-11-07,Central,Accessories,Laptop Stand,2,49.17,23.19,Consumer
+ORD01768,2026-05-06,South,Home & Kitchen,Water Bottle,5,23.03,8.16,Consumer
+ORD01769,2025-05-11,Central,Electronics,Mechanical Keyboard,1,86.32,51.78,Consumer
+ORD01770,2025-06-18,South,Electronics,Webcam,12,71.45,38.19,Corporate
+ORD01771,2025-03-03,West,Office Supplies,Pen Pack,3,9.69,2.86,Consumer
+ORD01772,2026-04-06,West,Office Supplies,Pen Pack,3,9.14,3.22,Small Business
+ORD01773,2025-06-11,South,Accessories,Cable Organizer,4,16.12,5.03,Consumer
+ORD01774,2025-03-09,East,Electronics,USB-C Hub,4,40.83,18.15,Corporate
+ORD01775,2025-10-15,East,Office Supplies,Pen Pack,7,8.83,3.06,Corporate
+ORD01776,2026-04-27,East,Office Supplies,Desk Organizer,5,25.42,10.7,Consumer
+ORD01777,2025-05-21,East,Accessories,Backpack,4,75.82,31.6,Consumer
+ORD01778,2025-03-06,South,Accessories,Backpack,3,74.46,31.85,Consumer
+ORD01779,2025-11-28,Central,Furniture,Bookshelf,7,150.85,85.79,Corporate
+ORD01780,2025-09-28,East,Home & Kitchen,Storage Set,5,36.5,15.99,Corporate
+ORD01781,2025-07-14,West,Furniture,Bookshelf,5,149.43,85.94,Consumer
+ORD01782,2025-05-01,West,Home & Kitchen,Electric Kettle,4,49.98,29.48,Small Business
+ORD01783,2026-05-24,South,Office Supplies,Printer Paper,3,12.17,4.04,Consumer
+ORD01784,2025-09-18,West,Office Supplies,Printer Paper,4,11.91,4.31,Consumer
+ORD01785,2025-07-13,West,Electronics,Wireless Mouse,4,25.27,12.95,Consumer
+ORD01786,2026-06-08,East,Accessories,Cable Organizer,1,16.74,5.16,Consumer
+ORD01787,2026-05-03,East,Home & Kitchen,Coffee Maker,2,90.84,55.83,Consumer
+ORD01788,2025-03-13,South,Electronics,Wireless Mouse,3,23.64,11.55,Consumer
+ORD01789,2025-02-10,Central,Home & Kitchen,Electric Kettle,2,49.0,30.16,Corporate
+ORD01790,2026-03-17,South,Office Supplies,Desk Organizer,5,24.82,9.85,Consumer
+ORD01791,2025-08-31,North,Accessories,Cable Organizer,7,16.09,4.86,Corporate
+ORD01792,2025-01-18,Central,Home & Kitchen,Electric Kettle,5,58.02,27.58,Consumer
+ORD01793,2025-04-08,South,Home & Kitchen,Coffee Maker,2,96.13,54.41,Consumer
+ORD01794,2025-10-14,North,Furniture,Standing Desk,3,392.75,270.79,Consumer
+ORD01795,2025-08-07,South,Home & Kitchen,Water Bottle,7,23.37,8.06,Small Business
+ORD01796,2025-01-24,East,Home & Kitchen,Water Bottle,4,22.16,8.51,Consumer
+ORD01797,2025-01-22,East,Office Supplies,Desk Organizer,9,24.99,9.98,Corporate
+ORD01798,2026-01-22,North,Electronics,Webcam,2,70.76,39.1,Consumer
+ORD01799,2025-08-25,South,Furniture,Bookshelf,1,153.31,90.04,Small Business
+ORD01800,2025-01-23,South,Electronics,USB-C Hub,4,35.12,19.13,Consumer
+ORD01801,2025-04-02,East,Home & Kitchen,Water Bottle,3,21.85,8.64,Consumer
+ORD01802,2025-06-22,South,Home & Kitchen,Electric Kettle,10,54.07,29.55,Corporate
+ORD01803,2026-01-09,North,Electronics,USB-C Hub,2,35.66,19.77,Consumer
+ORD01804,2025-03-23,East,Electronics,24-inch Monitor,2,205.51,153.93,Consumer
+ORD01805,2025-08-23,East,Office Supplies,Printer Paper,1,10.63,3.85,Consumer
+ORD01806,2025-06-30,South,Electronics,Webcam,4,79.13,38.25,Consumer
+ORD01807,2025-03-10,West,Furniture,Office Chair,2,189.96,117.74,Consumer
+ORD01808,2025-07-03,North,Accessories,Cable Organizer,4,16.16,4.96,Small Business
+ORD01809,2026-06-10,West,Furniture,Bookshelf,1,144.82,85.51,Consumer
+ORD01810,2025-05-16,South,Home & Kitchen,Electric Kettle,7,53.81,27.62,Corporate
+ORD01811,2025-06-29,West,Furniture,Desk Lamp,4,50.31,24.11,Corporate
+ORD01812,2025-05-20,North,Electronics,USB-C Hub,4,40.11,19.03,Consumer
+ORD01813,2026-02-18,Central,Accessories,Backpack,5,67.37,31.89,Consumer
+ORD01814,2026-06-21,Central,Home & Kitchen,Storage Set,4,32.14,14.32,Consumer
+ORD01815,2026-01-12,Central,Electronics,Webcam,4,71.75,38.57,Consumer
+ORD01816,2026-05-14,North,Electronics,24-inch Monitor,4,225.75,151.89,Consumer
+ORD01817,2025-11-06,South,Home & Kitchen,Electric Kettle,2,53.8,27.52,Consumer
+ORD01818,2025-07-29,East,Home & Kitchen,Storage Set,1,32.95,14.53,Consumer
+ORD01819,2026-01-19,North,Electronics,24-inch Monitor,4,230.46,154.19,Consumer
+ORD01820,2025-10-29,South,Electronics,Webcam,4,66.82,42.03,Consumer
+ORD01821,2025-12-27,South,Home & Kitchen,Coffee Maker,5,82.82,60.42,Consumer
+ORD01822,2025-03-03,North,Accessories,Cable Organizer,5,14.91,5.04,Consumer
+ORD01823,2025-12-22,West,Office Supplies,Pen Pack,1,9.61,3.08,Consumer
+ORD01824,2026-06-11,North,Home & Kitchen,Water Bottle,11,22.47,8.64,Corporate
+ORD01825,2025-12-05,West,Furniture,Desk Lamp,3,41.88,24.13,Consumer
+ORD01826,2025-10-10,South,Accessories,Cable Organizer,3,13.84,4.84,Consumer
+ORD01827,2026-03-04,West,Home & Kitchen,Electric Kettle,7,53.53,27.53,Small Business
+ORD01828,2025-03-09,North,Furniture,Office Chair,4,199.32,109.59,Consumer
+ORD01829,2025-04-27,North,Furniture,Desk Lamp,3,50.08,24.78,Consumer
+ORD01830,2025-12-05,West,Home & Kitchen,Storage Set,2,34.35,15.88,Consumer
+ORD01831,2025-08-20,West,Office Supplies,Printer Paper,3,10.84,4.06,Consumer
+ORD01832,2025-02-22,Central,Home & Kitchen,Water Bottle,3,20.71,7.75,Consumer
+ORD01833,2025-09-12,East,Furniture,Standing Desk,1,413.2,259.02,Consumer
+ORD01834,2026-03-06,East,Home & Kitchen,Water Bottle,2,20.95,8.1,Consumer
+ORD01835,2025-02-28,East,Electronics,24-inch Monitor,4,210.6,156.19,Corporate
+ORD01836,2025-05-02,South,Office Supplies,Desk Organizer,4,26.53,10.02,Consumer
+ORD01837,2026-03-17,Central,Furniture,Desk Lamp,5,51.88,22.85,Consumer
+ORD01838,2026-01-21,Central,Accessories,Cable Organizer,1,16.19,4.76,Consumer
+ORD01839,2026-05-20,Central,Accessories,Cable Organizer,3,16.78,4.75,Small Business
+ORD01840,2025-05-17,South,Furniture,Office Chair,6,194.84,107.67,Small Business
+ORD01841,2025-12-05,North,Furniture,Bookshelf,2,159.17,90.63,Small Business
+ORD01842,2026-02-05,West,Furniture,Standing Desk,3,405.08,262.65,Consumer
+ORD01843,2025-10-19,North,Accessories,Laptop Stand,3,46.62,23.12,Consumer
+ORD01844,2026-05-24,West,Accessories,Laptop Stand,2,N/A,21.87,Corporate
+ORD01845,2026-04-09,South,Furniture,Desk Lamp,3,50.43,24.29,Consumer
+ORD01846,2025-11-13,West,Home & Kitchen,Electric Kettle,4,44.84,27.16,Consumer
+ORD01847,2025-06-01,North,Accessories,Laptop Stand,2,52.16,21.71,Consumer
+ORD01848,invalid_date,West,Office Supplies,Desk Organizer,1,26.54,10.37,Consumer
+ORD01849,2025-11-06,Central,Accessories,Backpack,4,67.13,30.92,Consumer
+ORD01850,2025-02-20,North,Office Supplies,Notebook Set,5,15.97,6.33,Small Business
+ORD01851,2025-11-28,East,Home & Kitchen,Water Bottle,8,22.57,8.6,Corporate
+ORD01852,2025-06-18,Central,Furniture,Office Chair,4,202.59,111.27,Consumer
+ORD01853,2025-09-03,East,Electronics,Mechanical Keyboard,3,93.62,50.1,Consumer
+ORD01854,2025-01-10,West,Home & Kitchen,Coffee Maker,11,94.49,53.22,Corporate
+ORD01855,2025-08-05,North,Home & Kitchen,Electric Kettle,10,50.68,28.02,Corporate
+ORD01856,2025-07-21,East,Accessories,Backpack,1,68.75,32.35,Small Business
+ORD01857,2026-04-13,North,Accessories,Cable Organizer,4,15.57,5.38,Consumer
+ORD01858,2026-03-04,Central,Electronics,USB-C Hub,4,41.98,20.11,Small Business
+ORD01859,2025-09-29,South,Furniture,Desk Lamp,2,52.0,23.85,Corporate
+ORD01860,2026-02-09,South,Accessories,Cable Organizer,1,14.47,5.28,Consumer
+ORD01861,2025-01-03,East,Furniture,Desk Lamp,5,49.3,24.54,Small Business
+ORD01862,2026-05-29,Central,Home & Kitchen,Coffee Maker,12,102.37,58.8,Corporate
+ORD01863,2025-08-07,East,Electronics,USB-C Hub,3,41.46,20.34,Corporate
+ORD01864,2025-07-01,East,Home & Kitchen,Storage Set,4,31.82,15.51,Consumer
+ORD01865,2025-04-12,North,Home & Kitchen,Coffee Maker,6,90.61,55.33,Corporate
+ORD01866,2025-06-15,Central,Office Supplies,Pen Pack,2,8.93,3.15,Consumer
+ORD01867,2025-03-12,North,Office Supplies,Desk Organizer,1,26.17,9.5,Consumer
+ORD01868,2025-10-04,Central,Furniture,Office Chair,4,182.69,113.69,Consumer
+ORD01869,2026-06-08,North,Accessories,Cable Organizer,6,16.16,4.98,Corporate
+ORD01870,2025-06-30,South,Electronics,24-inch Monitor,3,223.66,154.92,Consumer
+ORD01871,2025-03-06,North,Accessories,Laptop Stand,5,53.07,22.43,Consumer
+ORD01872,2025-01-31,South,Home & Kitchen,Storage Set,4,31.98,15.25,Consumer
+ORD01873,2025-06-21,North,Home & Kitchen,Electric Kettle,11,55.62,26.84,Corporate
+ORD01874,2026-04-14,South,Furniture,Desk Lamp,5,52.8,21.96,Corporate
+ORD01875,2025-12-30,North,Furniture,Office Chair,7,191.04,112.45,Corporate
+ORD01876,2025-03-29,North,Office Supplies,Pen Pack,5,9.29,2.9,Consumer
+ORD01877,2026-05-22,East,Furniture,Desk Lamp,7,45.31,24.27,Corporate
+ORD01878,2025-11-16,East,Office Supplies,Printer Paper,1,11.17,3.83,Consumer
+ORD01879,2026-01-24,Central,Furniture,Bookshelf,4,161.86,94.76,Consumer
+ORD01880,2026-05-26,South,Office Supplies,Notebook Set,1,14.8,5.92,Consumer
+ORD01881,2025-05-21,Central,Furniture,Office Chair,3,183.61,107.79,Corporate
+ORD01882,2025-11-22,Central,Office Supplies,Desk Organizer,2,22.51,9.6,Consumer
+ORD01883,2025-11-01,Central,Office Supplies,Notebook Set,3,15.9,6.29,Corporate
+ORD01884,2025-12-08,South,Home & Kitchen,Coffee Maker,1,80.31,60.08,Consumer
+ORD01885,2026-04-26,West,Home & Kitchen,Coffee Maker,1,92.42,57.5,Consumer
+ORD01886,2025-03-25,South,Accessories,Laptop Stand,5,51.95,21.2,Consumer
+ORD01887,2025-08-12,West,Electronics,USB-C Hub,5,36.77,19.06,Consumer
+ORD01888,2025-07-12,East,Accessories,Cable Organizer,4,14.43,5.18,Consumer
+ORD01889,2025-12-19,North,Furniture,Bookshelf,7,147.81,86.89,Small Business
+ORD01890,2025-09-19,West,Electronics,USB-C Hub,1,38.04,18.52,Consumer
+ORD01891,2025-07-08,West,Office Supplies,Printer Paper,12,10.67,4.17,Corporate
+ORD01892,2025-02-17,West,Furniture,Standing Desk,4,434.09,251.42,Corporate
+ORD01893,2025-01-03,West,Electronics,Webcam,2,72.19,38.78,Corporate
+ORD01894,2025-05-31,West,Home & Kitchen,Electric Kettle,7,51.22,28.1,Corporate
+ORD01895,2025-10-09,East,Accessories,Backpack,2,65.37,30.87,Consumer
+ORD01896,2026-05-16,Central,Furniture,Desk Lamp,3,44.19,23.24,Consumer
+ORD01897,2026-04-15,East,Electronics,Wireless Mouse,1,27.41,11.62,Consumer
+ORD01898,2026-03-13,West,Office Supplies,Printer Paper,5,10.26,4.04,Consumer
+ORD01899,2026-04-06,North,Office Supplies,Printer Paper,8,12.24,3.94,Small Business
+ORD01900,2026-03-25,Central,Home & Kitchen,Electric Kettle,2,54.55,28.0,Consumer
+ORD01901,2025-05-29,North,Accessories,Backpack,10,66.03,29.85,Corporate
+ORD01902,2026-02-18,North,Accessories,Cable Organizer,3,14.52,4.93,Corporate
+ORD01903,2026-05-24,Central,Furniture,Standing Desk,1,384.34,265.11,Consumer
+ORD01904,2025-12-16,North,Accessories,Cable Organizer,1,15.08,5.22,Consumer
+ORD01905,2026-02-16,West,Office Supplies,Printer Paper,6,10.33,4.05,Small Business
+ORD01906,2025-11-29,North,Furniture,Standing Desk,4,396.81,259.9,Consumer
+ORD01907,2025-03-20,North,Home & Kitchen,Coffee Maker,4,95.2,53.52,Small Business
+ORD01908,2025-03-16,North,Home & Kitchen,Water Bottle,8,23.4,7.83,Small Business
+ORD01909,2026-01-15,North,Furniture,Standing Desk,5,390.71,275.11,Consumer
+ORD01910,2025-08-03,North,Accessories,Cable Organizer,2,14.08,4.91,Small Business
+ORD01911,2025-09-04,North,Accessories,Backpack,10,64.83,32.5,Corporate
+ORD01912,2025-08-10,West,Electronics,USB-C Hub,2,35.63,,Small Business
+ORD01913,2025-01-01,East,Accessories,Cable Organizer,3,16.06,5.11,Consumer
+ORD01914,2025-04-10,Central,Furniture,Office Chair,12,180.38,108.91,Corporate
+ORD01915,2025-02-16,West,Furniture,Standing Desk,2,374.22,252.03,Consumer
+ORD01916,2025-08-20,West,Electronics,USB-C Hub,2,37.75,19.92,Consumer
+ORD01917,2025-06-07,West,Office Supplies,Pen Pack,3,9.13,2.85,Small Business
+ORD01918,2026-06-30,North,Office Supplies,Notebook Set,7,15.07,6.3,Small Business
+ORD01919,2025-06-07,East,Furniture,Office Chair,2,180.05,113.98,Consumer
+ORD01920,2026-06-28,Central,Accessories,Backpack,6,74.61,30.08,Small Business
+ORD01921,2025-08-09,Central,Accessories,Backpack,5,73.94,31.24,Consumer
+ORD01922,2025-08-08,Central,Office Supplies,Desk Organizer,2,23.02,9.88,
+ORD01923,2025-04-04,Central,Accessories,Cable Organizer,2,16.5,4.9,Consumer
+ORD01924,2026-05-06,South,Accessories,Laptop Stand,4,45.6,21.41,Corporate
+ORD01925,2025-09-04,Central,Furniture,Standing Desk,5,401.21,244.71,Consumer
+ORD01926,2025-03-27,South,Accessories,Backpack,3,66.11,31.66,Consumer
+ORD01927,2026-03-14,East,Furniture,Office Chair,3,199.91,109.61,Small Business
+ORD01928,2025-06-01,West,Electronics,Webcam,5,67.39,40.9,Consumer
+ORD01929,2025-10-10,Central,Home & Kitchen,Electric Kettle,1,55.8,29.44,Consumer
+ORD01930,2025-03-27,South,Electronics,Wireless Mouse,12,25.93,11.53,Corporate
+ORD01931,2025-04-11,East,Furniture,Desk Lamp,6,44.71,23.74,Small Business
+ORD01932,2025-06-03,Central,Accessories,Laptop Stand,1,52.87,22.34,Consumer
+ORD01933,2025-09-25,North,Office Supplies,Desk Organizer,2,24.96,10.25,Consumer
+ORD01934,2026-05-18,East,Home & Kitchen,Storage Set,4,32.47,15.74,Corporate
+ORD01935,2025-02-13,South,Accessories,Backpack,5,68.47,29.56,Consumer
+ORD01936,2025-01-03,West,Accessories,Laptop Stand,7,48.46,21.88,Small Business
+ORD01937,2026-06-27,North,Office Supplies,Desk Organizer,1,23.21,9.69,Consumer
+ORD01938,2025-11-26,South,Office Supplies,Printer Paper,3,11.18,4.21,Consumer
+ORD01939,2025-02-10,West,Electronics,Webcam,2,69.7,40.1,Consumer
+ORD01940,2026-04-17,West,Accessories,Backpack,2,73.06,32.59,Corporate
+ORD01941,2025-05-09,North,Accessories,Laptop Stand,1,54.18,23.37,Consumer
+ORD01942,2026-06-26,West,Office Supplies,Notebook Set,3,17.8,6.2,Consumer
+ORD01943,2026-05-26,Central,Accessories,Cable Organizer,2,14.93,5.25,Consumer
+ORD01944,2025-03-07,South,Accessories,Backpack,1,64.48,31.06,Consumer
+ORD01945,2026-06-19,East,Office Supplies,Printer Paper,6,11.02,3.88,Corporate
+ORD01946,2025-05-14,South,Furniture,Desk Lamp,10,48.3,22.16,Corporate
+ORD01947,2026-04-19,Central,Office Supplies,Notebook Set,5,17.75,6.19,Small Business
+ORD01948,2026-01-18,West,Furniture,Bookshelf,1,138.81,92.62,Small Business
+ORD01949,2025-07-11,South,Office Supplies,Desk Organizer,1,25.29,10.11,Small Business
+ORD01950,2025-10-14,Central,Office Supplies,Pen Pack,5,9.19,3.21,Consumer
+ORD01951,2026-01-13,South,Furniture,Office Chair,10,176.8,120.7,Corporate
+ORD01952,2026-04-22,West,Office Supplies,Printer Paper,12,11.63,3.82,Corporate
+ORD01953,2025-09-02,North,Electronics,24-inch Monitor,3,201.36,147.67,Consumer
+ORD01954,2025-05-06,South,Accessories,Cable Organizer,2,16.22,4.81,Consumer
+ORD01955,2026-06-23,East,Accessories,Cable Organizer,2,15.43,5.14,Small Business
+ORD01956,2025-04-04,West,Furniture,Standing Desk,2,369.31,263.6,Consumer
+ORD01957,2026-02-21,Central,Furniture,Office Chair,3,204.17,115.31,Corporate
+ORD01958,2025-12-02,Central,Accessories,Cable Organizer,5,15.92,5.26,Consumer
+ORD01959,2025-01-11,Central,Accessories,Laptop Stand,1,54.85,20.98,Consumer
+ORD01960,2026-03-01,North,Electronics,24-inch Monitor,5,215.2,138.0,Consumer
+ORD01961,2026-04-29,West,Home & Kitchen,Storage Set,3,36.88,15.41,Consumer
+ORD01962,2025-08-07,South,Home & Kitchen,Coffee Maker,7,89.94,53.62,Corporate
+ORD01963,2025-05-07,Central,Office Supplies,Notebook Set,11,15.64,6.12,Corporate
+ORD01964,2026-02-11,East,Furniture,Standing Desk,1,404.55,267.33,Consumer
+ORD01965,2025-06-24,West,Home & Kitchen,Electric Kettle,2,54.15,28.44,Consumer
+ORD01966,2026-04-08,South,Electronics,Mechanical Keyboard,1,79.77,51.43,Consumer
+ORD01967,2026-06-17,East,Office Supplies,Printer Paper,1,11.95,4.13,Small Business
+ORD01968,2026-05-20,Central,Office Supplies,Printer Paper,1,11.26,3.85,Consumer
+ORD01969,2025-01-19,Central,Furniture,Desk Lamp,1,49.15,22.46,Small Business
+ORD01970,2025-04-01,West,Home & Kitchen,Water Bottle,8,20.92,8.07,Corporate
+ORD01971,2025-04-13,Central,Office Supplies,Printer Paper,6,12.09,3.99,Corporate
+ORD01972,2026-03-23,East,Home & Kitchen,Electric Kettle,4,52.25,28.64,Consumer
+ORD01973,2026-06-22,Central,Furniture,Standing Desk,1,367.83,252.33,Consumer
+ORD01974,2026-06-25,Central,Accessories,Laptop Stand,7,48.0,22.26,Corporate
+ORD01975,2026-06-26,North,Accessories,Backpack,2,71.33,31.93,Consumer
+ORD01976,2025-04-15,West,Electronics,Wireless Mouse,1,26.03,11.47,Consumer
+ORD01977,2025-10-24,South,Office Supplies,Notebook Set,1,17.01,6.05,Consumer
+ORD01978,2026-02-17,West,Office Supplies,Printer Paper,11,12.19,4.02,Corporate
+ORD01979,2026-01-20,Central,Accessories,Backpack,10,71.29,32.51,Corporate
+ORD01980,2026-06-19,South,Home & Kitchen,Coffee Maker,3,98.41,57.84,Consumer
+ORD01981,2025-05-31,South,Accessories,Laptop Stand,1,52.65,23.44,Consumer
+ORD01982,2025-07-19,Central,Accessories,Backpack,2,65.08,32.59,Small Business
+ORD01983,2025-05-25,West,Furniture,Bookshelf,5,149.64,94.33,Consumer
+ORD01984,2026-04-30,North,Home & Kitchen,Coffee Maker,9,101.91,60.28,Corporate
+ORD01985,2025-06-28,West,Electronics,USB-C Hub,2,38.91,18.59,Consumer
+ORD01986,2025-09-07,Central,Accessories,Cable Organizer,5,16.07,5.29,Consumer
+ORD01987,2025-12-19,Central,Office Supplies,Notebook Set,2,17.09,6.4,Small Business
+ORD01988,2025-01-31,East,Home & Kitchen,Storage Set,3,34.04,15.74,Small Business
+ORD01989,2025-05-31,East,Accessories,Backpack,5,67.76,30.97,Consumer
+ORD01990,2025-08-10,North,Home & Kitchen,Coffee Maker,4,89.27,59.25,Consumer
+ORD01991,2026-06-26,South,Furniture,Standing Desk,1,378.45,248.62,Consumer
+ORD01992,2025-06-02,South,Office Supplies,Pen Pack,6,9.81,2.96,Corporate
+ORD01993,2025-06-18,East,Electronics,Wireless Mouse,1,26.34,12.2,Consumer
+ORD01994,2026-02-03,North,Accessories,Cable Organizer,4,15.31,4.8,Consumer
+ORD01995,2025-01-27,North,Furniture,Bookshelf,5,135.02,91.02,Consumer
+ORD01996,2025-03-16,Central,Electronics,24-inch Monitor,4,210.33,141.09,Consumer
+ORD01997,2026-03-30,West,Accessories,Laptop Stand,2,52.23,21.53,Corporate
+ORD01998,2025-01-18,Central,Office Supplies,Desk Organizer,5,23.43,9.71,Consumer
+ORD01999,2026-02-17,West,Home & Kitchen,Electric Kettle,2,54.04,27.85,Consumer
+ORD02000,2026-05-19,West,Accessories,Laptop Stand,7,54.13,23.71,Small Business
+ORD01951,2026-01-13,South,Furniture,Office Chair,10,176.8,120.7,Corporate
+ORD01886,2025-03-25,South,Accessories,Laptop Stand,5,51.95,21.2,Consumer
+ORD01465,2025-02-07,East,Electronics,24-inch Monitor,2,196.73,139.53,Consumer
+ORD00330,2025-09-13,North,Furniture,Standing Desk,2,418.19,264.67,Consumer
+ORD01531,2026-05-14,West,Home & Kitchen,Water Bottle,1,24.26,8.13,Small Business
+ORD01622,2026-02-18,North,Home & Kitchen,Electric Kettle,4,56.27,29.91,Consumer
+ORD00905,2026-01-03,Central,Electronics,Wireless Mouse,2,23.87,12.74,Consumer
+ORD01220,2026-02-10,North,Home & Kitchen,Water Bottle,2,22.47,7.88,Consumer
+ORD01895,2025-10-09,East,Accessories,Backpack,2,65.37,30.87,Consumer
+ORD00364,2025-01-02,West,Electronics,24-inch Monitor,3,197.57,147.74,Consumer
+ORD01934,2026-05-18,East,Home & Kitchen,Storage Set,4,32.47,15.74,Corporate
+ORD01031,2026-04-15,South,Home & Kitchen,Electric Kettle,6,54.6,27.94,Corporate
+ORD01353,2025-11-17,East,Accessories,Laptop Stand,10,52.44,22.94,Corporate
+ORD00361,2026-04-22,Central,Home & Kitchen,Coffee Maker,6,93.62,57.23,Corporate
+ORD00076,2026-03-20,Central,Home & Kitchen,Coffee Maker,9,100.84,56.37,Corporate
+ORD00225,2025-12-02,Central,Furniture,Standing Desk,4,405.51,266.76,Consumer
+ORD00048,2025-07-17,South,Furniture,Office Chair,1,205.97,110.46,Consumer
+ORD00351,2025-03-22,East,Electronics,24-inch Monitor,2,215.73,145.12,Consumer
+ORD00971,2025-11-05,West,Home & Kitchen,Coffee Maker,1,93.2,57.27,Consumer
+ORD01401,2025-03-27,North,Home & Kitchen,Electric Kettle,9,53.28,29.66,Corporate
+ORD01679,2025-04-04,West,Electronics,Mechanical Keyboard,4,91.66,47.05,Consumer
+ORD00859,2026-03-16,West,Electronics,USB-C Hub,3,36.25,19.45,Consumer
