@@ -128,7 +128,7 @@ These insights update dynamically whenever the dashboard filters change.
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/niisa0/business-analytics-platform.git
 cd business-analytics-platform
 ```
 
